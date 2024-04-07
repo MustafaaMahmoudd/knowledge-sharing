@@ -1,0 +1,25 @@
+doctype html
+head
+    meta(charset='UTF-8')
+    meta(name='viewport' content='width=device-width, initial-scale=1.0')
+    link(rel='stylesheet' href='./style.css')
+    link(rel='preconnect' href='https://fonts.googleapis.com')
+    link(rel='preconnect' href='https://fonts.gstatic.com' crossorigin='')
+    link(href='https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap' rel='stylesheet')
+    include _articlesStyle
+    title Document
+    each sub in articles
+        .container
+            .header
+                .user-content
+                    img.image(src=`${sub.user.photo}`)
+                    span.name #{sub.user.name}
+                    span.title 
+                .bullets
+            .content
+                h2 #{sub.title}
+                p
+                    | #{sub.body}
+            - const date=sub.publishedAt.toLocaleString('en-us',{month:'long',year:'numeric'})
+            span.published-at=`Published at: ${date}`
+        br
