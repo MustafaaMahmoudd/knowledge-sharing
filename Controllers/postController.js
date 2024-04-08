@@ -3,7 +3,10 @@ const Post = require('../Models/postsModel');
 const catchAsync = require('../utilities/catchAsync');
 
 exports.getAllPosts = catchAsync(async (req, res, next) => {
-  const posts = await Post.find();
+  const posts = await Post.find().populate({
+    path: 'comments',
+    select:'body users'
+  });
   posts.forEach((el) => {
     // Check if the photo URL already contains the base URL
     if (!el.user.photo.startsWith(`${req.protocol}://${req.get('host')}`)) {
@@ -11,6 +14,19 @@ exports.getAllPosts = catchAsync(async (req, res, next) => {
       el.user.photo = `${req.protocol}://${req.get('host')}/img/users/${
         el.user.photo
       }`;
+    }
+    if (el.comments.length > 0) {
+      el.comments.forEach((comment) => {
+        if (
+          !comment.users.photo.startsWith(
+            `${req.protocol}://${req.get('host')}`
+          )
+        ) {
+          comment.users.photo = `${req.protocol}://${req.get(
+            'host'
+          )}/img/users/${comment.users.photo}`;
+        }
+      });
     }
   });
   res.status(200).json({
@@ -38,7 +54,7 @@ exports.deletePost = catchAsync(async (req, res, next) => {
     await Post.deleteOne({ _id: post._id });
     return res.status(200).json({
       status: 'success',
-      message: 'deleted successfully',
+      message: ' post deleted successfully',
     });
   } else {
     return next(new AppError('This is not your post to delete', 403));

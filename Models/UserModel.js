@@ -4,6 +4,7 @@ const crypto = require('crypto');
 const validator = require('validator');
 const Article = require('./articleModel');
 const Post = require('./postsModel');
+const Comment = require('./commentsModel');
 
 const userSchema = new mongoose.Schema(
   {
@@ -125,8 +126,23 @@ userSchema.methods.changedPasswordAfter = function (currentJwtTimeStamp) {
 userSchema.statics.deleteArticlesRelatedToDeletedUser = async function (
   userId
 ) {
-  await Article.deleteMany({ user: userId });
-  await Post.deleteMany({ user: userId });
+  const Articles=await Articles.find({user:userId})
+  if(Articles){
+    await Article.deleteMany({ user: userId })
+  }
+  const posts = await Post.find({ user: userId });
+  if (posts) {
+    await Promise.all(
+      posts.map(async (post) => {
+        await Comment.deleteMany({ posts: post._id });
+      })
+    );
+    await Post.deleteMany({ user: userId });
+  }
+  const comments=await Comment.find({user:userId})
+  if(comments){
+    await Comment.deleteMany({ user: userId });
+  }
 };
 
 userSchema.post(/^findOneAndDelete/, async function (doc) {
