@@ -74,7 +74,6 @@ exports.signUp = catchAsync(async (req, res, next) => {
     await newUser.save({ validateBeforeSave: false });
   }
   if (req.file) {
-    console.log(req.file);
     newUser.file = req.file.filename;
     await newUser.save({ validateBeforeSave: false });
   }
