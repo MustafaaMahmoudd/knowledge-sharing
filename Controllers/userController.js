@@ -1,9 +1,13 @@
 const User = require('../Models/UserModel');
+const Article = require('../Models/articleModel');
+const Post = require('../Models/postsModel');
+const Comment = require('../Models/commentsModel');
 const { find, deleteMany } = require('../Models/articleModel');
 const App = require('../utilities/AppErrors');
 const AppError = require('../utilities/AppErrors');
 const catchAsync = require('../utilities/catchAsync');
 const multer = require('multer');
+const mongoose = require('mongoose');
 const sharp = require('sharp');
 
 exports.getAllUsers = catchAsync(async (req, res, next) => {
@@ -35,11 +39,58 @@ exports.getAllUnverifiedExperts = catchAsync(async (req, res, next) => {
 });
 
 exports.deleteUser = catchAsync(async (req, res, next) => {
-  await User.findByIdAndDelete(req.params.id);
-  res.status(200).json({
-    status: 'success',
-    message: 'deleted successfully',
-  });
+  const sessionOne = await mongoose.startSession();
+  const user = await User.findOne({ _id: req.params.id });
+  if (user.role === 'Doctor' || user.role === 'Software-engineer') {
+    sessionOne.startTransaction();
+    try {
+      await User.findByIdAndDelete(req.params.id).session(sessionOne);
+      await Article.deleteMany({ user: req.params.id }).session(sessionOne);
+      await sessionOne.commitTransaction();
+      sessionOne.endSession();
+      res.status(200).json({
+        status: 'success',
+        message: 'user deleted successfully',
+      });
+    } catch (err) {
+      await sessionOne.abortTransaction();
+      sessionOne.endSession();
+      res.status(500).json({
+        status: 'failed',
+        message: err,
+      });
+    }
+  } else if (user.role === 'Beginner') {
+    sessionOne.startTransaction();
+    try {
+      const Posts = await Post.find({ user: req.params.id }).session(
+        sessionOne
+      );
+
+      // Delete all comments associated with each post
+      for (const post of Posts) {
+        await Comment.deleteMany({ posts: post._id }).session(sessionOne);
+      }
+
+      // Delete the user and all associated posts within a transaction
+      await User.findByIdAndDelete(req.params.id).session(sessionOne);
+      await Post.deleteMany({ user: req.params.id }).session(sessionOne);
+
+      // Commit the transaction if all operations are successful
+      await sessionOne.commitTransaction();
+      sessionOne.endSession();
+      res.status(200).json({
+        status: 'success',
+        message: 'user deleted successfully',
+      });
+    } catch (err) {
+      await sessionOne.abortTransaction();
+      res.status(500).json({
+        status: 'failed',
+        message: err,
+      });
+    }
+  }
 });
 
 const multerStorage = multer.memoryStorage();
@@ -127,9 +178,6 @@ exports.updateMe = catchAsync(async (req, res, next) => {
     },
   });
 });
-
-
-
 
 exports.getOne = catchAsync(async (req, res, next) => {
   const user = await User.findOne({ _id: req.params.id }).populate({

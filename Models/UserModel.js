@@ -145,8 +145,8 @@ userSchema.statics.deleteArticlesRelatedToDeletedUser = async function (
   }
 };
 
-userSchema.post(/^findOneAndDelete/, async function (doc) {
-  await doc.constructor.deleteArticlesRelatedToDeletedUser(doc._id);
-});
+// userSchema.post(/^findOneAndDelete/, async function (doc) {
+//   await doc.constructor.deleteArticlesRelatedToDeletedUser(doc._id);
+// });
 const User = mongoose.model('User', userSchema);
 module.exports = User;

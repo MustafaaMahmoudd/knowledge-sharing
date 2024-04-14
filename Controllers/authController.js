@@ -85,6 +85,7 @@ exports.signUp = catchAsync(async (req, res, next) => {
     'Verify Your Account'
   );
   res.status(201).json({
+    status:"success",
     newUser,
   });
 });
