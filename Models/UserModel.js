@@ -123,27 +123,27 @@ userSchema.methods.changedPasswordAfter = function (currentJwtTimeStamp) {
   return false;
 };
 
-userSchema.statics.deleteArticlesRelatedToDeletedUser = async function (
-  userId
-) {
-  const Articles=await Articles.find({user:userId})
-  if(Articles){
-    await Article.deleteMany({ user: userId })
-  }
-  const posts = await Post.find({ user: userId });
-  if (posts) {
-    await Promise.all(
-      posts.map(async (post) => {
-        await Comment.deleteMany({ posts: post._id });
-      })
-    );
-    await Post.deleteMany({ user: userId });
-  }
-  const comments=await Comment.find({user:userId})
-  if(comments){
-    await Comment.deleteMany({ user: userId });
-  }
-};
+// userSchema.statics.deleteArticlesRelatedToDeletedUser = async function (
+//   userId
+// ) {
+//   const Articles=await Articles.find({user:userId})
+//   if(Articles){
+//     await Article.deleteMany({ user: userId })
+//   }
+//   const posts = await Post.find({ user: userId });
+//   if (posts) {
+//     await Promise.all(
+//       posts.map(async (post) => {
+//         await Comment.deleteMany({ posts: post._id });
+//       })
+//     );
+//     await Post.deleteMany({ user: userId });
+//   }
+//   const comments=await Comment.find({user:userId})
+//   if(comments){
+//     await Comment.deleteMany({ user: userId });
+//   }
+// };
 
 // userSchema.post(/^findOneAndDelete/, async function (doc) {
 //   await doc.constructor.deleteArticlesRelatedToDeletedUser(doc._id);
