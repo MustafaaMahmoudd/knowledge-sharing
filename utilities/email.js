@@ -24,6 +24,14 @@ module.exports = class Email {
         },
       });
     }
+
+    return nodemailer.createTransport({
+      service: 'Gmail',
+      auth: {
+        user: process.env.GMAIL_USER,
+        pass: process.env.GMAIL_PASS,
+      },
+    });
   }
   async sendConfirmationCode(template, subject) {
     const html = pug.renderFile(`${__dirname}/../views/${template}.pug`, {
@@ -45,9 +53,10 @@ module.exports = class Email {
 
   async sendArticles(req, subject, template, articles, emails) {
     let mailOptions;
-    for(const el of articles){
+    for (const el of articles) {
       el.user.photo = `${req.protocol}://${req.get('host')}/img/users/${
-        el.user.photo}`
+        el.user.photo
+      }`;
     }
     // console.log(articles);
     const html = pug.renderFile(`${__dirname}/../views/${template}.pug`, {

@@ -19,6 +19,8 @@ app.use(cors());
 
 app.options('*', cors());
 
+console.log(process.env.NODE_ENV)
+
 // app.use(helmet());
 
 app.use(express.static(path.join(__dirname, 'public')));
