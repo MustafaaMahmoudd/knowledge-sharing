@@ -7,7 +7,7 @@ Router.route('/')
   .get(articleController.getAllArticles)
   .post(
     authController.protect,
-    authController.restrictTo('Doctor','Software-engineer'),
+    authController.restrictTo('Doctor', 'Software-engineer'),
     articleController.createArticle
   );
 
@@ -20,8 +20,7 @@ Router.patch(
 Router.delete(
   '/:id',
   authController.protect,
-  authController.restrictTo('Doctor', 'Software-engineer','Admin'),
+  authController.restrictTo('Doctor', 'Software-engineer', 'Admin'),
   articleController.deleteArticle
 );
-
 module.exports = Router;

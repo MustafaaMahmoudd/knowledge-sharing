@@ -98,7 +98,7 @@ exports.sendArticles = catchAsync(async (req, res, next) => {
         articles,
         ar.emails
       );
-      Article.updateMany({track:ar._id},{$set:{send:true}})
+      await Article.updateMany({track:ar._id},{$set:{send:true}})
   }
   // });
   res.status(200).json({
