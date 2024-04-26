@@ -2,6 +2,7 @@ const Article = require('../Models/articleModel');
 const catchAsync = require('../utilities/catchAsync');
 const AppError = require('../utilities/AppErrors');
 const Email = require('../utilities/email');
+const { publicDecrypt } = require('crypto');
 
 exports.getAllArticles = catchAsync(async (req, res, next) => {
   if (!req.track) {
@@ -79,7 +80,7 @@ exports.sendArticles = catchAsync(async (req, res, next) => {
   let ar;
   for (ar of req.fields) {
     console.log(ar.emails);
-    articles = await Article.find({ track: ar._id });
+    articles = await Article.find({ track: ar._id,send:false});
     console.log(articles);
     let el;
 
@@ -97,6 +98,7 @@ exports.sendArticles = catchAsync(async (req, res, next) => {
         articles,
         ar.emails
       );
+      Article.updateMany({track:ar._id},{$set:{send:true}})
   }
   // });
   res.status(200).json({
