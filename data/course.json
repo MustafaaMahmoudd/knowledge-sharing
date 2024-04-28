@@ -1,0 +1,1011 @@
+[
+  {
+    "courseName": "HTML Crash Course",
+    "instructorName": "Brad Traversy",
+    "sub_track": "662d64169f8ebb6b2e85ee4c",
+    "description": "Learn the basics of HTML and build your first website. Perfect for beginners.",
+    "link": "https://www.youtube.com/watch?v=UB1O30fR-EE"
+  },
+  {
+    "courseName": "HTML5 and CSS3 Fundamentals",
+    "instructorName": "Jonas Schmedtmann",
+    "sub_track": "662d64169f8ebb6b2e85ee4c",
+    "description": "Master the latest HTML5 and CSS3 techniques and create responsive websites.",
+    "link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/"
+  },
+  {
+    "courseName": "The Complete Web Developer Course",
+    "instructorName": "Rob Percival",
+    "sub_track": "662d64169f8ebb6b2e85ee4c",
+    "description": "Learn HTML, CSS, JavaScript, and more in this comprehensive web development course.",
+    "link": "https://www.udemy.com/course/the-complete-web-developer-course-2/"
+  },
+  {
+    "courseName": "CSS - The Complete Guide 2021 (incl. Flexbox, Grid & Sass)",
+    "instructorName": "Maximilian Schwarzmüller",
+    "sub_track":"662d64169f8ebb6b2e85ee4d",
+    "description": "Master CSS and learn advanced techniques like Flexbox, Grid, and Sass.",
+    "link": "https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/"
+  },
+  {
+    "courseName": "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
+    "instructorName": "Jonas Schmedtmann",
+    "sub_track":"662d64169f8ebb6b2e85ee4d",
+    "description": "Take your CSS skills to the next level with Flexbox, Grid, animations, and more.",
+    "link": "https://www.udemy.com/course/advanced-css-and-sass/"
+  },
+  {
+    "courseName": "HTML and CSS for Beginners - Build a Website & Launch ONLINE",
+    "instructorName": "Edwin Diaz",
+    "sub_track":"662d64169f8ebb6b2e85ee4d",
+    "description": "HTML and CSS for Beginners course will give your all the knowledge you need to master HTML and CSS easily and quickly.",
+    "link": "https://www.udemy.com/course/html-and-css-for-beginners-crash-course-learn-fast-easy"
+  },
+  {
+    "courseName": "JavaScript - The Complete Guide 2021 (Beginner + Advanced)",
+    "instructorName": "Maximilian Schwarzmüller",
+    "sub_track":"662d64169f8ebb6b2e85ee4e",
+    "description": "Master JavaScript from beginner to advanced level and build real-world projects.",
+    "link": "https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/"
+  },
+  {
+    "courseName": "The Modern JavaScript Bootcamp",
+    "instructorName": "Andrew Mead",
+    "sub_track":"662d64169f8ebb6b2e85ee4e",
+    "description": "Learn JavaScript by building real-world applications and enhance your skills.",
+    "link": "https://www.udemy.com/course/modern-javascript/"
+  },
+  {
+    "courseName": "JavaScript: Understanding the Weird Parts",
+    "instructorName": "Anthony Alicea",
+    "sub_track":"662d64169f8ebb6b2e85ee4e",
+    "description": "Dive deep into JavaScript and understand its unique features and quirks.",
+    "link": "https://www.udemy.com/course/understand-javascript/"
+  },
+  {
+    "courseName": "Prompt Engineering Specialization",
+    "instructorName": "Dr. Jules White",
+    "sub_track":"662d64169f8ebb6b2e85ee4f",
+    "description": "Master prompt engineering patterns, techniques, and approaches to effectively leverage Generative AI.",
+    "link": "https://www.coursera.org/specializations/prompt-engineering"
+  },
+  {
+    "courseName": "Prompt Engineering for ChatGPT",
+    "instructorName": "Dr. Jules White",
+    "sub_track":"662d64169f8ebb6b2e85ee4f",
+    "description": "Learn how to apply prompt engineering to effectively work with large language models, like ChatGPT.",
+    "link": "https://www.coursera.org/learn/prompt-engineering"
+  },
+  {
+    "courseName": "Machine Learning Engineering for Production (MLOps)",
+    "instructorName": "DeepLearning.AI",
+    "sub_track":"662d64169f8ebb6b2e85ee4f",
+    "description": "Learn how to use Generative AI to automate tasks, increase productivity, and augment human intelligence.",
+    "link": "https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops"
+  },
+  {
+    "courseName": "Git Complete: The Definitive Guide",
+    "instructorName": "Jason Taylor",
+    "sub_track":"662d64169f8ebb6b2e85ee50",
+    "description": "Learn Git, a popular version control system, and how to effectively collaborate on software projects using GitHub.",
+    "link": "https://www.udemy.com/course/git-complete"
+  },
+  {
+    "courseName": "Mastering Git and GitHub",
+    "instructorName": "John O'Connor",
+    "sub_track":"662d64169f8ebb6b2e85ee50",
+    "description": "Become a Git and GitHub expert and learn advanced version control techniques.",
+    "link": "https://www.udemy.com/course/mastering-git-and-github/?couponCode=KEEPLEARNING"
+  },
+  {
+    "courseName": "Git & GitHub Complete Masterclass : Beginner to Git Expert",
+    "instructorName": "Bibhash Roy",
+    "sub_track":"662d64169f8ebb6b2e85ee50",
+    "description": "Most comprehensive, STEP by STEP Git & GitHub tutorial with great & easy to understand examples and Quizzes.",
+    "link": "https://www.udemy.com/course/git-basic-concept-fundamentals-github"
+  },
+  {
+    "courseName": "Web Security Academy: Free Online Training from PortSwigger",
+    "instructorName": "PortSwigger",
+    "sub_track":"662d64169f8ebb6b2e85ee53",
+    "description": "Free, online web security training from the creators of Burp Suite. The Web Security Academy is a strong step toward a career in cybersecurity.",
+    "link": "https://portswigger.net/web-security"
+  },
+  {
+    "courseName": "Cybersecurity Courses Online with Certificates",
+    "instructorName": "Coursera",
+    "sub_track":"662d64169f8ebb6b2e85ee53",
+    "description": "The cybersecurity courses we offer are designed to help prepare you for a career in network security, ethical hacking, information assurance, and digital forensics.",
+    "link": "https://www.coursera.org/courses?query=cybersecurity"
+  },
+  {
+    "courseName": "Online Cybersecurity Courses and Programs",
+    "instructorName": "edX",
+    "sub_track":"662d64169f8ebb6b2e85ee53",
+    "description": "Explore free cybersecurity courses and more.",
+    "link": "https://www.edx.org/learn/cybersecurity"
+  },
+  {
+    "courseName": "The Node.js Developer Course",
+    "instructorName": "Andrew Mead, Rob Percival",
+    "sub_track":"662d64169f8ebb6b2e85ee56",
+    "description": "Learn Node.js and build real-world applications with Express.js, MongoDB, Jest, and more.",
+    "link": "https://www.udemy.com/course/the-complete-nodejs-developer-course-2/"
+  },
+  {
+    "courseName": "The Complete JavaScript Course 2021: From Zero to Expert!",
+    "instructorName": "Jonas Schmedtmann",
+    "sub_track":"662d64169f8ebb6b2e85ee56",
+    "description": "Master JavaScript with the most complete course on the market! Projects, challenges, quizzes, JavaScript ES6+.",
+    "link": "https://www.udemy.com/course/the-complete-javascript-course/"
+  },
+  {
+    "courseName": "Node.js, Express, MongoDB & More: The Complete Bootcamp 2021",
+    "instructorName": "Jonas Schmedtmann",
+    "sub_track":"662d64169f8ebb6b2e85ee56",
+    "description": "Master Node.js, build RESTful APIs with Express, MongoDB, Mongoose, and learn to deploy with Heroku!",
+    "link": "https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/"
+  },
+  {
+    "courseName": "Sass Tutorial for Beginners",
+    "instructorName": "freeCodeCamp",
+    "sub_track":"662d64169f8ebb6b2e85ee59",
+    "description": "Learn Sass from scratch and create more maintainable and efficient CSS.",
+    "link": "https://www.youtube.com/watch?v=_a5j7KoflTs"
+  },
+  {
+    "courseName": " Less CSS Pre-Processor Tutorial ",
+    "instructorName": " Traversy Media ",
+    "sub_track":"662d64169f8ebb6b2e85ee59",
+    "description": "Learn Less CSS preprocessor and enhance your CSS workflow.",
+    "link": "https://www.youtube.com/watch?v=YD91G8DdUsw"
+  },
+  {
+    "courseName": "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
+    "instructorName": "Jonas Schmedtmann",
+    "sub_track":"662d64169f8ebb6b2e85ee59",
+    "description": "Master CSS Grid, Flexbox, animations, responsive design, and more with Sass.",
+    "link": "https://www.udemy.com/course/advanced-css-and-sass/"
+  },
+  {
+    "courseName": "ESLint Complete Course Tutorial Guide",
+    "instructorName": "Leela Web Dev",
+    "sub_track":"662d64169f8ebb6b2e85ee5c",
+    "description": "Learn how to use ESLint to enforce coding standards and catch errors in your JavaScript code.",
+    "link": "https://www.youtube.com/playlist?list=PL_euSNU_eLbeVd_eDmWzUpEmXizWQRmEm"
+  },
+  {
+    "courseName": "How to use Prettier in VS Code - Code Formatting",
+    "instructorName": "Coding With Adam",
+    "sub_track":"662d64169f8ebb6b2e85ee5c",
+    "description": "Learn how to use Prettier to automatically format your code and improve code consistency.",
+    "link": "https://www.youtube.com/watch?v=__eiQumLOEo"
+  },
+  {
+    "courseName": "Visual Studio Code for Developers 2024: Beginner to Advanced",
+    "instructorName": "Estefania Cassingena Navone",
+    "sub_track":"662d64169f8ebb6b2e85ee5c",
+    "description": "Learn Visual Studio Code, Extensions, Shortcuts, Version Control, Debugging, Jupyter Notebooks, Markdown, and More.",
+    "link": "https://www.udemy.com/course/learn-visual-studio-code-vscode-course/"
+  },
+  {
+    "courseName": "Webpack 5: The Complete Guide For Beginners",
+    "instructorName": "Viktor Pyskunov",
+    "sub_track":"662d64169f8ebb6b2e85ee5f",
+    "description": "Learn Webpack 5 from the very basics to advanced! Use Webpack with JS, CSS, NPM, Module Federation and Micro Frontends.",
+    "link": "https://www.udemy.com/course/webpack-from-beginner-to-advanced/"
+  },
+  {
+    "courseName": "Learn Gulp, The Streaming Build System",
+    "instructorName": "Daniel Stern",
+    "sub_track":"662d64169f8ebb6b2e85ee5f",
+    "description": "Automate all your front-end tasks with ease and become a Gulp Guru in this workshop-filled course!",
+    "link": "https://www.udemy.com/course/gulp-101/"
+  },
+  {
+    "courseName": "GRUNT js: Automate web development tasks and save your time",
+    "instructorName": "Arkadiusz Włodarczyk",
+    "sub_track":"662d64169f8ebb6b2e85ee5f",
+    "description": "Save time automating web development tasks like compressing CSS/JS files on fly. Set Grunt and enjoy your free time!",
+    "link": "https://www.udemy.com/course/gruntjs-automate-web-development-tasks-and-save-your-time/"
+  },
+  {
+    "courseName": "Understanding TypeScript - 2021 Edition",
+    "instructorName": "Maximilian Schwarzmüller",
+    "sub_track":"662d64169f8ebb6b2e85ee62",
+    "description": "Learn TypeScript from scratch and build large-scale applications with ease",
+    "link": "https://www.udemy.com/course/understanding-typescript/"
+  },
+  {
+    "courseName": "TypeScript: The Complete Developer's Guide",
+    "instructorName": "Stephen Grider",
+    "sub_track":"662d64169f8ebb6b2e85ee62",
+    "description": "Master TypeScript and build great web applications with confidence",
+    "link": "https://www.udemy.com/course/typescript-the-complete-developers-guide/"
+  },
+  {
+    "courseName": "Typescript Bootcamp: Beginner To Advanced ",
+    "instructorName": "Angular University",
+    "sub_track":"662d64169f8ebb6b2e85ee62",
+    "description": "Learn Typescript theory in depth, then apply it in practical projects: Node REST API with Express, TypeORM and more",
+    "link": "https://www.udemy.com/course/complete-typescript-2-course/"
+  },
+  {
+    "courseName": "Advanced CSS and Sass: Flexbox, Grid, Animations and More",
+    "instructorName": "Jonas Schmedtmann",
+    "sub_track":"662d64169f8ebb6b2e85ee63",
+    "description": "The most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more.",
+    "link": "https://www.udemy.com/course/advanced-css-and-sass/"
+  },
+  {
+    "courseName": "Modern CSS Solutions",
+    "instructorName": "Stephanie Eckles",
+    "sub_track":"662d64169f8ebb6b2e85ee63",
+    "description": "Modern CSS Solutions for Old CSS Problems. Learn and Practice Modern CSS.",
+    "link": "https://moderncss.dev/"
+  },
+  {
+    "courseName": "Advanced HTML and CSS Concepts",
+    "instructorName": "codedamn",
+    "sub_track":"662d64169f8ebb6b2e85ee63",
+    "description": "Advanced CSS3, CSS Media Queries, CSS Animations, and Projects.",
+    "link": "https://codedamn.com/learn/advanced-html-css"
+  },
+  {
+    "courseName": "Bootstrap 5 From Scratch | Build 5 Modern Websites",
+    "instructorName": "Brad Traversy",
+    "sub_track":"662d64169f8ebb6b2e85ee66",
+    "description": "Learn to build great looking layouts fast and efficiently using Bootstrap CSS utility classes.",
+    "link": "https://www.udemy.com/course/bootstrap-from-scratch"
+  },
+  {
+    "courseName": "Bulma CSS Framework - complete tutorial",
+    "instructorName": "freeCodeCamp",
+    "sub_track":"662d64169f8ebb6b2e85ee66",
+    "description": "Learn Bulma with online courses delivered through edX.",
+    "link": "https://www.youtube.com/watch?v=LBzZLzu2GKo"
+  },
+  {
+    "courseName": "Tailwind CSS Full Course for Beginners",
+    "instructorName": "Dave Gray",
+    "sub_track":"662d64169f8ebb6b2e85ee66",
+    "description": "Get a rapid introduction to Tailwind, the utility-first CSS framework, and start building sites with it today!",
+    "link": "https://www.youtube.com/watch?v=lCxcTsOHrjo"
+  },
+  {
+    "courseName": "React - The Complete Guide (incl. React Router, Redux)",
+    "instructorName": "Maximilian Schwarzmüller",
+    "sub_track":"662d64169f8ebb6b2e85ee6a",
+    "description": "Master React and its ecosystem, including React Router and Redux, to build powerful server-side rendered applications.",
+    "link": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/"
+  },
+  {
+    "courseName": "Vue - The Complete Guide (w/ Router, Vuex, Composition API)",
+    "instructorName": "Maximilian Schwarzmüller",
+    "sub_track":"662d64169f8ebb6b2e85ee6a",
+    "description": "Learn Vue.js and its core features, including Vue Router, Vuex, and the Composition API, to create server-side rendered applications.",
+    "link": "https://www.udemy.com/course/vuejs-2-the-complete-guide/"
+  },
+  {
+    "courseName": "Angular - The Complete Guide (2021 Edition)",
+    "instructorName": "Maximilian Schwarzmüller",
+    "sub_track":"662d64169f8ebb6b2e85ee6a",
+    "description": "Become an expert in Angular and build server-side rendered applications using Angular's powerful features.",
+    "link": "https://www.udemy.com/course/the-complete-guide-to-angular-2/"
+  },
+  {
+    "courseName": "C# Programming Yellow Book",
+    "instructorName": "Rob Miles",
+    "sub_track":"662d64169f8ebb6b2e85ee6e",
+    "description": "Learn C# from scratch and understand fundamentals with a heavy emphasis on practical applications.",
+    "link": "http://www.csharpcourse.com/"
+  },
+  {
+    "courseName": "Python for Everybody",
+    "instructorName": "Dr. Charles Severance",
+    "sub_track":"662d64169f8ebb6b2e85ee6e",
+    "description": "Learn Python from scratch, understand its syntax and learn how to solve problems using Python.",
+    "link": "https://www.py4e.com/"
+  },
+  {
+    "courseName": "PHP for Beginners",
+    "instructorName": "Edwin Diaz",
+    "sub_track":"662d64169f8ebb6b2e85ee6e",
+    "description": "Learn PHP from scratch and understand how to build dynamic web applications using PHP.",
+    "link": "https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/"
+  },
+  {
+    "courseName": "The Complete JavaScript Course 2021: From Zero to Expert!",
+    "instructorName": "Jonas Schmedtmann",
+    "sub_track":"662d64169f8ebb6b2e85ee6e",
+    "description": "Master JavaScript with the most complete course on the market! Projects, challenges, quizzes, JavaScript ES6+.",
+    "link": "https://www.udemy.com/course/the-complete-javascript-course/"
+  },
+  {
+    "courseName": "Visual Studio Code Crash Course",
+    "instructorName": "James Quick",
+    "sub_track":"662d64169f8ebb6b2e85ee73",
+    "description": "Learn how to use Visual Studio Code for web development, Python development, and more.",
+    "link": "https://www.youtube.com/watch?v=WPqXP_kLzpo"
+  },
+  {
+    "courseName": "Git & GitHub Crash Course",
+    "instructorName": "Brad Traversy",
+    "sub_track":"662d64169f8ebb6b2e85ee73",
+    "description": "Learn Git, a popular version control system, and how to effectively collaborate on software projects using GitHub.",
+    "link": "https://www.youtube.com/watch?v=SWYqp7iY_Tc"
+  },
+  {
+    "courseName": "Mastering JavaScript Unit Testing",
+    "instructorName": "Mosh Hamedani",
+    "sub_track":"662d64169f8ebb6b2e85ee73",
+    "description": "Learn how to write unit tests for your JavaScript applications using popular frameworks and libraries.",
+    "link": "https://members.codewithmosh.com/p/mastering-javascript-unit-testing"
+  },
+  {
+    "courseName": "Linux for Developers",
+    "instructorName": "The Linux Foundation",
+    "sub_track":"662d64169f8ebb6b2e85ee76",
+    "description": "Learn how to develop for Linux, and learn about the tools and techniques you'll need to get started.",
+    "link": "https://training.linuxfoundation.org"
+  },
+  {
+    "courseName": "Linux Basics: The Command Line Interface",
+    "instructorName": "DartmouthX",
+    "sub_track":"662d64169f8ebb6b2e85ee76",
+    "description": "A good starting point for those new to Linux. Learn the basics of the command line interface.",
+    "link": "https://www.edx.org/course/linux-basics-the-command-line-interface"
+  },
+  {
+    "courseName": "Introduction to Linux",
+    "instructorName": "The Linux Foundation",
+    "sub_track":"662d64169f8ebb6b2e85ee76",
+    "description": "A good introduction to Linux. Learn the basics and understand how to use Linux effectively.",
+    "link": "https://www.edx.org/course/introduction-to-linux"
+  },
+  {
+    "courseName": "Object-Oriented Programming in Python",
+    "instructorName": "University of Michigan",
+    "sub_track":"662d64169f8ebb6b2e85ee78",
+    "description": "Learn the basics of object-oriented programming in Python, including classes, objects, inheritance, and more.",
+    "link": "https://www.coursera.org/learn/object-oriented-python"
+  },
+  {
+    "courseName": "Object-Oriented Programming in JavaScript",
+    "instructorName": "Mosh Hamedani",
+    "sub_track":"662d64169f8ebb6b2e85ee78",
+    "description": "Learn the basics of object-oriented programming in JavaScript, including prototypes, constructor functions, and more.",
+    "link": "https://codewithmosh.com/p/object-oriented-programming-in-javascript"
+  },
+  {
+    "courseName": "Object-Oriented Programming in C#",
+    "instructorName": "Gill Cleeren",
+    "sub_track":"662d64169f8ebb6b2e85ee78",
+    "description": "C# is an object-oriented and strongly-typed language. This course will teach you how to design and build your classes and class hierarchies using OO principles.",
+    "link": "https://www.pluralsight.com/courses/c-sharp-10-object-oriented-programming"
+  },
+  {
+    "courseName": "Data Structures and Algorithms – Self-Paced",
+    "instructorName": "GeeksforGeeks",
+    "sub_track":"662d64169f8ebb6b2e85ee7d",
+    "description": "Learn about the fundamentals of data structures and how to write your own algorithmic solutions.",
+    "link": "https://practice.geeksforgeeks.org/courses/dsa-self-paced"
+  },
+  {
+    "courseName": "Master the Coding Interview: Data Structures + Algorithms",
+    "instructorName": "Andrei Neagoie",
+    "sub_track":"662d64169f8ebb6b2e85ee7d",
+    "description": "Ultimate coding interview bootcamp. Get more job offers, negotiate a raise: Everything you need to get the job you want!",
+    "link": "https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/?couponCode=ST7MT41824/"
+  },
+  {
+    "courseName": "Data Structures",
+    "instructorName": "Neil Rhodes",
+    "sub_track":"662d64169f8ebb6b2e85ee7d",
+    "description": "A course that extends object-oriented analysis and design by incorporating design patterns to create interactive applications.",
+    "link": "https://www.coursera.org/learn/data-structures"
+  },
+  {
+    "courseName": "Design Patterns",
+    "instructorName": "Kenny Wong",
+    "sub_track":"662d64169f8ebb6b2e85ee78",
+    "description": "This course extends object-oriented analysis and design by incorporating design patterns to create interactive applications.",
+    "link": "https://www.coursera.org/learn/design-patterns"
+  },
+  {
+    "courseName": "Design Patterns in C# and .NET",
+    "instructorName": "Dmitri Nesteruk",
+    "sub_track":"662d64169f8ebb6b2e85ee78",
+    "description": "Discover the modern implementation of design patterns with C# and .NET",
+    "link": "https://www.udemy.com/course/design-patterns-csharp-dotnet"
+  },
+  {
+    "courseName": "Design Patterns in Java",
+    "instructorName": "Dmitri Nesteruk",
+    "sub_track":"662d64169f8ebb6b2e85ee78",
+    "description": "Discover the modern implementation of design patterns in Java",
+    "link": "https://www.udemy.com/course/design-patterns-java"
+  },
+  {
+    "courseName": "The Bits and Bytes of Computer Networking",
+    "instructorName": "Google",
+    "sub_track":"662d64169f8ebb6b2e85ee83",
+    "description": "This course is designed to provide a full overview of computer networking.",
+    "link": "https://www.coursera.org/learn/computer-networking"
+  },
+  {
+    "courseName": "Computer Networking",
+    "instructorName": "Illinois Tech",
+    "sub_track":"662d64169f8ebb6b2e85ee83",
+    "description": "This course provides an introduction to computer networks and covers fundamental topics.",
+    "link": "https://www.coursera.org/learn/illinois-tech-computer-networking"
+  },
+  {
+    "courseName": "Introduction to Computer Networks for Non-Techies",
+    "instructorName": "Alton Hardin",
+    "sub_track":"662d64169f8ebb6b2e85ee83",
+    "description": "Learn network fundamentals, access methods, and network media.",
+    "link": "https://www.udemy.com/course/introduction-to-computer-networks/"
+  },
+  {
+    "courseName": "Java Multithreading",
+    "instructorName": "John Purcell",
+    "sub_track":"662d64169f8ebb6b2e85ee86",
+    "description": "Learn multithreading and concurrency concepts in Java.",
+    "link": "https://www.udemy.com/java-multithreading/"
+  },
+  {
+    "courseName": "Multithreading and Parallel Computing in Java",
+    "instructorName": "Holczer Balazs",
+    "sub_track":"662d64169f8ebb6b2e85ee86",
+    "description": "Improve the performance of your applications by using multithreading and parallel computing.",
+    "link": "https://www.udemy.com/multithreading-and-parallel-computing-in-java/"
+  },
+  {
+    "courseName": "Applying Concurrency and Multi-threading to Common Java Patterns",
+    "instructorName": "Jose Paumard",
+    "sub_track":"662d64169f8ebb6b2e85ee86",
+    "description": "You'll learn about problems with concurrent programming on multicore CPU, and false sharing. You'll also be introduced to the Java Memory model, concurrency and multi-threading to common Java patterns and more.",
+    "link": "https://www.pluralsight.com/courses/java-patterns-concurrency-multi-threading"
+  },
+  {
+    "courseName": "Building RESTful APIs Using Node.js and Express",
+    "instructorName": "Mosh Hamedani",
+    "sub_track":"662d64169f8ebb6b2e85ee89",
+    "description": "Learn how to build RESTful APIs with Node.js, Express and MongoDB.",
+    "link": "https://www.udemy.com/course/nodejs-master-class/"
+  },
+  {
+    "courseName": "API Design and Fundamentals of Google Cloud's Apigee API Platform",
+    "instructorName": "Google Cloud",
+    "sub_track":"662d64169f8ebb6b2e85ee89",
+    "description": "Learn about API design and the fundamentals of Google Cloud's Apigee API Platform.",
+    "link": "https://www.coursera.org/learn/api-design-apigee-gcp"
+  },
+  {
+    "courseName": "Developing APIs with Google Cloud's Apigee API Platform",
+    "instructorName": "Google Cloud",
+    "sub_track":"662d64169f8ebb6b2e85ee89",
+    "description": "Learn how to develop APIs with Google Cloud's Apigee API Platform.",
+    "link": "https://www.coursera.org/specializations/apigee-api-gcp"
+  },
+  {
+    "courseName": "The Complete SQL Bootcamp",
+    "instructorName": "Jose Portilla",
+    "sub_track":"662d64169f8ebb6b2e85ee8c",
+    "description": "Learn how to use SQL quickly and effectively with this course!",
+    "link": "https://www.udemy.com/course/the-complete-sql-bootcamp/"
+  },
+  {
+    "courseName": "MySQL for Data Analytics and Business Intelligence",
+    "instructorName": "365 Careers",
+    "sub_track":"662d64169f8ebb6b2e85ee8c",
+    "description": "Learn how SQL can help you make data-driven business decisions.",
+    "link": "https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/"
+  },
+  {
+    "courseName": "MongoDB - The Complete Developer's Guide",
+    "instructorName": "Maximilian Schwarzmüller",
+    "sub_track":"662d64169f8ebb6b2e85ee8c",
+    "description": "Master MongoDB Development for Web & Mobile Apps. CRUD Operations, Indexes, Aggregation Framework - All about MongoDB!",
+    "link": "https://www.udemy.com/course/mongodb-the-complete-developers-guide/"
+  },
+  {
+    "courseName": "Microservices with Spring Boot and Spring Cloud",
+    "instructorName": "in28Minutes Official",
+    "sub_track":"662d64169f8ebb6b2e85ee8f",
+    "description": "Master Microservices with Spring Boot and Spring Cloud",
+    "link": "https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/"
+  },
+  {
+    "courseName": "Microservices Architecture",
+    "instructorName": "Pluralsight",
+    "sub_track":"662d64169f8ebb6b2e85ee8f",
+    "description": "Learn about the design patterns of microservices",
+    "link": "https://www.pluralsight.com/paths/microservices-architecture"
+  },
+  {
+    "courseName": "Microservices with Node JS and React",
+    "instructorName": "Stephen Grider",
+    "sub_track":"662d64169f8ebb6b2e85ee8f",
+    "description": "Build, deploy, and scale an E-Commerce app using Microservices built with Node, React, Docker and Kubernetes",
+    "link": "https://www.udemy.com/course/microservices-with-node-js-and-react/"
+  },
+  {
+    "courseName": "Implement JWT Authentication with Java & SpringBoot",
+    "instructorName": "Bharath Thippireddy",
+    "sub_track":"662d64169f8ebb6b2e85ee91",
+    "description": "Learn to Implement JWT with SpringBoot and Spring Security",
+    "link": "https://www.udemy.com/course/practical-bootcamp-jwt-authentication-with-java-springboot/"
+  },
+  {
+    "courseName": "JWT authentication: Best practices and when to use it",
+    "instructorName": "Flavio Copes",
+    "sub_track":"662d64169f8ebb6b2e85ee91",
+    "description": "Learn the best practices of JWT and when to use it",
+    "link": "https://blog.logrocket.com/jwt-authentication-best-practices/"
+  },
+  {
+    "courseName": "Diving Into Sessions vs. JWTs for User Authentication on Websites/Webapps",
+    "instructorName": "aust1nz",
+    "sub_track":"662d64169f8ebb6b2e85ee91",
+    "description": "Learn the difference between Sessions and JWTs for User Authentication",
+    "link": "https://www.reddit.com/r/webdev/comments/ljq4f8/diving_into_sessions_vs_jwts_for_user/"
+  },
+  {
+    "courseName": "NGINX Fundamentals: High Performance Servers from Scratch",
+    "instructorName": "Ray Viljoen",
+    "sub_track":"662d64169f8ebb6b2e85ee94",
+    "description": "Learn to install & configure an NGINX web server from scratch.",
+    "link": "https://www.udemy.com/course/nginx-fundamentals"
+  },
+  {
+    "courseName": "Apache HTTP Server 2.4 Reference Manual",
+    "instructorName": "Apache Contributors",
+    "sub_track":"662d64169f8ebb6b2e85ee94",
+    "description": "A comprehensive guide to Apache HTTP Server, covering everything from basic to advanced topics.",
+    "link": "https://httpd.apache.org/docs/2.4/"
+  },
+  {
+    "courseName": "Laravel for beginners",
+    "instructorName": "Edwin Diaz",
+    "sub_track":"662d64169f8ebb6b2e85ee97",
+    "description": "Learn Laravel, a powerful modern PHP Framework for web development.",
+    "link": "https://www.udemy.com/course/php-with-laravel-for-beginners-become-a-master-in-laravel/"
+  },
+  {
+    "courseName": "Python and Django Full Stack Web Developer Bootcamp",
+    "instructorName": "Jose Portilla",
+    "sub_track":"662d64169f8ebb6b2e85ee97",
+    "description": "Learn to build websites with HTML, CSS, Bootstrap, Javascript, jQuery, Python 3, and Django!",
+    "link": "https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/"
+  },
+  {
+    "courseName": "The Complete Node.js Developer Course",
+    "instructorName": "Andrew Mead",
+    "sub_track":"662d64169f8ebb6b2e85ee97",
+    "description": "Learn Node.js by building real-world applications with Node, Express, MongoDB, Jest, and more!",
+    "link": "https://www.udemy.com/course/the-complete-nodejs-developer-course-2/"
+  },
+  {
+    "courseName": "Effective Problem-Solving and Decision-Making",
+    "instructorName": "Diane Spiegel",
+    "sub_track":"662d64169f8ebb6b2e85ef83",
+    "description": "Explain both the affordances and limitations associated with problem-solving and decision-making.",
+    "link": "https://www.coursera.org/learn/problem-solving"
+  },
+  {
+    "courseName": "Computational Thinking for Problem Solving",
+    "instructorName": "Susan Davidson",
+    "sub_track":"662d64169f8ebb6b2e85ef83",
+    "description": "Computational thinking is an approach to solving problems using concepts and ideas from computer science, and expressing solutions to those problems so that they can be run on a computer.",
+    "link": "https://www.coursera.org/learn/computational-thinking-problem-solving"
+  },
+  {
+    "courseName": "Problem Solving: The Complete Guide",
+    "instructorName": "Jamal Lazaar",
+    "sub_track":"662d64169f8ebb6b2e85ef83",
+    "description": "How to solve problems in an efficient and innovative way. Critical & Design thinking. Pareto. Mindmap. 6 thinking hats.",
+    "link": "https://www.udemy.com/course/problem-solving-the-complete-guide/"
+  },
+  {
+    "courseName": "Mathematics for Computer Science",
+    "instructorName": "MIT OpenCourseWare",
+    "sub_track":"662d64169f8ebb6b2e85ef84",
+    "description": "Learn mathematical concepts relevant to computer science, including discrete mathematics, probability, and linear algebra.",
+    "link": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/"
+  },
+  {
+    "courseName": "Linear Algebra",
+    "instructorName": "Gilbert Strang",
+    "sub_track":"662d64169f8ebb6b2e85ef84",
+    "description": "Master linear algebra fundamentals essential for understanding machine learning and computer graphics.",
+    "link": "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/"
+  },
+  {
+    "courseName": "Calculus 1",
+    "instructorName": "Khan Academy",
+    "sub_track":"662d64169f8ebb6b2e85ef84",
+    "description": "Learn differential calculus to understand rates of change and optimization problems.",
+    "link": "https://www.khanacademy.org/math/calculus-1"
+  },
+  {
+    "courseName": "Computer Science 101",
+    "instructorName": "Stanford University",
+    "sub_track":"662d64169f8ebb6b2e85ef85",
+    "description": "Gain a foundational understanding of computer science concepts and programming.",
+    "link": "https://online.stanford.edu/courses/soe-ycscs101-computer-science-101"
+  },
+  {
+    "courseName": "Computer Basics",
+    "instructorName": "GCFLearnFree.org",
+    "sub_track":"662d64169f8ebb6b2e85ef85",
+    "description": "Learn essential computer skills including operating systems, hardware, and software applications.",
+    "link": "https://edu.gcfglobal.org/en/computerbasics/"
+  },
+  {
+    "courseName": "Introduction to Computer Science and Programming Using Python",
+    "instructorName": "MIT OpenCourseWare",
+    "sub_track":"662d64169f8ebb6b2e85ef85",
+    "description": "Learn Python programming and computer science fundamentals.",
+    "link": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/"
+  },
+  {
+    "courseName": "Effective Communication Skills",
+    "instructorName": "ZandaX Training",
+    "sub_track":"662d64169f8ebb6b2e85ef86",
+    "description": "Improve your communication skills through practical exercises and techniques.",
+    "link": "https://www.udemy.com/course/effective-essential-communication-skills/"
+  },
+  {
+    "courseName": "Business Communication",
+    "instructorName": "University of Washington",
+    "sub_track":"662d64169f8ebb6b2e85ef86",
+    "description": "Learn how to communicate effectively in a professional setting.",
+    "link": "https://www.coursera.org/specializations/business-english"
+  },
+  {
+    "courseName": "Public Speaking",
+    "instructorName": "Toastmasters International",
+    "sub_track":"662d64169f8ebb6b2e85ef86",
+    "description": "Develop confidence and skills to deliver compelling speeches and presentations.",
+    "link": "https://www.toastmasters.org/resources/public-speaking-tips"
+  },
+  {
+    "courseName": "Introduction to Research Methods",
+    "instructorName": "University of Edinburgh",
+    "sub_track":"662d64169f8ebb6b2e85ef87",
+    "description": "Learn the fundamentals of research methods including data collection and analysis.",
+    "link": "https://www.edx.org/learn/research/the-university-of-edinburgh-introduction-to-social-research-methods"
+  },
+  {
+    "courseName": "Research Writing: How to Do a Literature Review",
+    "instructorName": "University of California, Davis",
+    "sub_track":"662d64169f8ebb6b2e85ef87",
+    "description": "Master the process of conducting a literature review for research papers.",
+    "link": "https://www.coursera.org/learn/research-writing"
+  },
+  {
+    "courseName": "FullbridgeX: Problem Solving and Critical Thinking Skills",
+    "instructorName": "University of Fullbridge",
+    "sub_track":"662d64169f8ebb6b2e85ef87",
+    "description": "Develop critical thinking skills for effective problem-solving and decision-making.",
+    "link": "https://www.edx.org/learn/business-administration/fullbridge-problem-solving-and-critical-thinking-skills-2"
+  },
+  {
+    "courseName": "Learning How to Learn: Powerful mental tools to help you master tough subjects",
+    "instructorName": "University of California, San Diego",
+    "sub_track":"662d64169f8ebb6b2e85ef88",
+    "description": "Discover effective learning techniques based on neuroscience and cognitive psychology.",
+    "link": "https://www.coursera.org/learn/learning-how-to-learn"
+  },
+  {
+    "courseName": "Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential",
+    "instructorName": "McMaster University",
+    "sub_track":"662d64169f8ebb6b2e85ef88",
+    "description": "Develop a growth mindset and learn how to overcome barriers to learning.",
+    "link": "https://www.coursera.org/learn/mindshift"
+  },
+  {
+    "courseName": "Critical Thinking Skills",
+    "instructorName": "University of Michigan",
+    "sub_track":"662d64169f8ebb6b2e85ef88",
+    "description": "Enhance your critical thinking skills for better decision-making and problem-solving.",
+    "link": "https://www.coursera.org/learn/critical-thinking-skills"
+  },
+  {
+    "courseName": "Introduction to Logic",
+    "instructorName": "Stanford University",
+    "sub_track":"662d64169f8ebb6b2e85ef89",
+    "description": "Learn formal logic and develop analytical reasoning skills.",
+    "link": "https://plato.stanford.edu/entries/logic/"
+  },
+  {
+    "courseName": "Symbolic Logic",
+    "instructorName": "Harvard University",
+    "sub_track":"662d64169f8ebb6b2e85ef89",
+    "description": "Explore the principles of symbolic logic and apply them to real-world problems.",
+    "link": "https://www.youtube.com/playlist?list=PLzVTusWerVcKx3crsij5wrRfIqWp3UXc7"
+  },
+  {
+    "courseName": "Logic and Computational Thinking",
+    "instructorName": "MIT OpenCourseWare",
+    "sub_track":"662d64169f8ebb6b2e85ef89",
+    "description": "Develop computational thinking skills through the lens of logic.",
+    "link": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/"
+  },
+  {
+    "courseName": "Learning How to Learn: Powerful mental tools to help you master tough subjects",
+    "instructorName": "University of California, San Diego",
+    "sub_track":"662d64169f8ebb6b2e85ef8a",
+    "description": "Discover effective learning techniques based on neuroscience and cognitive psychology.",
+    "link": "https://www.coursera.org/learn/learning-how-to-learn"
+  },
+  {
+    "courseName": "Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential",
+    "instructorName": "McMaster University",
+    "sub_track":"662d64169f8ebb6b2e85ef8a",
+    "description": "Develop a growth mindset and learn how to overcome barriers to learning.",
+    "link": "https://www.coursera.org/learn/mindshift"
+  },
+  {
+    "courseName": "Academic Skills for University Success Specialization",
+    "instructorName": "University of Sydney",
+    "sub_track":"662d64169f8ebb6b2e85ef8a",
+    "description": "Enhance your learning skills and succeed academically in university.",
+    "link": "https://www.coursera.org/specializations/academic-skills"
+  },
+  {
+    "courseName": "Computer Science 101",
+    "instructorName": "Nick Parlante",
+    "sub_track":"662d64169f8ebb6b2e85ef8b",
+    "description": "An introductory course covering the basics of computer science, including hardware, software, and algorithms.",
+    "link": "https://www.youtube.com/playlist?list=PLvJoKWRPIu8G6Si7LlvmBPA5rOJ9BA29R"
+  },
+  {
+    "courseName": "Introduction to Computer Science",
+    "instructorName": "David J. Malan",
+    "sub_track":"662d64169f8ebb6b2e85ef8b",
+    "description": "Harvard University's introductory course to computer science, covering fundamental concepts and problem-solving techniques.",
+    "link": "https://www.edx.org/course/cs50s-introduction-to-computer-science"
+  },
+  {
+    "courseName": "Introduction to Computer Science and Programming Specialization",
+    "instructorName": "University of London",
+    "sub_track":"662d64169f8ebb6b2e85ef8b",
+    "description": "A comprehensive course covering the fundamental concepts of computers, including hardware, software, and operating systems.",
+    "link": "https://www.coursera.org/specializations/introduction-computer-science-programming/"
+  },
+  {
+    "courseName": "Programming Foundations: Fundamentals",
+    "instructorName": "Annyce Davis",
+    "sub_track":"662d64169f8ebb6b2e85ef8c",
+    "description": "A beginner-friendly course covering the fundamental concepts of programming languages, including variables, control flow, and functions.",
+    "link": "https://www.linkedin.com/learning/programming-foundations-fundamentals-3"
+  },
+  {
+    "courseName": "Programming for Everybody (Getting Started with Python)",
+    "instructorName": "Charles Severance",
+    "sub_track":"662d64169f8ebb6b2e85ef8c",
+    "description": "A Python-centric course introducing programming concepts to beginners, with hands-on exercises and assignments.",
+    "link": "https://www.coursera.org/learn/python"
+  },
+  {
+    "courseName": "CS50's Introduction to Computer Science",
+    "instructorName": "David J. Malan",
+    "sub_track":"662d64169f8ebb6b2e85ef8c",
+    "description": "Harvard University's introductory course to computer science, covering fundamental concepts and problem-solving techniques.",
+    "link": "https://www.edx.org/course/cs50s-introduction-to-computer-science"
+  },
+  {
+    "courseName": "Object-Oriented Programming in Java",
+    "instructorName": "Tim Buchalka",
+    "sub_track":"662d64169f8ebb6b2e85ef8d",
+    "description": "A comprehensive course covering object-oriented programming principles using Java, with practical examples and projects.",
+    "link": "https://www.udemy.com/course/java-the-complete-java-developer-course/"
+  },
+  {
+    "courseName": "Python Object-Oriented Programming (OOP)",
+    "instructorName": "Corey Schafer",
+    "sub_track":"662d64169f8ebb6b2e85ef8d",
+    "description": "Learn how to apply object-oriented programming concepts using Python, with hands-on examples and exercises.",
+    "link": "https://www.youtube.com/watch?v=ZDa-Z5JzLYM"
+  },
+  {
+    "courseName": "Object-Oriented Programming Fundamentals",
+    "instructorName": "Simon Allardice",
+    "sub_track":"662d64169f8ebb6b2e85ef8d",
+    "description": "An introduction to object-oriented programming concepts, including classes, inheritance, and polymorphism.",
+    "link": "https://www.linkedin.com/learning/object-oriented-programming-with-java/object-oriented-programming-fundamentals"
+  },
+  {
+    "courseName": "Functional Programming Principles in Scala",
+    "instructorName": "Martin Odersky",
+    "sub_track":"662d64169f8ebb6b2e85ef8e",
+    "description": "Learn the principles of functional programming using Scala, a powerful and expressive language.",
+    "link": "https://www.coursera.org/learn/scala-functional-programming"
+  },
+  {
+    "courseName": "Functional Programming in JavaScript",
+    "instructorName": "Kyle Simpson",
+    "sub_track":"662d64169f8ebb6b2e85ef8e",
+    "description": "Explore functional programming concepts in JavaScript, including higher-order functions and immutability.",
+    "link": "https://frontendmasters.com/courses/functional-javascript/"
+  },
+  {
+    "courseName": "Introduction to Functional Programming",
+    "instructorName": "Erik Meijer",
+    "sub_track":"662d64169f8ebb6b2e85ef8e",
+    "description": "An introductory course to functional programming concepts, with examples in Python.",
+    "link": "https://www.edx.org/learn/computer-programming/delft-university-of-technology-introduction-to-functional-programming"
+  },
+  {
+    "courseName": "Data Structures and Algorithms Specialization",
+    "instructorName": "Tim Roughgarden",
+    "sub_track":"662d64169f8ebb6b2e85ef8f",
+    "description": "A series of courses covering essential data structures and algorithms, including arrays, linked lists, and trees.",
+    "link": "https://www.coursera.org/specializations/data-structures-algorithms"
+  },
+  {
+    "courseName": "Introduction to Data Structures",
+    "instructorName": "Michael Sambol",
+    "sub_track":"662d64169f8ebb6b2e85ef8f",
+    "description": "A beginner-friendly course introducing fundamental data structures, with programming exercises in Python.",
+    "link": "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256"
+  },
+  {
+    "courseName": "Data Structures and Algorithms",
+    "instructorName": "Abdul Bari",
+    "sub_track":"662d64169f8ebb6b2e85ef8f",
+    "description": "A comprehensive course covering various data structures and algorithms, with visualizations and explanations.",
+    "link": "https://www.udemy.com/course/datastructurescncpp/"
+  },
+  {
+    "courseName": "Algorithms Specialization",
+    "instructorName": "Tim Roughgarden",
+    "sub_track":"662d64169f8ebb6b2e85ef90",
+    "description": "A series of courses covering essential algorithms, including sorting, searching, and graph algorithms.",
+    "link": "https://www.coursera.org/specializations/algorithms"
+  },
+  {
+    "courseName": "Mastering Data Structures & Algorithms using C and C++",
+    "instructorName": "Abdul Bari",
+    "sub_track":"662d64169f8ebb6b2e85ef90",
+    "description": "Learn data structures and algorithms in-depth with hands-on examples and problem-solving techniques.",
+    "link": "https://www.udemy.com/course/datastructurescncpp/"
+  },
+  {
+    "courseName": "Introduction to Algorithms",
+    "instructorName": "Erik Demaine, Srini Devadas",
+    "sub_track":"662d64169f8ebb6b2e85ef90",
+    "description": "MIT's introductory course to algorithms, covering fundamental algorithms and their analysis.",
+    "link": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/"
+  },
+  {
+    "courseName": "C Memory Management",
+    "instructorName": "Tom Lieber",
+    "sub_track":"662d64169f8ebb6b2e85ef91",
+    "description": "Learn about memory management techniques used by operating systems to allocate and deallocate memory.",
+    "link": "https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/pages/lectures-and-assignments/c-memory-management/"
+  },
+  {
+    "courseName": "Learning C++ Memory Management",
+    "instructorName": "Infinite Skills",
+    "sub_track":"662d64169f8ebb6b2e85ef91",
+    "description": "An overview of memory hierarchy in computer architecture, covering cache memory, virtual memory, and more.",
+    "link": "https://www.udemy.com/course/memory-management/"
+  },
+  {
+    "courseName": "Intro to Operating Systems 2: Memory Management",
+    "instructorName": "Patrick Ester",
+    "sub_track":"662d64169f8ebb6b2e85ef91",
+    "description": "A comprehensive course covering memory management techniques, including paging, segmentation, and virtual memory.",
+    "link": "https://www.coursera.org/learn/codio-intro-to-operating-systems-2-memory-management"
+  },
+  {
+    "courseName": "Exception Handling in Java",
+    "instructorName": "Emma Martin",
+    "sub_track":"662d64169f8ebb6b2e85ef92",
+    "description": "Learn how to handle exceptions in Java, including try-catch blocks, throw statements, and custom exceptions.",
+    "link": "https://www.coursera.org/projects/exception-handling-in-java/"
+  },
+  {
+    "courseName": "Python Exception Handling (try, except, finally)",
+    "instructorName": "Corey Schafer",
+    "sub_track":"662d64169f8ebb6b2e85ef92",
+    "description": "An in-depth tutorial on handling exceptions in Python, covering try-except blocks, finally clauses, and more.",
+    "link": "https://www.youtube.com/watch?v=NIWwJbo-9_8"
+  },
+  {
+    "courseName": "C++ Exceptions Handling",
+    "instructorName": "Andrzej Sz",
+    "sub_track":"662d64169f8ebb6b2e85ef92",
+    "description": "Learn best practices for handling exceptions in software development, including error logging, graceful degradation, and fail-fast strategies.",
+    "link": "https://www.udemy.com/course/cpp-in-detail-exceptions/"
+  },
+  {
+    "courseName": "Software Development Lifecycle (SDLC) Explained",
+    "instructorName": "Naveen AutomationLabs",
+    "sub_track":"662d64169f8ebb6b2e85ef93",
+    "description": "An overview of the software development lifecycle, covering different methodologies and phases.",
+    "link": "https://www.youtube.com/watch?v=X1JxfHYNIN8"
+  },
+  {
+    "courseName": "Agile Fundamentals",
+    "instructorName": "Matthew Pizzi",
+    "sub_track":"662d64169f8ebb6b2e85ef93",
+    "description": "Learn the basics of Agile software development, including Scrum, Kanban, and Agile principles.",
+    "link": "https://www.pluralsight.com/courses/fundamentals-agile"
+  },
+  {
+    "courseName": "Introduction to Software Engineering",
+    "instructorName": "Luciano Ribeiro",
+    "sub_track":"662d64169f8ebb6b2e85ef93",
+    "description": "An introductory course to software engineering concepts, methodologies, and best practices.",
+    "link": "https://www.udemy.com/course/introduction-to-software-engineering/"
+  },
+  {
+    "courseName": "Design Patterns in Object-Oriented Programming",
+    "instructorName": "Dan Pardi",
+    "sub_track":"662d64169f8ebb6b2e85ef94",
+    "description": "An in-depth exploration of design patterns, including creational, structural, and behavioral patterns.",
+    "link": "https://www.udacity.com/course/design-patterns--ud989"
+  },
+  {
+    "courseName": "Design Patterns in Modern C++",
+    "instructorName": "Dmitri Nesteruk",
+    "sub_track":"662d64169f8ebb6b2e85ef94",
+    "description": "Learn how to implement design patterns in modern C++, with practical examples and best practices.",
+    "link": "https://www.udemy.com/course/patterns-cplusplus/"
+  },
+  {
+    "courseName": "Design Patterns",
+    "instructorName": "Kenny Wong",
+    "sub_track":"662d64169f8ebb6b2e85ef94",
+    "description": "This course extends object-oriented analysis and design by incorporating design patterns to create interactive applications.",
+    "link": "https://www.coursera.org/learn/design-patterns"
+  },
+  {
+    "courseName": "Git Complete: The definitive, step-by-step guide to Git",
+    "instructorName": "Jason Taylor",
+    "sub_track":"662d64169f8ebb6b2e85ef95",
+    "description": "A comprehensive course covering Git version control, from basic to advanced concepts, with hands-on exercises.",
+    "link": "https://www.udemy.com/course/git-complete/"
+  },
+  {
+    "courseName": "Version Control with Git",
+    "instructorName": "Ben Straub",
+    "sub_track":"662d64169f8ebb6b2e85ef95",
+    "description": "An introduction to version control with Git, covering basic and advanced workflows.",
+    "link": "https://www.udacity.com/course/version-control-with-git--ud123"
+  },
+  {
+    "courseName": "Git Essentials: Learn Git with Bitbucket and Sourcetree",
+    "instructorName": "TutoriaLinux",
+    "sub_track":"662d64169f8ebb6b2e85ef95",
+    "description": "A beginner-friendly course on Git, featuring Bitbucket and Sourcetree, with practical examples and demonstrations.",
+    "link": "https://www.udemy.com/course/git-with-bitbucket-and-sourcetree/"
+  },
+  {
+    "courseName": "Code of Ethics: The Language of Professionalism and Integrity panel",
+    "instructorName": "Lola Bendana",
+    "sub_track":"662d64169f8ebb6b2e85ef96",
+    "description": "A comprehensive course on software construction and coding standards, featuring best practices and guidelines.",
+    "link": "https://www.youtube.com/watch?v=XVDYNOIU-Ms"
+  },
+  {
+    "courseName": "Ethics in Technology",
+    "instructorName": "Jared M. Spool",
+    "sub_track":"662d64169f8ebb6b2e85ef96",
+    "description": "An exploration of ethical issues in technology and software development, featuring case studies and discussions.",
+    "link": "https://www.pluralsight.com/courses/pluralsight-live-2020-ethics-technology"
+  },
+  {
+    "courseName": "Best Practices for Code Review",
+    "instructorName": "Michaela Greiler",
+    "sub_track":"662d64169f8ebb6b2e85ef96",
+    "description": "Learn best practices for code reviews, including how to give and receive feedback effectively.",
+    "link": "https://www.pluralsight.com/courses/code-review-best-practices"
+  }
+  
+]

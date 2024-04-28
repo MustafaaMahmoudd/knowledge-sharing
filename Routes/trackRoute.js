@@ -10,6 +10,8 @@ Router.route('/')
   .get(trackController.getTracks)
   .post(trackController.createTrack);
 
+Router.patch('/:id',trackController.updateOne);
+
 Router.get('/:slug', trackController.getOne);
 Router.use('/:slug/articles', trackController.getTrackId, articleRoute);
 Router.use('/:slug/details', trackController.getTrackId, subTrackRoute);

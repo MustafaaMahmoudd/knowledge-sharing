@@ -1,0 +1,1154 @@
+[
+  {
+    "bookName": "HTML and CSS: Design and Build Websites",
+    "author": "Jon Duckett",
+    "publishDate": "2011",
+    "sub_track": "662d64169f8ebb6b2e85ee4c",
+    "description": "A beautifully designed book that teaches HTML and CSS from scratch.",
+    "link": "https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189"
+  },
+  {
+    "bookName": "Learning Web Design",
+    "author": "Jennifer Niederst Robbins",
+    "sub_track": "662d64169f8ebb6b2e85ee4c",
+    "publishDate": "2018",
+    "description": "A beginner-friendly guide to HTML, CSS, and web design principles.",
+    "link": "https://www.amazon.com/Learning-Web-Design-Beginners-JavaScript/dp/1491960205"
+  },
+  {
+    "bookName": "HTML and CSS: Visual QuickStart Guide",
+    "author": "Elizabeth Castro",
+    "sub_track": "662d64169f8ebb6b2e85ee4c",
+    "publishDate": "2013",
+    "description": "A step-by-step guide to HTML and CSS with plenty of examples and visuals.",
+    "link": "https://www.amazon.com/HTML-CSS-Visual-QuickStart-Guide/dp/0321928830"
+  },
+  {
+    "bookName": "CSS Secrets: Better Solutions to Everyday Web Design Problems",
+    "author": "Lea Verou",
+    "sub_track": "662d64169f8ebb6b2e85ee4d",
+    "publishDate": "2015",
+    "description": "Discover advanced CSS techniques and solutions to common design problems.",
+    "link": "https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635"
+  },
+  {
+    "bookName": "CSS: The Definitive Guide",
+    "author": "Eric Meyer",
+    "sub_track": "662d64169f8ebb6b2e85ee4d",
+    "publishDate": "2017",
+    "description": "A comprehensive guide to CSS, covering everything from basic to advanced topics.",
+    "link": "https://www.amazon.com/CSS-Definitive-Guide-Visual-Presentation/dp/1449393195"
+  },
+  {
+    "bookName": "CSS in Depth",
+    "author": "Keith J. Grant",
+    "sub_track": "662d64169f8ebb6b2e85ee4d",
+    "publishDate": "2018",
+    "description": "Explore the intricacies of CSS and learn how to write efficient and maintainable code.",
+    "link": "https://www.amazon.com/CSS-Depth-Keith-J-Grant/dp/1617293458"
+  },
+  {
+    "bookName": "Eloquent JavaScript: A Modern Introduction to Programming",
+    "author": "Marijn Haverbeke",
+    "sub_track":"662d64169f8ebb6b2e85ee4e",
+    "publishDate": "2018",
+    "description": "A comprehensive guide to JavaScript programming with interactive examples.",
+    "link": "https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507"
+  },
+  {
+    "bookName": "You Don't Know JS (Series)",
+    "author": "Kyle Simpson",
+    "sub_track":"662d64169f8ebb6b2e85ee4e",
+    "publishDate": "2014-2019",
+    "description": "A series of books that explores the core concepts of JavaScript in-depth.",
+    "link": "https://www.amazon.com/You-Dont-Know-JS-Yet-ebook/dp/B084BNMN7T"
+  },
+  {
+    "bookName": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "sub_track":"662d64169f8ebb6b2e85ee4e",
+    "publishDate": "2008",
+    "description": "Learn the good parts of JavaScript and write clean and efficient code.",
+    "link": "https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742"
+  },
+  {
+    "bookName": "The Art of Prompt Engineering with chatGPT: A Hands-On Guide",
+    "author": "Nathan Hunter",
+    "sub_track":"662d64169f8ebb6b2e85ee4f",
+    "publishDate": "2023",
+    "description": "Learn 5 core techniques and tools to write better prompts and 4 advanced prompt engineering tools to take your knowledge to the next level.",
+    "link": "https://www.amazon.com/Art-Prompt-Engineering-chatGPT-Hands/dp/1739296710"
+  },
+  {
+    "bookName": "The ChatGPT GoldRush",
+    "author": "Mark Adelson",
+    "publishDate": "2024",
+    "sub_track":"662d64169f8ebb6b2e85ee4f",
+    "description": "Discover how GPT-4 is a game-changer and become an early adopter.",
+    "link": "https://www.amazon.com/ChatGPT-GoldRush-Profiting-Revolution-Engineering-ebook/dp/B0CKRB38BG"
+  },
+  {
+    "bookName": "ChatGPT Prompts Mastering",
+    "author": "Christian Brown",
+    "sub_track":"662d64169f8ebb6b2e85ee4f",
+    "publishDate": "2023",
+    "description": "Explore 9 in-depth use cases to understand how to apply these techniques and tools.",
+    "link": "https://www.amazon.com/ChatGPT-Prompts-Mastering-Effective-BeginnerS/dp/B0BRJ9Q27Q"
+  },
+  {
+    "bookName": "Pro Git",
+    "author": "Scott Chacon, Ben Straub",
+    "sub_track":"662d64169f8ebb6b2e85ee50",
+    "publishDate": "2014",
+    "description": "A comprehensive guide to Git, covering everything from basic concepts to advanced techniques.",
+    "link": "https://www.amazon.com/Pro-Git-Scott-Chacon/dp/1484200772"
+  },
+  {
+    "bookName": "GitHub For Dummies",
+    "author": "Sarah Guthals, Phil Haack, Jared Palmer",
+    "sub_track":"662d64169f8ebb6b2e85ee50",
+    "publishDate": "2013",
+    "description": "Learn how to effectively use GitHub for version control and collaboration.",
+    "link": "https://www.amazon.com/GitHub-Dummies-Guthals/dp/1119572673"
+  },
+  {
+    "bookName": "Version Control with Git",
+    "author": "Jon Loeliger, Matthew McCullough",
+    "sub_track":"662d64169f8ebb6b2e85ee50",
+    "publishDate": "2012",
+    "description": "A comprehensive guide to using Git for version control in software development projects.",
+    "link": "https://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387"
+  },
+  {
+    "bookName": "The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws",
+    "author": "Dafydd Stuttard, Marcus Pinto",
+    "sub_track":"662d64169f8ebb6b2e85ee53",
+    "publishDate": "2011",
+    "description": "A comprehensive guide to discovering and exploiting security flaws in web applications.",
+    "link": "https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470"
+  },
+  {
+    "bookName": "Web Application Security: Exploitation and Countermeasures for Modern Web Applications",
+    "author": "Andrew Hoffman",
+    "sub_track":"662d64169f8ebb6b2e85ee53",
+    "publishDate": "2020",
+    "description": "Provides both offensive and defensive security concepts that software engineers can easily learn and apply.",
+    "link": "https://www.oreilly.com/library/view/web-application-security/9781492053101/"
+  },
+  {
+    "bookName": "Web Security for Developers: Real Threats, Practical Defense",
+    "author": "Malcolm McDonald",
+    "sub_track":"662d64169f8ebb6b2e85ee53",
+    "publishDate": "2020",
+    "description": "Learn about real threats and practical defense for web security.",
+    "link": "https://www.amazon.com/Web-Security-Developers-Threats-Practical/dp/1593279996"
+  },
+  {
+    "bookName": "Node.js Web Development",
+    "authorname": "David Herron",
+    "sub_track":"662d64169f8ebb6b2e85ee56",
+    "publishDate": "2016",
+    "description": "Learn how to build scalable server-side web applications using Node.js and Express.js.",
+    "link": "https://www.amazon.com/Node-js-Web-Development-step-step/dp/1785881507"
+  },
+  {
+    "bookName": "Eloquent JavaScript: A Modern Introduction to Programming",
+    "authorname": "Marijn Haverbeke",
+    "sub_track":"662d64169f8ebb6b2e85ee56",
+    "publishDate": "2018",
+    "description": "A comprehensive guide to JavaScript programming, covering all aspects of the language.",
+    "link": "https://eloquentjavascript.net/"
+  },
+  {
+    "bookName": "Learning Node.js: A Hands-On Guide to Building Web Applications in JavaScript",
+    "authorname": "Marc Wandschneider",
+    "sub_track":"662d64169f8ebb6b2e85ee56",
+    "publishDate": "2016",
+    "description": "Learn how to build scalable web applications using Node.js, Express.js, and MongoDB.",
+    "link": "https://www.amazon.com/Learning-Node-js-Hands-Applications-JavaScript/dp/0321910575"
+  },
+  {
+    "bookName": "Sass for Web Designers",
+    "authorname": "Dan Cederholm",
+    "sub_track":"662d64169f8ebb6b2e85ee59",
+    "publishDate": "2013",
+    "description": "A practical guide to using Sass to create efficient and maintainable CSS.",
+    "link": "https://abookapart.com/products/sass-for-web-designers"
+  },
+  {
+    "bookName": "Less Web Development Essentials",
+    "authorname": "Bass Jobsen",
+    "sub_track":"662d64169f8ebb6b2e85ee59",
+    "publishDate": "2014",
+    "description": "Learn how to use Less to simplify your CSS workflow and create dynamic web applications.",
+    "link": "https://www.packtpub.com/product/less-web-development-essentials/9781783981465"
+  },
+  {
+    "bookName": "CSS Secrets: Better Solutions to Everyday Web Design Problems",
+    "authorname": "Lea Verou",
+    "sub_track":"662d64169f8ebb6b2e85ee59",
+    "publishDate": "2015",
+    "description": "Discover advanced CSS techniques and solutions to common web design challenges.",
+    "link": "https://www.amazon.com/CSS-Secrets-Lea-Verou/dp/1449372635"
+  },
+  {
+    "bookName": "Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript",
+    "authorname": "David Herman",
+    "sub_track":"662d64169f8ebb6b2e85ee5c",
+    "publishDate": "2012",
+    "description": "Learn best practices and advanced techniques for writing effective JavaScript code.",
+    "link": "https://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182"
+  },
+  {
+    "bookName": "JavaScript: The Good Parts",
+    "authorname": "Douglas Crockford",
+    "sub_track":"662d64169f8ebb6b2e85ee5c",
+    "publishDate": "2008",
+    "description": "Discover the good parts of JavaScript and learn how to write clean and maintainable code.",
+    "link": "https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742"
+  },
+  {
+    "bookName": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "authorname": "Robert C. Martin",
+    "sub_track":"662d64169f8ebb6b2e85ee5c",
+    "publishDate": "2008",
+    "description": "Learn how to write clean, readable, and maintainable code in any programming language.",
+    "link": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"
+  },
+  {
+    "bookName": "Webpack 5 Up and Running: A quick and practical introduction to the JavaScript application bundler ",
+    "author": "Tom Owens",
+    "publishDate": "2020",
+    "sub_track":"662d64169f8ebb6b2e85ee5f",
+    "description": "Discover the power of Webpack 5 and learn how to build modern web applications",
+    "link": "https://www.amazon.com/Webpack-Running-introduction-JavaScript-application/dp/1789954401"
+  },
+  {
+    "bookName": " Getting Started With Gulp ",
+    "author": "Travis Maynard",
+    "publishDate": "2015",
+    "sub_track":"662d64169f8ebb6b2e85ee5f",
+    "description": "Master Gulp.js and automate your web development workflow with ease",
+    "link": "https://www.amazon.com/Getting-Started-Gulp-Travis-Maynard/dp/1784395765"
+  },
+  {
+    "bookName": "Grunt.js Cookbook",
+    "author": "Jurie-jan Botha",
+    "publishDate": "2015",
+    "sub_track":"662d64169f8ebb6b2e85ee5f",
+    "description": "Explore various recipes to automate web development tasks using Grunt.js",
+    "link": "https://www.amazon.com/Grunt-js-Cookbook-Jurie-Jan-Botha/dp/1783286512"
+  },
+  {
+    "bookName": "TypeScript Deep Dive",
+    "author": "Basarat Ali Syed",
+    "publishDate": "2020-01-01",
+    "sub_track":"662d64169f8ebb6b2e85ee62",
+    "description": "A comprehensive guide to TypeScript for experienced JavaScript developers",
+    "link": "https://basarat.gitbook.io/typescript/"
+  },
+  {
+    "bookName": "Effective TypeScript: 62 Specific Ways to Improve Your TypeScript",
+    "author": "Dan Vanderkam",
+    "publishDate": "2019-12-16",
+    "sub_track":"662d64169f8ebb6b2e85ee62",
+    "description": "Learn best practices and advanced techniques to write better TypeScript code",
+    "link": "https://www.amazon.com/Effective-TypeScript-Specific-Improve-Your/dp/1492053740"
+  },
+  {
+    "bookName": "TypeScript Handbook",
+    "author": "TypeScript Team",
+    "publishDate": "2020-07-01",
+    "sub_track":"662d64169f8ebb6b2e85ee62",
+    "description": "The official handbook for TypeScript, covering all the language features and tools",
+    "link": "https://www.typescriptlang.org/docs/handbook/"
+  },
+  {
+    "bookName": "The HTML and CSS Workshop",
+    "author": "Lewis Coulson & Brett Jephson & Rob Larsen & Matt Park & Marian Zburlea",
+    "publishDate": "2023",
+    "sub_track":"662d64169f8ebb6b2e85ee63",
+    "description": "Master HTML and CSS to create modern, stylish, and responsive websites with the help of real-world examples and hands-on activities.",
+    "link": "https://www.amazon.com/HTML-CSS-Workshop-Interactive-Approach/dp/1838824537"
+  },
+  {
+    "bookName": "CSS Master",
+    "author": "SitePoint",
+    "publishDate": "2024",
+    "sub_track":"662d64169f8ebb6b2e85ee63",
+    "description": "Master the art of CSS with this comprehensive guide. Learn about CSS Secrets, Web Layout and Presentation, CSS in Depth, and Advanced Web Standards Solutions.",
+    "link": "https://www.amazon.com/CSS-Master-Tiffany-B-Brown/dp/1925836428"
+  },
+  {
+    "bookName": "Modern CSS",
+    "author": "O'Reilly Media",
+    "publishDate": "2024",
+    "sub_track":"662d64169f8ebb6b2e85ee63",
+    "description": "Learn about Using CSS Transforms in the Real World, Variable Fonts, Scroll Snap in CSS, and Real World Use of CSS with SVG.",
+    "link": "https://www.oreilly.com/library/view/modern-css/9781492069959/"
+  },
+  {
+    "bookName": "Practical Bootstrap",
+    "author": "Panos Matsinopoulos",
+    "sub_track":"662d64169f8ebb6b2e85ee66",
+    "publishDate": "2020",
+    "description": "Learn to use one of the most popular CSS frameworks and build mobile-friendly web pages.",
+    "link": "https://link.springer.com/book/10.1007/978-1-4842-6071-5"
+  },
+  {
+    "bookName": "Creating Interfaces with Bulma",
+    "author": "Jeremy Thomas, Oleksii Potiekhin, Mikko Lauhakari, Aslam Shah, David Berning",
+    "publishDate": "Not Available",
+    "sub_track":"662d64169f8ebb6b2e85ee66",
+    "description": "This book is a step-by-step guide that teaches you how to build a web interface from scratch using the popular Bulma framework.",
+    "link": "https://bulma.io/the-official-bulma-book/"
+  },
+  {
+    "bookName": "Tailwind CSS",
+    "author": "Ivaylo Gerchev",
+    "publishDate": "2022",
+    "sub_track":"662d64169f8ebb6b2e85ee66",
+    "description": "Get a rapid introduction to Tailwind, the utility-first CSS framework, and start building sites with it today!",
+    "link": "https://www.oreilly.com/library/view/tailwind-css/9781098140984/"
+  },
+  {
+    "bookName": "Learning React: Modern Patterns for Developing React Apps",
+    "bookAuthor": "Alex Banks, Eve Porcello",
+    "publishDate": "2020",
+    "sub_track":"662d64169f8ebb6b2e85ee6a",
+    "description": "Explore modern patterns and best practices for building React applications.",
+    "link": "https://www.amazon.com/Learning-React-Modern-Patterns-Developing/dp/1492051721"
+  },
+  {
+    "bookName": "Vue.js in Action",
+    "bookAuthor": "Erik Hanchett, Benjamin Listwon",
+    "publishDate": "2018",
+    "sub_track":"662d64169f8ebb6b2e85ee6a",
+    "description": "Learn Vue.js from scratch and build real-world applications with Vue.js in this comprehensive guide.",
+    "link": "https://www.manning.com/books/vue-js-in-action"
+  },
+  {
+    "bookName": "Angular Development with TypeScript",
+    "bookAuthor": "Yakov Fain, Anton Moiseev",
+    "publishDate": "2018",
+    "sub_track":"662d64169f8ebb6b2e85ee6a",
+    "description": "Master Angular and TypeScript to build scalable and maintainable web applications.",
+    "link": "https://www.amazon.com/Angular-Development-Typescript-Yakov-Fain/dp/1617295345"
+  },
+  {
+    "bookName": "C# in Depth",
+    "author": "Jon Skeet",
+    "sub_track":"662d64169f8ebb6b2e85ee6e",
+    "publishDate": "2019",
+    "description": "A comprehensive guide to C#, covering everything from basic concepts to advanced techniques.",
+    "link": "https://www.amazon.com/C-Depth-Jon-Skeet/dp/1617294535"
+  },
+  {
+    "bookName": "Learning Python",
+    "author": "Mark Lutz",
+    "publishDate": "2013",
+    "sub_track":"662d64169f8ebb6b2e85ee6e",
+    "description": "Get a comprehensive, in-depth introduction to the core Python language.",
+    "link": "https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730"
+  },
+  {
+    "bookName": "PHP & MySQL: Server-side Web Development",
+    "author": "Jon Duckett",
+    "publishDate": "2020",
+    "sub_track":"662d64169f8ebb6b2e85ee6e",
+    "description": "Learn PHP & MySQL from scratch and understand how to build dynamic web applications using these technologies.",
+    "link": "https://www.amazon.com/PHP-MySQL-Server-side-Web-Development/dp/1119149223"
+  },
+  {
+    "bookName": "Eloquent JavaScript: A Modern Introduction to Programming",
+    "author": "Marijn Haverbeke",
+    "publishDate": "2018",
+    "sub_track":"662d64169f8ebb6b2e85ee6e",
+    "description": "A comprehensive guide to JavaScript programming with interactive examples.",
+    "link": "https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507"
+  },
+  {
+    "bookName": "Mastering Visual Studio Code",
+    "author": "James Quick",
+    "publishDate": "2020",
+    "sub_track":"662d64169f8ebb6b2e85ee73",
+    "description": "Master Visual Studio Code and learn how to use it efficiently for web development, Python development, and more.",
+    "link": "https://www.amazon.com/Mastering-Visual-Studio-Code-JavaScript/dp/1838822933"
+  },
+  {
+    "bookName": "Pro Git",
+    "author": "Scott Chacon, Ben Straub",
+    "publishDate": "2014",
+    "sub_track":"662d64169f8ebb6b2e85ee73",
+    "description": "A comprehensive guide to Git, covering everything from basic concepts to advanced techniques.",
+    "link": "https://www.amazon.com/Pro-Git-Scott-Chacon/dp/1484200772"
+  },
+  {
+    "bookName": "Test Driven Development: By Example",
+    "author": "Kent Beck",
+    "publishDate": "2002",
+    "sub_track":"662d64169f8ebb6b2e85ee73",
+    "description": "Learn how to improve your JavaScript coding skills by applying Test Driven Development methodologies.",
+    "link": "https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530"
+  },
+  {
+    "bookName": "How Linux Works",
+    "author": "Brian Ward",
+    "publishDate": "2014",
+    "sub_track":"662d64169f8ebb6b2e85ee76",
+    "description": "A comprehensive guide to Linux, covering everything from basic concepts to advanced techniques.",
+    "link": "https://www.amazon.com/How-Linux-Works-Brian-Ward/dp/1718500408"
+  },
+  {
+    "bookName": "Linux Command Line and Shell Scripting Bible",
+    "author": "Richard Blum, Christine Bresnahan",
+    "publishDate": "2015",
+    "sub_track":"662d64169f8ebb6b2e85ee76",
+    "description": "A comprehensive guide to using the Linux command line and writing shell scripts.",
+    "link": "https://www.amazon.com/Linux-Command-Shell-Scripting-Bible/dp/111898384X"
+  },
+  {
+    "bookName": "Linux Pocket Guide",
+    "author": "Daniel J. Barrett",
+    "publishDate": "2016",
+    "sub_track":"662d64169f8ebb6b2e85ee76",
+    "description": "A handy reference guide to using Linux, covering common commands and tools.",
+    "link": "https://www.amazon.com/Linux-Pocket-Guide-Essential-Commands/dp/1491927577"
+  },
+  {
+    "bookName": "Python Crash Course",
+    "author": "Eric Matthes",
+    "publishDate": "2019",
+    "sub_track":"662d64169f8ebb6b2e85ee78",
+    "description": "A comprehensive guide to Python programming, including a thorough introduction to object-oriented programming.",
+    "link": "https://www.amazon.eg/-/en/Python-Crash-Course-Hands-Project-Based/dp/1593279280"
+  },
+  {
+    "bookName": "You Don't Know JS: this & Object Prototypes",
+    "author": "Kyle Simpson",
+    "publishDate": "2014",
+    "sub_track":"662d64169f8ebb6b2e85ee78",
+    "description": "Learn about object-oriented programming in JavaScript, including prototypes, the 'this' keyword, and more.",
+    "link": "https://www.amazon.com/You-Dont-Know-JS-Prototypes/dp/1491904151"
+  },
+  {
+    "bookName": "C# 8.0 and .NET Core 3.0 – Modern Cross-Platform Development",
+    "author": "Mark J. Price",
+    "publishDate": "2019",
+    "sub_track":"662d64169f8ebb6b2e85ee78",
+    "description": "Learn how to build cross-platform applications with C#, including a thorough introduction to object-oriented programming.",
+    "link": "https://www.amazon.com/NET-Core-3-0-Cross-Platform/dp/1788478126"
+  },
+  {
+    "bookName": "Data Structures and Algorithms Made Easy",
+    "author": "Narasimha Karumanchi",
+    "publishDate": "2011",
+    "sub_track":"662d64169f8ebb6b2e85ee7d",
+    "description": "This book covers the fundamentals of data structures and also teaches readers how to write their own algorithmic solutions.",
+    "link": "https://www.amazon.com/Data-Structures-Algorithms-Made-Easy/dp/819324527X"
+  },
+  {
+    "bookName": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+    "publishDate": "2009",
+    "sub_track":"662d64169f8ebb6b2e85ee7d",
+    "description": "A comprehensive guide to algorithms, covering everything from basic to advanced topics.",
+    "link": "https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844"
+  },
+  {
+    "bookName": "Data Structures and Algorithms in Java",
+    "author": "Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser",
+    "publishDate": "2014",
+    "sub_track":"662d64169f8ebb6b2e85ee7d",
+    "description": "A great choice for Java developers looking to understand data structures and algorithms.",
+    "link": "https://www.amazon.com/Data-Structures-Algorithms-Java-Goodrich/dp/1118771338"
+  },
+  {
+    "bookName": "Head First Design Patterns",
+    "author": "Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson",
+    "publishDate": "2004",
+    "sub_track":"662d64169f8ebb6b2e85ee78",
+    "description": "A brain-friendly guide that teaches design patterns.",
+    "link": "https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124"
+  },
+  {
+    "bookName": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "publishDate": "1994",
+    "sub_track":"662d64169f8ebb6b2e85ee78",
+    "description": "This book represents the definitive catalog of design patterns.",
+    "link": "https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612"
+  },
+  {
+    "bookName": "Design Patterns Explained: A New Perspective on Object-Oriented Design",
+    "author": "Alan Shalloway, James R. Trott",
+    "publishDate": "2004",
+    "sub_track":"662d64169f8ebb6b2e85ee78",
+    "description": "A book that demystifies design pattern concepts and shows you how to implement them in real world problems.",
+    "link": "https://www.amazon.com/Design-Patterns-Explained-Perspective-Object-Oriented/dp/0321247140"
+  },
+  {
+    "bookName": "Computer Networking: A Top-Down Approach",
+    "author": "James Kurose, Keith Ross",
+    "publishDate": "2020",
+    "sub_track":"662d64169f8ebb6b2e85ee83",
+    "description": "This book will guide you through the different networking models by relating them in the form of real-life scenarios.",
+    "link": "https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149"
+  },
+  {
+    "bookName": "Computer Networks",
+    "author": "Andrew S. Tanenbaum, David J. Wetherall",
+    "publishDate": "2010",
+    "sub_track":"662d64169f8ebb6b2e85ee83",
+    "description": "A comprehensive book that covers a wide range of topics in the field of computer networks.",
+    "link": "https://www.amazon.com/Computer-Networks-5th-Andrew-Tanenbaum/dp/0132126958"
+  },
+  {
+    "bookName": "Network Warrior",
+    "author": "Gary A. Donahue",
+    "publishDate": "2011",
+    "sub_track":"662d64169f8ebb6b2e85ee83",
+    "description": "This book takes you step by step through the world of routers, switches, firewalls, and other technologies based on the author's extensive field experience.",
+    "link": "https://www.amazon.com/Network-Warrior-Gary-Donahue/dp/1449387861"
+  },
+  {
+    "bookName": "Java Concurrency in Practice",
+    "author": "Brian Goetz",
+    "publishDate": "2006",
+    "sub_track":"662d64169f8ebb6b2e85ee86",
+    "description": "A comprehensive guide to writing reliable, scalable and maintainable concurrent applications in Java.",
+    "link": "https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601"
+  },
+  {
+    "bookName": "Concurrency in Go",
+    "author": "Katherine Cox-Buday",
+    "publishDate": "2017",
+    "sub_track":"662d64169f8ebb6b2e85ee86",
+    "description": "Learn how to design, implement, and test complex concurrent application software in Go.",
+    "link": "https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197"
+  },
+  {
+    "bookName": "The Art of Multiprocessor Programming",
+    "author": "Maurice Herlihy",
+    "publishDate": "2020",
+    "sub_track":"662d64169f8ebb6b2e85ee86",
+    "description": "This book covers a wide range of topics from fundamental and advanced synchronization issues to safe memory reclamation.",
+    "link": "https://www.amazon.com/Art-Multiprocessor-Programming-revised/dp/0123973376"
+  },
+  {
+    "bookName": "RESTful API Design: Best Practices in API Design with REST",
+    "author": "Matthias Biehl",
+    "publishDate": "2017",
+    "sub_track":"662d64169f8ebb6b2e85ee89",
+    "description": "Learn the best practices in designing APIs for rock-solid web and mobile applications.",
+    "link": "https://www.amazon.com/RESTful-API-Design-API-University-3/dp/1514735164"
+  },
+  {
+    "bookName": "APIs: A Strategy Guide",
+    "author": "Daniel Jacobson",
+    "publishDate": "2011",
+    "sub_track":"662d64169f8ebb6b2e85ee89",
+    "description": "A comprehensive guide on the strategy, business value, design, and use of APIs.",
+    "link": "https://www.amazon.com/APIs-Strategy-Guide-Daniel-Jacobson/dp/1449308929"
+  },
+  {
+    "bookName": "Microservice APIs and Architectures",
+    "author": "Amundsen Mike",
+    "publishDate": "2021",
+    "sub_track":"662d64169f8ebb6b2e85ee89",
+    "description": "Learn how to design and manage APIs for evolving Microservices architectures.",
+    "link": "https://www.amazon.com/Microservice-Architecture-Aligning-Principles-Practices/dp/1491956259"
+  },
+  {
+    "bookName": "SQL in 10 Minutes, Sams Teach Yourself",
+    "author": "Ben Forta",
+    "publishDate": "2012",
+    "sub_track":"662d64169f8ebb6b2e85ee8c",
+    "description": "Learn SQL basics and more advanced topics in just 10 minutes a day.",
+    "link": "https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073"
+  },
+  {
+    "bookName": "MySQL Explained: Your Step By Step Guide",
+    "author": "Mr Andrew Comeau",
+    "publishDate": "2015",
+    "sub_track":"662d64169f8ebb6b2e85ee8c",
+    "description": "Learn MySQL with this step-by-step guide.",
+    "link": "https://www.amazon.com/MySQL-Explained-Guide-Database-Design/dp/1979983119"
+  },
+  {
+    "bookName": "MongoDB: The Definitive Guide",
+    "author": "Kristina Chodorow",
+    "publishDate": "2013",
+    "sub_track":"662d64169f8ebb6b2e85ee8c",
+    "description": "A comprehensive guide to MongoDB for application developers.",
+    "link": "https://www.amazon.com/MongoDB-Definitive-Guide-Kristina-Chodorow/dp/1449344682"
+  },
+  {
+    "bookName": "Building Microservices: Designing Fine-Grained Systems",
+    "author": "Sam Newman",
+    "publishDate": "2015",
+    "sub_track":"662d64169f8ebb6b2e85ee8f",
+    "description": "A comprehensive and thorough treatment of the microservices architectural style and surrounding technologies.",
+    "link": "https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358"
+  },
+  {
+    "bookName": "Microservice Patterns",
+    "author": "Chris Richardson",
+    "publishDate": "2018",
+    "sub_track":"662d64169f8ebb6b2e85ee8f",
+    "description": "This book teaches enterprise developers and architects how to build applications with the microservice architecture.",
+    "link": "https://www.amazon.com/Microservice-Patterns-Chris-Richardson/dp/1617294543"
+  },
+  {
+    "bookName": "Microservices: Flexible Software Architecture",
+    "author": "Eberhard Wolff",
+    "publishDate": "2016",
+    "sub_track":"662d64169f8ebb6b2e85ee8f",
+    "description": "Provides a comprehensive introduction to the microservices architectural style, and examines the role that this approach can play in the modern enterprise.",
+    "link": "https://www.amazon.com/Microservices-Flexible-Architecture-Eberhard-Wolff/dp/0134602412"
+  },
+  {
+    "bookName": "OAuth 2 in Action",
+    "author": "Justin Richer and Antonio Sanso",
+    "publishDate": "2017",
+    "sub_track":"662d64169f8ebb6b2e85ee91",
+    "description": "Teaches you the practical use and deployment of this HTTP-based protocol from the perspectives of a client, authorization server, and resource server.",
+    "link": "https://www.amazon.com/OAuth-2-Action-Justin-Richer/dp/161729327X"
+  },
+  {
+    "bookName": "JWT Handbook",
+    "author": "Auth0",
+    "sub_track":"662d64169f8ebb6b2e85ee91",
+    "description": "Learn everything about JWT from Auth0",
+    "link": "https://auth0.com/resources/ebooks/jwt-handbook"
+  },
+  {
+    "bookName": "Using JWT for Stateless Authentication in Backend Services",
+    "author": "MomentsLog",
+    "sub_track":"662d64169f8ebb6b2e85ee91",
+    "description": "Learn how to implement JWT authentication in a backend service",
+    "link": "https://www.momentslog.com/development/web-backend/using-jwt-for-stateless-authentication-in-backend-services"
+  },
+  {
+    "bookName": "Mastering Nginx",
+    "author": "Dimitri Aivaliotis",
+    "publishDate": "2013",
+    "sub_track":"662d64169f8ebb6b2e85ee94",
+    "description": "A comprehensive guide to Nginx, covering everything from basic to advanced topics.",
+    "link": "https://www.amazon.com/Mastering-Nginx-Dimitri-Aivaliotis/dp/1849517444"
+  },
+  {
+    "bookName": "Apache: The Definitive Guide",
+    "author": "Ben Laurie and Peter Laurie",
+    "publishDate": "2002",
+    "sub_track":"662d64169f8ebb6b2e85ee94",
+    "description": "A comprehensive guide to Apache HTTP Server, covering everything from basic to advanced topics.",
+    "link": "https://www.amazon.com/Apache-Definitive-Guide-Ben-Laurie/dp/0596002033"
+  },
+  {
+    "bookName": "Laravel: Up & Running",
+    "author": "Matt Stauffer",
+    "publishDate": "2016",
+    "sub_track":"662d64169f8ebb6b2e85ee97",
+    "description": "A comprehensive guide to Laravel, covering everything from basic to advanced topics.",
+    "link": "https://www.amazon.com/Laravel-Running-Framework-Building-Modern/dp/1491936088"
+  },
+  {
+    "bookName": "Two Scoops of Django: Best Practices for Django",
+    "author": "Daniel Roy Greenfeld and Audrey Roy Greenfeld",
+    "publishDate": "2020",
+    "sub_track":"662d64169f8ebb6b2e85ee97",
+    "description": "A comprehensive guide to Django, covering everything from basic to advanced topics.",
+    "link": "https://www.amazon.com/Two-Scoops-Django-Best-Practices/dp/0981467342"
+  },
+  {
+    "bookName": "Node.js Design Patterns",
+    "author": "Mario Casciaro and Luciano Mammino",
+    "publishDate": "2020",
+    "sub_track":"662d64169f8ebb6b2e85ee97",
+    "description": "Master best practices to build modular and scalable server-side web applications with Node.js.",
+    "link": "https://www.amazon.com/Node-js-Design-Patterns-production-grade-applications/dp/1839214112"
+  },
+  {
+    "bookName": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
+    "author": "Gayle Laakmann McDowell",
+    "publishDate": "2019",
+    "sub_track":"662d64169f8ebb6b2e85ef83",
+    "description": "A comprehensive book with coding interview questions and strategies for problem-solving.",
+    "link": "https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850"
+  },
+  {
+    "bookName": "Think Like a Programmer: An Introduction to Creative Problem Solving",
+    "author": "V. Anton Spraul",
+    "publishDate": "2012",
+    "sub_track":"662d64169f8ebb6b2e85ef83",
+    "description": "Develop problem-solving skills and learn how to think like a programmer.",
+    "link": "https://www.amazon.com/Think-Like-Programmer-Introduction-Creative/dp/1593274246"
+  },
+  {
+    "bookName": "Problem Solving with Algorithms and Data Structures",
+    "author": "Bradley N. Miller, David L. Ranum",
+    "publishDate": "2011",
+    "sub_track":"662d64169f8ebb6b2e85ef83",
+    "description": "Learn fundamental problem-solving techniques using algorithms and data structures.",
+    "link": "https://runestone.academy/runestone/books/published/pythonds/index.html"
+  },
+  {
+    "bookName": "Concrete Mathematics: A Foundation for Computer Science",
+    "author": "Ronald L. Graham, Donald E. Knuth, Oren Patashnik",
+    "publishDate": "1994",
+    "sub_track":"662d64169f8ebb6b2e85ef84",
+    "description": "Explore mathematical concepts relevant to computer science with a focus on discrete mathematics.",
+    "link": "https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025"
+  },
+  {
+    "bookName": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+    "publishDate": "2009",
+    "sub_track":"662d64169f8ebb6b2e85ef84",
+    "description": "Understand algorithms and their analysis using mathematical reasoning.",
+    "link": "https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844"
+  },
+  {
+    "bookName": "Probability and Statistics for Computer Scientists",
+    "author": "Michael Baron",
+    "sub_track":"662d64169f8ebb6b2e85ef84",
+    "publishDate": "2013",
+    "description": "Learn probability and statistics concepts essential for data analysis and machine learning.",
+    "link": "https://www.amazon.com/Probability-Statistics-Computer-Scientists-Baron/dp/1466575573"
+  },
+  {
+    "bookName": "Code: The Hidden Language of Computer Hardware and Software",
+    "author": "Charles Petzold",
+    "publishDate": "2000",
+    "sub_track":"662d64169f8ebb6b2e85ef85",
+    "description": "Explore the inner workings of computers and how software interacts with hardware.",
+    "link": "https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319"
+  },
+  {
+    "bookName": "Computer Science Illuminated",
+    "author": "Nell Dale, John Lewis",
+    "publishDate": "2018",
+    "sub_track":"662d64169f8ebb6b2e85ef85",
+    "description": "A comprehensive introduction to computer science covering hardware, software, algorithms, and more.",
+    "link": "https://www.amazon.com/Computer-Science-Illuminated-Nell-Dale/dp/1284155617"
+  },
+  {
+    "bookName": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "author": "Robert C. Martin",
+    "publishDate": "2008",
+    "sub_track":"662d64169f8ebb6b2e85ef85",
+    "description": "Learn best practices for writing clean, maintainable, and efficient code.",
+    "link": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"
+  },
+  {
+        "bookName": "How to Win Friends and Influence People",
+        "author": "Dale Carnegie",
+        "sub_track":"662d64169f8ebb6b2e85ef86",
+        "publishDate": "1936",
+        "description": "A timeless classic on interpersonal skills and effective communication.",
+        "link": "https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034"
+      },
+      {
+        "bookName": "Crucial Conversations: Tools for Talking When Stakes Are High",
+        "author": "Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler",
+        "publishDate": "2011",
+        "sub_track":"662d64169f8ebb6b2e85ef86",
+        "description": "Learn how to handle crucial conversations effectively to achieve better outcomes.",
+        "link": "https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822"
+      },
+      {
+        "bookName": "Talk Like TED: The 9 Public-Speaking Secrets of the World's Top Minds",
+        "author": "Carmine Gallo",
+        "publishDate": "2015",
+        "sub_track":"662d64169f8ebb6b2e85ef86",
+        "description": "Discover the secrets of powerful public speaking from TED Talks.",
+        "link": "https://www.amazon.com/Talk-Like-TED-Speaking-Secrets/dp/1250061539"
+      },
+      {
+        "bookName": "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches",
+        "author": "John W. Creswell, J. David Creswell",
+        "publishDate": "2017",
+        "sub_track":"662d64169f8ebb6b2e85ef87",
+        "description": "A comprehensive guide to research design covering qualitative, quantitative, and mixed methods.",
+        "link": "https://www.amazon.com/Research-Design-Qualitative-Quantitative-Methods/dp/1506386709"
+      },
+      {
+        "bookName": "The Craft of Research",
+        "author": "Wayne C. Booth, Gregory G. Colomb, Joseph M. Williams",
+        "publishDate": "2016",
+        "sub_track":"662d64169f8ebb6b2e85ef87",
+        "description": "Learn effective research techniques and strategies for writing research papers.",
+        "link": "https://www.amazon.com/Craft-Research-Fourth-Chicago-Writing/dp/022623973X"
+      },
+      {
+        "bookName": "How to Read a Paper: The Basics of Evidence-Based Medicine",
+        "author": "Trisha Greenhalgh",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85ef87",
+        "description": "A practical guide to critically appraising and understanding research papers.",
+        "link": "https://www.amazon.com/How-Read-Paper-Evidence-Based-Medicine/dp/1118800966"
+      },
+      {
+        "bookName": "The Art of Thinking Clearly",
+        "author": "Rolf Dobelli",
+        "publishDate": "2013",
+        "sub_track":"662d64169f8ebb6b2e85ef88",
+        "description": "Explore common thinking errors and learn how to make better decisions.",
+        "link": "https://www.amazon.com/Art-Thinking-Clearly-Rolf-Dobelli/dp/0062219693"
+      },
+      {
+        "bookName": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "publishDate": "2013",
+        "sub_track":"662d64169f8ebb6b2e85ef88",
+        "description": "A groundbreaking exploration of the two systems that drive the way we think.",
+        "link": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555"
+      },
+      {
+        "bookName": "Make It Stick: The Science of Successful Learning",
+        "author": "Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel",
+        "publishDate": "2014",
+        "sub_track":"662d64169f8ebb6b2e85ef88",
+        "description": "Discover effective learning strategies backed by cognitive science research.",
+        "link": "https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013"
+      },
+      {
+        "bookName": "Logic: A Very Short Introduction",
+        "author": "Graham Priest",
+        "publishDate": "2000",
+        "sub_track":"662d64169f8ebb6b2e85ef89",
+        "description": "An accessible introduction to the principles of logic.",
+        "link": "https://www.amazon.com/Logic-Very-Short-Introduction-Introductions/dp/0192893203"
+      },
+      {
+        "bookName": "Introduction to Logic",
+        "author": "Irving M. Copi, Carl Cohen, Kenneth McMahon",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85ef89",
+        "description": "A comprehensive introduction to formal logic.",
+        "link": "https://www.amazon.com/Introduction-Logic-Irving-Copi/dp/0131898345"
+      },
+      {
+        "bookName": "The Power of Logic",
+        "author": "Frances Howard-Snyder, Daniel Howard-Snyder, Ryan Wasserman",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85ef89",
+        "description": "Develop logical reasoning skills with a focus on practical applications.",
+        "link": "https://www.amazon.com/Power-Logic-Frances-Howard-Snyder-Dr/dp/0078038197"
+      },
+      {
+        "bookName": "Make It Stick: The Science of Successful Learning",
+        "author": "Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel",
+        "publishDate": "2014",
+        "sub_track":"662d64169f8ebb6b2e85ef8a",
+        "description": "Discover effective learning strategies backed by cognitive science research.",
+        "link": "https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013"
+      },
+      {
+        "bookName": "A Mind for Numbers: How to Excel at Math and Science",
+        "author": "Barbara Oakley",
+        "publishDate": "2014",
+        "sub_track":"662d64169f8ebb6b2e85ef8a",
+        "description": "Learn strategies for mastering difficult subjects based on neuroscience.",
+        "link": "https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X"
+      },
+      {
+        "bookName": "Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career",
+        "author": "Scott H. Young",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85ef8a",
+        "description": "Discover the principles of ultralearning for rapid skill acquisition and mastery.",
+        "link": "https://www.amazon.com/Ultralearning-Master-Outsmart-Competition-Accelerate/dp/006285268X"
+      },
+      {
+        "bookName": "Code: The Hidden Language of Computer Hardware and Software",
+        "author": "Charles Petzold",
+        "publishDate": "1999",
+        "sub_track":"662d64169f8ebb6b2e85ef8b",
+        "description": "An exploration of the history and inner workings of computers, explaining how they function at the lowest levels.",
+        "link": "https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319"
+      },
+      {
+        "bookName": "But How Do It Know? - The Basic Principles of Computers for Everyone",
+        "author": "J. Clark Scott",
+        "publishDate": "2009",
+        "sub_track":"662d64169f8ebb6b2e85ef8b",
+        "description": "An accessible introduction to computer architecture and operations, suitable for beginners.",
+        "link": "https://www.amazon.com/But-How-Do-Know-Principles/dp/0615303765"
+      },
+      {
+        "bookName": "Computer Science Distilled: Learn the Art of Solving Computational Problems",
+        "author": "Wladston Ferreira Filho",
+        "publishDate": "2017",
+        "sub_track":"662d64169f8ebb6b2e85ef8b",
+        "description": "A concise guide to computer science fundamentals, designed for self-study and quick reference.",
+        "link": "https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020"
+      },
+      {
+        "bookName": "The Pragmatic Programmer: Your Journey to Mastery",
+        "author": "Andrew Hunt, David Thomas",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85ef8c",
+        "description": "A guide to pragmatic software development, featuring best practices and timeless advice.",
+        "link": "https://www.amazon.com/Pragmatic-Programmer-journey-mastery/dp/0135957052"
+      },
+      {
+        "bookName": "Programming Language Pragmatics",
+        "author": "Michael L. Scott",
+        "publishDate": "2015",
+        "sub_track":"662d64169f8ebb6b2e85ef8c",
+        "description": "A comprehensive exploration of programming language concepts, design, and implementation.",
+        "link": "https://www.amazon.com/Programming-Language-Pragmatics-Michael-Scott/dp/0124104096"
+      },
+      {
+        "bookName": "Eloquent JavaScript: A Modern Introduction to Programming",
+        "author": "Marijn Haverbeke",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85ef8c",
+        "description": "A beginner-friendly book introducing programming concepts using JavaScript, with interactive examples and exercises.",
+        "link": "https://eloquentjavascript.net/"
+      },
+      {
+        "bookName": "Head First Java",
+        "author": "Kathy Sierra, Bert Bates",
+        "publishDate": "2005",
+        "sub_track":"662d64169f8ebb6b2e85ef8d",
+        "description": "A beginner-friendly guide to Java programming, with a focus on object-oriented concepts and practical examples.",
+        "link": "https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208"
+      },
+      {
+        "bookName": "Object-Oriented JavaScript: Learn everything you need to know about object-oriented JavaScript",
+        "author": "Stoyan Stefanov",
+        "publishDate": "2008",
+        "sub_track":"662d64169f8ebb6b2e85ef8d",
+        "description": "A comprehensive guide to object-oriented programming in JavaScript, with practical examples and best practices.",
+        "link": "https://www.amazon.com/Object-Oriented-JavaScript-high-quality-applications-libraries/dp/1847194141"
+      },
+      {
+        "bookName": "Python for Data Analysis",
+        "author": "Wes McKinney",
+        "publishDate": "2017",
+        "sub_track":"662d64169f8ebb6b2e85ef8d",
+        "description": "A guide to data manipulation and analysis using Python, featuring object-oriented programming techniques.",
+        "link": "https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662"
+      },
+      {
+        "bookName": "Functional Programming in Scala",
+        "author": "Paul Chiusano, Rúnar Bjarnason",
+        "publishDate": "2014",
+        "sub_track":"662d64169f8ebb6b2e85ef8e",
+        "description": "A comprehensive guide to functional programming concepts using Scala, with practical examples and exercises.",
+        "link": "https://www.manning.com/books/functional-programming-in-scala"
+      },
+      {
+        "bookName": "JavaScript Allongé",
+        "author": "Reginald Braithwaite",
+        "sub_track":"662d64169f8ebb6b2e85ef8e",
+        "publishDate": "2013",
+        "description": "A deep dive into functional programming concepts in JavaScript, with a focus on composition and elegance.",
+        "link": "https://leanpub.com/javascriptallongesix/read"
+      },
+      {
+        "bookName": "Learn You a Haskell for Great Good!",
+        "author": "Miran Lipovača",
+        "publishDate": "2011",
+        "sub_track":"662d64169f8ebb6b2e85ef8e",
+        "description": "A beginner-friendly introduction to functional programming using Haskell, with humor and practical examples.",
+        "link": "http://learnyouahaskell.com/"
+      },
+      {
+        "bookName": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+        "publishDate": "2009",
+        "sub_track":"662d64169f8ebb6b2e85ef8f",
+        "description": "A classic textbook on algorithms and data structures, widely used in university courses.",
+        "link": "https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844"
+      },
+      {
+        "bookName": "Data Structures and Algorithms in Python",
+        "author": "Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser",
+        "publishDate": "2013",
+        "sub_track":"662d64169f8ebb6b2e85ef8f",
+        "description": "A Python-centric book covering data structures and algorithms, with clear explanations and practical examples.",
+        "link": "https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275"
+      },
+      {
+        "bookName": "Algorithms",
+        "author": "Robert Sedgewick, Kevin Wayne",
+        "publishDate": "2011",
+        "sub_track":"662d64169f8ebb6b2e85ef8f",
+        "description": "An introductory textbook on algorithms, emphasizing problem-solving techniques and algorithm analysis.",
+        "link": "https://algs4.cs.princeton.edu/home/"
+      },
+      {
+        "bookName": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+        "publishDate": "2009",
+        "sub_track":"662d64169f8ebb6b2e85ef90",
+        "description": "A classic textbook on algorithms and data structures, widely used in university courses.",
+        "link": "https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844"
+      },
+      {
+        "bookName": "Algorithms",
+        "author": "Robert Sedgewick, Kevin Wayne",
+        "publishDate": "2011",
+        "sub_track":"662d64169f8ebb6b2e85ef90",
+        "description": "An introductory textbook on algorithms, emphasizing problem-solving techniques and algorithm analysis.",
+        "link": "https://algs4.cs.princeton.edu/home/"
+      },
+      {
+        "bookName": "Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People",
+        "author": "Aditya Bhargava",
+        "publishDate": "2016",
+        "sub_track":"662d64169f8ebb6b2e85ef90",
+        "description": "A beginner-friendly guide to algorithms with visual explanations and real-world examples.",
+        "link": "https://www.manning.com/books/grokking-algorithms"
+      },
+      {
+        "bookName": "Modern Operating Systems",
+        "author": "Andrew S. Tanenbaum, Herbert Bos",
+        "publishDate": "2014",
+        "sub_track":"662d64169f8ebb6b2e85ef91",
+        "description": "A comprehensive textbook on operating systems, covering memory management and other essential topics.",
+        "link": "https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X"
+      },
+      {
+        "bookName": "Computer Organization and Design: The Hardware/Software Interface",
+        "author": "David A. Patterson, John L. Hennessy",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85ef91",
+        "description": "A textbook covering computer organization and architecture, including memory hierarchy and system design.",
+        "link": "https://www.amazon.com/Computer-Organization-Design-Hardware-Interface/dp/0128122757"
+      },
+      {
+        "bookName": "Operating System Concepts",
+        "author": "Abraham Silberschatz, Greg Gagne, Peter B. Galvin",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85ef91",
+        "description": "A classic textbook on operating systems, covering memory management and other key concepts.",
+        "link": "https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1119456339"
+      },
+      {
+        "bookName": "Effective Java",
+        "author": "Joshua Bloch",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85ef92",
+        "description": "A comprehensive guide to effective Java programming, featuring best practices for exception handling and other topics.",
+        "link": "https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997"
+      },
+      {
+        "bookName": "Python Crash Course",
+        "author": "Eric Matthes",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85ef92",
+        "description": "A hands-on introduction to Python programming, featuring practical examples and exercises, including exception handling.",
+        "link": "https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280"
+      },
+      {
+        "bookName": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "author": "Robert C. Martin",
+        "publishDate": "2008",
+        "sub_track":"662d64169f8ebb6b2e85ef92",
+        "description": "A classic book on writing clean, maintainable code, featuring best practices for exception handling and other topics.",
+        "link": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"
+      },
+      {
+        "bookName": "The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win",
+        "author": "Gene Kim, Kevin Behr, George Spafford",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85ef93",
+        "description": "A novel that explores DevOps principles and practices through a fictional story, suitable for beginners.",
+        "link": "https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290"
+      },
+      {
+        "bookName": "Agile Estimating and Planning",
+        "author": "Mike Cohn",
+        "publishDate": "2005",
+        "sub_track":"662d64169f8ebb6b2e85ef93",
+        "description": "A guide to Agile project management, featuring practical techniques for estimation and planning.",
+        "link": "https://www.amazon.com/Agile-Estimating-Planning-Mike-Cohn/dp/0131479415"
+      },
+      {
+        "bookName": "Software Engineering: A Practitioner's Approach",
+        "author": "Roger S. Pressman",
+        "publishDate": "2014",
+        "sub_track":"662d64169f8ebb6b2e85ef93",
+        "description": "A comprehensive textbook on software engineering, covering the entire software development lifecycle.",
+        "link": "https://www.amazon.com/Software-Engineering-Practitioners-Roger-Pressman/dp/0078022126"
+      },
+      {
+        "bookName": "Design Patterns: Elements of Reusable Object-Oriented Software",
+        "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+        "publishDate": "1994",
+        "sub_track":"662d64169f8ebb6b2e85ef94",
+        "description": "A classic book on design patterns, presenting timeless solutions to common design problems.",
+        "link": "https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612"
+      },
+      {
+        "bookName": "Head First Design Patterns",
+        "author": "Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra",
+        "publishDate": "2002",
+        "sub_track":"662d64169f8ebb6b2e85ef94",
+        "description": "A beginner-friendly course on design patterns, featuring a unique and engaging learning style.",
+        "link": "https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124"
+      },
+      {
+        "bookName": "Clean Architecture: A Craftsman's Guide to Software Structure and Design",
+        "author": "Robert C. Martin",
+        "publishDate": "2017",
+        "sub_track":"662d64169f8ebb6b2e85ef94",
+        "description": "A comprehensive guide to software architecture and design principles, featuring clean and maintainable code.",
+        "link": "https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164"
+      },
+      {
+        "bookName": "Pro Git",
+        "author": "Scott Chacon, Ben Straub",
+        "publishDate": "2014",
+        "sub_track":"662d64169f8ebb6b2e85ef95",
+        "description": "A comprehensive guide to Git, covering basic and advanced topics, suitable for beginners and experienced users alike.",
+        "link": "https://git-scm.com/book/en/v2"
+      },
+      {
+        "bookName": "Git Pocket Guide: A Working Introduction",
+        "author": "Richard E. Silverman",
+        "publishDate": "2013",
+        "sub_track":"662d64169f8ebb6b2e85ef95",
+        "description": "A concise reference guide to Git, featuring common commands and workflows for everyday use.",
+        "link": "https://www.amazon.com/Git-Pocket-Guide-Richard-Silverman/dp/1449325866"
+      },
+      {
+        "bookName": "Version Control with Git: Powerful tools and techniques for collaborative software development",
+        "author": "Jon Loeliger, Matthew McCullough",
+        "publishDate": "2012",
+        "sub_track":"662d64169f8ebb6b2e85ef95",
+        "description": "A practical guide to version control with Git, featuring best practices and collaborative workflows.",
+        "link": "https://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387"
+      },
+      {
+        "bookName": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "author": "Robert C. Martin",
+        "publishDate": "2008",
+        "sub_track":"662d64169f8ebb6b2e85ef96",
+        "description": "A classic book on writing clean, maintainable code, featuring best practices for coding standards and software craftsmanship.",
+        "link": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"
+      },
+      {
+        "bookName": "The Clean Coder: A Code of Conduct for Professional Programmers",
+        "author": "Robert C. Martin",
+        "publishDate": "2011",
+        "sub_track":"662d64169f8ebb6b2e85ef96",
+        "description": "A guide to professional conduct and ethics for software developers, featuring practical advice and real-world examples.",
+        "link": "https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073"
+      },
+      {
+        "bookName": "Code Complete: A Practical Handbook of Software Construction",
+        "author": "Steve McConnell",
+        "publishDate": "2004",
+        "sub_track":"662d64169f8ebb6b2e85ef96",
+        "description": "A comprehensive guide to software construction and coding standards, featuring best practices and guidelines.",
+        "link": "https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670"
+      }
+      
+
+]

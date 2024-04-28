@@ -1,9 +1,9 @@
 const mongoose=require('mongoose');
-
+console.log("sdf")
 const courseSchema=new mongoose.Schema({
     sub_track:{
         type:mongoose.Schema.ObjectId,
-        ref:subTrack
+        ref:'subTrack'
     },
     courseName:String,
     description:String,

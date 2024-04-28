@@ -15,8 +15,18 @@ const trackSchema = new mongoose.Schema({
     require: [true, 'A track must have photo'],
   },
   description: String,
-
+  
   companies: Array,
+  importance:String,
+  caseStudy:String,
+  reference:[
+    {
+      title:String,
+      link:String,
+      description:String
+    }
+  ]
+
 });
 
 trackSchema.index({ slug: 1 });
