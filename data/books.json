@@ -467,7 +467,7 @@
     "bookName": "Head First Design Patterns",
     "author": "Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson",
     "publishDate": "2004",
-    "sub_track":"662d64169f8ebb6b2e85ee78",
+    "sub_track":"662d64169f8ebb6b2e85ee82",
     "description": "A brain-friendly guide that teaches design patterns.",
     "link": "https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124"
   },
@@ -475,7 +475,7 @@
     "bookName": "Design Patterns: Elements of Reusable Object-Oriented Software",
     "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
     "publishDate": "1994",
-    "sub_track":"662d64169f8ebb6b2e85ee78",
+    "sub_track":"662d64169f8ebb6b2e85ee82",
     "description": "This book represents the definitive catalog of design patterns.",
     "link": "https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612"
   },
@@ -483,7 +483,7 @@
     "bookName": "Design Patterns Explained: A New Perspective on Object-Oriented Design",
     "author": "Alan Shalloway, James R. Trott",
     "publishDate": "2004",
-    "sub_track":"662d64169f8ebb6b2e85ee78",
+    "sub_track":"662d64169f8ebb6b2e85ee82",
     "description": "A book that demystifies design pattern concepts and shows you how to implement them in real world problems.",
     "link": "https://www.amazon.com/Design-Patterns-Explained-Perspective-Object-Oriented/dp/0321247140"
   },

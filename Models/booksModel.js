@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
-
-const bookSchema = mongoose.Schema({
+console.log('sd')
+const bookSchema = new mongoose.Schema({
   sub_track: {
     type: mongoose.Schema.ObjectId,
     ref: 'subTrack',
@@ -10,7 +10,12 @@ const bookSchema = mongoose.Schema({
   publishDate: String,
   description: String,
   link: String,
-});
+},
+  {
+    toJSON: { virtuals: true },
+    toObject: { virtuals: true },
+    id: false,
+  });
 
-const book=mongoose.model('book',bookSchema);
-module.exports=book
+const Book=mongoose.model('book',bookSchema);
+module.exports=Book
