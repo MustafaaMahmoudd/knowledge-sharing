@@ -1006,6 +1006,1077 @@
     "sub_track":"662d64169f8ebb6b2e85ef96",
     "description": "Learn best practices for code reviews, including how to give and receive feedback effectively.",
     "link": "https://www.pluralsight.com/courses/code-review-best-practices"
+  },
+  {
+    "courseName": "Introduction to Artificial Intelligence",
+    "instructorName": "Sebastian Thrun and Peter Norvig",
+    "sub_track":"662d64169f8ebb6b2e85eeb6",
+    "description": "Learn the basics of artificial intelligence, including problem-solving methods and intelligent agents.",
+    "link": "https://www.udacity.com/course/intro-to-artificial-intelligence--cs271"
+  },
+  {
+    "courseName": "Artificial Intelligence: Principles and Techniques",
+    "instructorName": "Sarit Kraus, Shaul Markovitch, and Oren Etzioni",
+    "sub_track":"662d64169f8ebb6b2e85eeb6",
+    "description": "Explore the principles and techniques underlying the design of intelligent computer systems.",
+    "link": "https://www.coursera.org/learn/ai"
+  },
+  {
+    "courseName": "Artificial Intelligence for Beginners",
+    "instructorName": "Intellipaat ",
+    "sub_track":"662d64169f8ebb6b2e85eeb6",
+    "description": "A beginner-friendly course covering the fundamentals of artificial intelligence and its applications.",
+    "link": "https://www.youtube.com/watch?v=MqffbpjhriQ"
+  },
+  {
+    "courseName": "Mathematics for Machine Learning",
+    "instructorName": "Imperial College London",
+    "sub_track":"662d64169f8ebb6b2e85eebb",
+    "description": "Learn the essential mathematical concepts required for understanding machine learning algorithms.",
+    "link": "https://www.coursera.org/specializations/mathematics-machine-learning"
+  },
+  {
+    "courseName": "Fundamentals of Linear Algebra",
+    "instructorName": "Greg Mayer",
+    "sub_track":"662d64169f8ebb6b2e85eebb",
+    "description": "Master the concepts of linear algebra essential for machine learning and artificial intelligence.",
+    "link": "https://www.edx.org/certificates/professional-certificate/gtx-introductory-linear-algebra"
+  },
+  {
+    "courseName": "Probability and Statistics for Business and Data Science",
+    "instructorName": "University of Illinois at Urbana-Champaign",
+    "sub_track":"662d64169f8ebb6b2e85eebb",
+    "description": "Learn the fundamentals of probability and statistics essential for data science and AI applications.",
+    "link": "https://www.coursera.org/learn/probability-statistics"
+  },
+  {
+    "courseName": "Python for Data Science and Machine Learning Bootcamp",
+    "instructorName": "Jose Portilla",
+    "sub_track":"662d64169f8ebb6b2e85eec1",
+    "description": "Learn Python programming language and its application in data science and machine learning.",
+    "link": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/"
+  },
+  {
+    "courseName": "Deep Learning Specialization",
+    "instructorName": "Andrew Ng",
+    "sub_track":"662d64169f8ebb6b2e85eec1",
+    "description": "Master the essential programming skills in Python for deep learning.",
+    "link": "https://www.coursera.org/specializations/deep-learning"
+  },
+  {
+    "courseName": "AI Programming with Python Nanodegree",
+    "instructorName": "Udacity",
+    "sub_track":"662d64169f8ebb6b2e85eec1",
+    "description": "Learn Python programming language and its application in artificial intelligence.",
+    "link": "https://www.udacity.com/course/ai-programming-python-nanodegree--nd089"
+  },
+  {
+    "courseName": "Data Structures and Algorithms Specialization",
+    "instructorName": "University of California San Diego and National Research University Higher School of Economics",
+    "sub_track":"662d64169f8ebb6b2e85eec5",
+    "description": "Master the fundamentals of data structures and algorithms essential for AI and computer science.",
+    "link": "https://www.coursera.org/specializations/data-structures-algorithms"
+  },
+  {
+    "courseName": "Algorithms",
+    "instructorName": "Robert Sedgewick and Kevin Wayne",
+    "sub_track":"662d64169f8ebb6b2e85eec5",
+    "description": "Learn the essential algorithms and data structures used in computer science and AI applications.",
+    "link": "https://www.coursera.org/learn/algorithms-part1"
+  },
+  {
+    "courseName": "Python for Data Structures, Algorithms, and Interviews!",
+    "instructorName": "Jose Portilla",
+    "sub_track":"662d64169f8ebb6b2e85eec5",
+    "description": "Learn how to implement data structures and algorithms in Python for technical interviews and real-world applications.",
+    "link": "https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/"
+  },
+  {
+    "courseName": "Machine Learning",
+    "instructorName": "Andrew Ng",
+    "sub_track":"662d64169f8ebb6b2e85eeca",
+    "description": "Learn the fundamentals of machine learning, including supervised and unsupervised learning.",
+    "link": "https://www.coursera.org/learn/machine-learning"
+  },
+  {
+    "courseName": "Practical Deep Learning for Coders",
+    "instructorName": "Jeremy Howard",
+    "sub_track":"662d64169f8ebb6b2e85eeca",
+    "description": "A practical course that teaches deep learning techniques using the fastai library.",
+    "link": "https://course.fast.ai/"
+  },
+  {
+    "courseName": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+    "instructorName": "Kirill Eremenko and Hadelin de Ponteves",
+    "sub_track":"662d64169f8ebb6b2e85eeca",
+    "description": "A comprehensive course covering machine learning algorithms in Python and R.",
+    "link": "https://www.udemy.com/course/machinelearning/"
+  },
+  {
+    "courseName": "Deep Learning Specialization",
+    "instructorName": "Andrew Ng",
+    "sub_track":"662d64169f8ebb6b2e85eecf",
+    "description": "Master deep learning techniques, including neural networks, convolutional networks, and recurrent networks.",
+    "link": "https://www.coursera.org/specializations/deep-learning"
+  },
+  {
+    "courseName": "Neural Networks and Deep Learning",
+    "instructorName": "Andrew Ng",
+    "sub_track":"662d64169f8ebb6b2e85eecf",
+    "description": "Learn the foundations of neural networks and deep learning.",
+    "link": "https://www.coursera.org/learn/neural-networks-deep-learning"
+  },
+  {
+    "courseName": "Deep Learning for Computer Vision",
+    "instructorName": "Adrian Rosebrock",
+    "sub_track":"662d64169f8ebb6b2e85eecf",
+    "description": "A practical course on deep learning techniques for computer vision applications.",
+    "link": "https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/"
+  },
+  {
+    "courseName": "Practical Reinforcement Learning",
+    "instructorName": "IBM Company",
+    "sub_track":"662d64169f8ebb6b2e85eed4",
+    "description": "Learn the basics of reinforcement learning and its applications in AI.",
+    "link": "https://www.coursera.org/learn/deep-learning-reinforcement-learning"
+  },
+  {
+    "courseName": "Deep Reinforcement Learning in Python",
+    "instructorName": "Lazy Programmer Inc.",
+    "sub_track":"662d64169f8ebb6b2e85eed4",
+    "description": "A practical course on deep reinforcement learning using Python and TensorFlow.",
+    "link": "https://www.udemy.com/course/deep-reinforcement-learning-in-python/"
+  },
+  {
+    "courseName": "Reinforcement Learning Specialization",
+    "instructorName": "University of Alberta",
+    "sub_track":"662d64169f8ebb6b2e85eed4",
+    "description": "Master the foundations of reinforcement learning and its applications in AI.",
+    "link": "https://www.coursera.org/specializations/reinforcement-learning"
+  },
+  {
+    "courseName": "Natural Language Processing with Deep Learning",
+    "instructorName": "Stanford University",
+    "sub_track":"662d64169f8ebb6b2e85eed9",
+    "description": "Learn deep learning techniques for natural language processing tasks.",
+    "link": "https://web.stanford.edu/class/cs224n/"
+  },
+  {
+    "courseName": "Natural Language Processing Specialization",
+    "instructorName": "deeplearning.ai",
+    "sub_track":"662d64169f8ebb6b2e85eed9",
+    "description": "Master the fundamentals of natural language processing and its applications.",
+    "link": "https://www.coursera.org/specializations/natural-language-processing"
+  },
+  {
+    "courseName": "Practical Deep Learning for Coders",
+    "instructorName": "Jeremy Howard",
+    "sub_track":"662d64169f8ebb6b2e85eed9",
+    "description": "A practical course on deep learning techniques for natural language processing.",
+    "link": "https://course.fast.ai/"
+  },
+  {
+    "courseName": "Computer Vision",
+    "instructorName": "Georgia Institute of Technology",
+    "sub_track":"662d64169f8ebb6b2e85eedd",
+    "description": "Learn the fundamentals of computer vision, including image processing techniques and object detection.",
+    "link": "https://www.udacity.com/course/computer-vision-nanodegree--nd891"
+  },
+  {
+    "courseName": "Deep Learning for Computer Vision",
+    "instructorName": "Adrian Rosebrock",
+    "sub_track":"662d64169f8ebb6b2e85eedd",
+    "description": "Master deep learning techniques for computer vision applications.",
+    "link": "https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/"
+  },
+  {
+    "courseName": "Convolutional Neural Networks for Visual Recognition",
+    "instructorName": "Stanford University",
+    "sub_track":"662d64169f8ebb6b2e85eedd",
+    "description": "Learn about convolutional neural networks and their applications in visual recognition tasks.",
+    "link": "http://cs231n.stanford.edu/"
+  },
+  {
+    "courseName": "AI Ethics",
+    "instructorName": "Oxford Internet Institute",
+    "sub_track":"662d64169f8ebb6b2e85eee2",
+    "description": "Explore the ethical considerations surrounding the development and deployment of AI systems.",
+    "link": "https://www.oxford-aiethics.ox.ac.uk/"
+  },
+  {
+    "courseName": "Ethics of Artificial Intelligence",
+    "instructorName": "Politecnico di Milano",
+    "sub_track":"662d64169f8ebb6b2e85eee2",
+    "description": "Learn about the ethical implications of AI and big data technologies.",
+    "link": "https://www.coursera.org/learn/ethics-of-artificial-intelligence"
+  },
+  {
+    "courseName": "Artificial Intelligence Ethics",
+    "instructorName": "Columbia University",
+    "sub_track":"662d64169f8ebb6b2e85eee2",
+    "description": "An overview of ethical issues in artificial intelligence, including bias, privacy, and accountability.",
+    "link": "https://www.edx.org/learn/business-ethics/the-linux-foundation-ethics-in-ai-and-data-science"
+  },
+  {
+    "courseName": "Robotics Fundamental Course",
+    "instructorName": "Edutainer",
+    "sub_track":"662d64169f8ebb6b2e85eee7",
+    "description": "Learn the fundamentals of robotics, including robot kinematics, dynamics, and control.",
+    "link": "https://www.udemy.com/course/robotics-course/"
+  },
+  {
+    "courseName": "Modern Robotics: Mechanics, Planning, and Control",
+    "instructorName": "Northwestern University",
+    "sub_track":"662d64169f8ebb6b2e85eee7",
+    "description": "Master the concepts and techniques of modern robotics, including motion planning and control.",
+    "link": "https://www.coursera.org/specializations/modernrobotics"
+  },
+  {
+    "courseName": "Robotics Nanodegree",
+    "instructorName": "Udacity",
+    "sub_track":"662d64169f8ebb6b2e85eee7",
+    "description": "Learn the foundations of robotics and build real-world robotics projects.",
+    "link": "https://www.udacity.com/course/robotics-software-engineer--nd209"
+  },
+  {
+    "courseName": "Reasoning: Goal Trees and Rule-Based Expert Systems",
+    "instructorName": "Patrick H. Winston",
+    "sub_track":"662d64169f8ebb6b2e85eeec",
+    "description": "Learn about the design and implementation of expert systems for problem-solving.",
+    "link": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/resources/lecture-3-reasoning-goal-trees-and-rule-based-expert-systems/"
+  },
+  {
+    "courseName": "Artificial Intelligence: Representation and Problem Solving",
+    "instructorName": "University of California, Berkeley",
+    "sub_track":"662d64169f8ebb6b2e85eeec",
+    "description": "Master the techniques of knowledge representation and problem-solving in artificial intelligence.",
+    "link": "https://www.cs.cmu.edu/~15281/"
+  },
+  {
+    "courseName": "Knowledge-Based AI: Cognitive Systems",
+    "instructorName": "David Joyner",
+    "sub_track":"662d64169f8ebb6b2e85eeec",
+    "description": "Explore the principles and techniques of knowledge-based AI systems.",
+    "link": "https://www.udacity.com/course/knowledgebased-ai-cognitive-systems--ud409"
+  },
+  {
+    "courseName": "Artificial Intelligence for Simple Games",
+    "instructorName": "Jan Warchocki",
+    "sub_track":"662d64169f8ebb6b2e85eef0",
+    "description": "Learn about the techniques and algorithms used to create intelligent agents in games.",
+    "link": "https://www.udemy.com/course/artificial-intelligence-for-simple-games/"
+  },
+  {
+    "courseName": "Game AI Pro",
+    "instructorName": "Steve Rabin",
+    "sub_track":"662d64169f8ebb6b2e85eef0",
+    "description": "A collection of articles covering advanced topics in game AI development.",
+    "link": "https://www.gameaipro.com/"
+  },
+  {
+    "courseName": "Applied AI in Unity",
+    "instructorName": "Unity Technologies",
+    "sub_track":"662d64169f8ebb6b2e85eef0",
+    "description": "Learn how to implement artificial intelligence techniques in Unity game development.",
+    "link": "https://learn.unity.com/course/applied-ai-in-unity"
+  },
+  {
+    "courseName": "AI for Everyone",
+    "instructorName": "Andrew Ng",
+    "sub_track":"662d64169f8ebb6b2e85eef4",
+    "description": "An introduction to artificial intelligence and its implications for business.",
+    "link": "https://www.coursera.org/learn/ai-for-everyone"
+  },
+  {
+    "courseName": "AI For Business Specialization",
+    "instructorName": "Columbia University",
+    "sub_track":"662d64169f8ebb6b2e85eef4",
+    "description": "Learn how artificial intelligence is transforming business operations and strategy.",
+    "link": "https://www.coursera.org/specializations/ai-for-business-wharton"
+  },
+  {
+    "courseName": "Foundations of Business Intelligence",
+    "instructorName": "Google Cloud",
+    "sub_track":"662d64169f8ebb6b2e85eef4",
+    "description": "Explore how AI and business intelligence are leveraged in cloud computing.",
+    "link": "https://www.coursera.org/learn/foundations-of-business-intelligence"
+  },
+  {
+    "courseName": "Advanced AI: Deep Reinforcement Learning in Python",
+    "instructorName": "Lazy Programmer Inc.",
+    "sub_track":"662d64169f8ebb6b2e85eef9",
+    "description": "A deep dive into advanced AI techniques, focusing on deep reinforcement learning.",
+    "link": "https://www.udemy.com/course/deep-reinforcement-learning-in-python/"
+  },
+  {
+    "courseName": "Artificial Intelligence in Healthcare",
+    "instructorName": "Stanford University",
+    "sub_track":"662d64169f8ebb6b2e85eef9",
+    "description": "Explore the intersection of artificial intelligence and healthcare.",
+    "link": "https://www.coursera.org/specializations/ai-healthcare"
+  },
+  {
+    "courseName": "Artificial Intelligence for Robotics",
+    "instructorName": "Georgia Institute of Technology",
+    "sub_track":"662d64169f8ebb6b2e85eef9",
+    "description": "Learn about the latest advancements in artificial intelligence for robotics applications.",
+    "link": "https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373"
+  },
+  {
+    "courseName": "Dart Programming Language - Complete Course",
+    "instructorName": "The Net Ninja",
+    "sub_track":"662d64169f8ebb6b2e85ef03",
+    "description": "Learn Dart programming language from scratch and prepare for Flutter development.",
+    "link": "https://www.youtube.com/watch?v=Ej_Pcr4uC2Q"
+  },
+  {
+    "courseName": "Dart and Flutter: The Complete Developer's Guide",
+    "instructorName": "Stephen Grider",
+    "sub_track":"662d64169f8ebb6b2e85ef03",
+    "description": "A comprehensive guide to Dart programming language with a focus on Flutter development.",
+    "link": "https://www.udemy.com/course/dart-and-flutter-the-complete-developers-guide/"
+  },
+  {
+    "courseName": "Learning Dart – A Complete Course for Beginners",
+    "instructorName": "Academind by Maximilian Schwarzmüller",
+    "sub_track":"662d64169f8ebb6b2e85ef03",
+    "description": "Beginner-friendly course to understand Dart programming language fundamentals.",
+    "link": "https://pro.academind.com/p/flutter-the-complete-guide-2023"
+  },
+  {
+    "courseName": "Flutter & Dart - The Complete Guide [2024 Edition]",
+    "instructorName": "Maximilian Schwarzmüller",
+    "sub_track":"662d64169f8ebb6b2e85ef08",
+    "description": "Master Flutter and Dart to build beautiful, fast, and native-quality apps.",
+    "link": "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/"
+  },
+  {
+    "courseName": "Flutter Development Bootcamp with Dart",
+    "instructorName": "Angela Yu",
+    "sub_track":"662d64169f8ebb6b2e85ef08",
+    "description": "Learn Flutter and Dart by building real iOS and Android apps from scratch.",
+    "link": "https://www.udemy.com/course/flutter-bootcamp-with-dart"
+  },
+  {
+    "courseName": "Build Native Mobile Apps with Flutter",
+    "instructorName": "Google Flutter Team",
+    "sub_track":"662d64169f8ebb6b2e85ef08",
+    "description": "Official course by Google to learn Flutter and build your first app.",
+    "link": "https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905"
+  },
+  {
+    "courseName": "The Complete 2022 Flutter & Dart Development Course [Arabic]",
+    "instructorName": "Abdullah Mansour",
+    "sub_track":"662d64169f8ebb6b2e85ef0e",
+    "description": "Learn Flutter layout basics and create stunning UIs with widgets.",
+    "link": "https://www.udemy.com/course/complete-flutter-arabic/"
+  },
+  {
+    "courseName": "Mastering Flutter: Responsive & Adaptive UI Design [Arabic]",
+    "instructorName": "Tharwat Samy",
+    "sub_track":"662d64169f8ebb6b2e85ef0e",
+    "description": "Master responsive UI development in Flutter for multiple device sizes.",
+    "link": "https://www.udemy.com/course/mastering-flutter-responsive-adaptive-ui-design-arabic/"
+  },
+  {
+    "courseName": "Getting started with Flutter Development",
+    "instructorName": "Google Cloud Training",
+    "sub_track":"662d64169f8ebb6b2e85ef0e",
+    "description": "Learn Flutter layout concepts and create complex UIs with ease.",
+    "link": "https://www.coursera.org/projects/googlecloud-getting-started-with-flutter-development-guo1q"
+  },
+  {
+    "courseName": "Flutter Navigation and Routing",
+    "instructorName": "Raja Yogan",
+    "sub_track":"662d64169f8ebb6b2e85ef12",
+    "description": "Learn Flutter navigation and routing techniques to create seamless user experiences.",
+    "link": "https://www.udemy.com/course/flutter-gorouter-complete-guide/"
+  },
+  {
+    "courseName": "Flutter Navigation: Getting Started",
+    "instructorName": "Flutter Community",
+    "sub_track":"662d64169f8ebb6b2e85ef12",
+    "description": "Beginner-friendly course to understand Flutter navigation basics and best practices.",
+    "link": "https://flutter.dev/docs/cookbook#navigation"
+  },
+  {
+    "courseName": "Flutter Navigation Masterclass",
+    "instructorName": "Reso Coder",
+    "sub_track":"662d64169f8ebb6b2e85ef12",
+    "description": "Master Flutter navigation patterns and create complex navigation flows.",
+    "link": "https://www.udemy.com/course/learn-flutter-complete-guide/"
+  },
+  {
+    "courseName": "State Management in Flutter",
+    "instructorName": "Andrea Bizzotto",
+    "sub_track":"662d64169f8ebb6b2e85ef17",
+    "description": "Learn various state management techniques in Flutter, including Provider, Bloc, and Riverpod.",
+    "link": "https://www.udemy.com/course/flutter-state-management/"
+  },
+  {
+    "courseName": "Flutter State Management with Provider",
+    "instructorName": "Dane Mackier",
+    "sub_track":"662d64169f8ebb6b2e85ef17",
+    "description": "Master state management using Provider package in Flutter.",
+    "link": "https://www.udemy.com/course/flutter-provider-state-management/"
+  },
+  {
+    "courseName": "Flutter Bloc Library Course",
+    "instructorName": "Tiberiu Potec",
+    "sub_track":"662d64169f8ebb6b2e85ef17",
+    "description": "Comprehensive guide to state management with Bloc library in Flutter.",
+    "link": "https://www.udemy.com/course/bloc-from-zero-to-hero/"
+  },
+  {
+    "courseName": "Flutter REST API Crash Course",
+    "instructorName": "Hadi Kachmar",
+    "sub_track":"662d64169f8ebb6b2e85ef1d",
+    "description": "Learn how to make HTTP requests and interact with REST APIs in Flutter.",
+    "link": "https://www.youtube.com/watch?v=YAoYJfitObA"
+  },
+  {
+    "courseName": "Flutter & FFirebase Full Course for Beginners",
+    "instructorName": "WsCube Tech",
+    "sub_track":"662d64169f8ebb6b2e85ef1d",
+    "description": "Build real-world apps with Flutter and Firebase, including working with REST APIs.",
+    "link": "https://www.youtube.com/watch?v=SOoGd4Ult1o"
+  },
+  {
+    "courseName": "Flutter: Getting Started with HTTP Requests",
+    "instructorName": "ProgrammingKnowledge",
+    "sub_track":"662d64169f8ebb6b2e85ef1d",
+    "description": "Beginner-friendly course on making HTTP requests in Flutter.",
+    "link": "https://www.youtube.com/watch?v=M67vNXN1OOk"
+  },
+  {
+    "courseName": "SQLITE Ultimate Guide for Flutter Developers",
+    "instructorName": "Snippet Coder",
+    "sub_track":"662d64169f8ebb6b2e85ef22",
+    "description": "Learn how to integrate SQLite database in Flutter applications.",
+    "link": "https://www.youtube.com/watch?v=0qx70QE-yKo"
+  },
+  {
+    "courseName": "Flutter & Firebase - Build a Complete App for iOS & Android",
+    "instructorName": "Mohammad Azam",
+    "sub_track":"662d64169f8ebb6b2e85ef22",
+    "description": "Build real-world apps with Flutter and Firebase, including Firestore database.",
+    "link": "https://www.udemy.com/course/flutter-firebase-build-real-world-ios-and-android-apps/"
+  },
+  {
+    "courseName": "Flutter Storage - SharedPreferences (Arabic)",
+    "instructorName": "Mohamed Fathy Taha",
+    "sub_track":"662d64169f8ebb6b2e85ef22",
+    "description": "Learn how to persist data in Flutter apps using various storage options.",
+    "link": "https://www.youtube.com/watch?v=gFTopmKgCJE"
+  },
+  {
+    "courseName": "Flutter UI Bootcamp | Build Beautiful Apps using Flutter",
+    "instructorName": "Marcus Ng",
+    "sub_track":"662d64169f8ebb6b2e85ef27",
+    "description": "Master Flutter layout basics and create stunning UIs with widgets.",
+    "link": "https://www.udemy.com/course/the-complete-flutter-ui-course-build-amazing-mobile-ui/"
+  },
+  {
+    "courseName": "Mastering Flutter: Responsive & Adaptive UI Design [Arabic]",
+    "instructorName": "Tharwat Samy",
+    "sub_track":"662d64169f8ebb6b2e85ef27",
+    "description": "Master responsive UI development in Flutter for multiple device sizes.",
+    "link": "https://www.udemy.com/course/mastering-flutter-responsive-adaptive-ui-design-arabic/"
+  },
+  {
+    "courseName": "Creating Layouts with Flutter 2",
+    "instructorName": "Simone Alessandria",
+    "sub_track":"662d64169f8ebb6b2e85ef27",
+    "description": "Learn Flutter layout concepts and create complex UIs with ease.",
+    "link": "https://www.pluralsight.com/courses/creating-layouts-flutter"
+  },
+  {
+    "courseName": "Flutter App Deployment - The Complete Guide",
+    "instructorName": "Hassan Fulaih",
+    "sub_track":"662d64169f8ebb6b2e85ef2b",
+    "description": "Learn how to deploy Flutter apps to iOS App Store and Google Play Store.",
+    "link": "https://www.udemy.com/course/fluttercourse/"
+  },
+  {
+    "courseName": "How to Publish Flutter App on App Store",
+    "instructorName": "HeyFlutter․com",
+    "sub_track":"662d64169f8ebb6b2e85ef2b",
+    "description": "Step-by-step guide to publishing Flutter apps to app stores.",
+    "link": "https://www.youtube.com/watch?v=0zgDF81ZLrQ"
+  },
+  {
+    "courseName": "Flutter Cross Platform App Development Tutorial for Beginners",
+    "instructorName": "Freecodecamp",
+    "sub_track":"662d64169f8ebb6b2e85ef2b",
+    "description": "Beginner-friendly course on deploying Flutter apps to app stores.",
+    "link": "https://www.youtube.com/watch?v=VPvVD8t02U8"
+  },
+  {
+    "courseName": "Flutter advanced Course [architectures in flutter]",
+    "instructorName": "Ahmed sherif",
+    "sub_track":"662d64169f8ebb6b2e85ef2f",
+    "description": "Master advanced Flutter concepts like animations, custom painting, and more.",
+    "link": "https://www.udemy.com/course/flutter-advanced-course-architectures-in-flutter/"
+  },
+  {
+    "courseName": "Flutter Advanced - Advanced Cross-Platform Mobile Development",
+    "instructorName": "Bryan Cairns",
+    "sub_track":"662d64169f8ebb6b2e85ef2f",
+    "description": "Take your Flutter skills to the next level with advanced techniques and patterns.",
+    "link": "https://www.udemy.com/course/flutter-advanced-course/"
+  },
+  {
+    "courseName": "Advanced Flutter Masterclass",
+    "instructorName": "Swarup Kumar Acharya",
+    "sub_track":"662d64169f8ebb6b2e85ef2f",
+    "description": "In-depth course covering advanced topics in Flutter development.",
+    "link": "https://mavenzacademy.com/courses/advanced-flutter-masterclass/"
+  },
+  {
+    "courseName": "Developing Packages in Flutter",
+    "instructorName": "Miguel Beltran",
+    "sub_track":"662d64169f8ebb6b2e85ef33",
+    "description": "Learn how to use and create Flutter packages and plugins.",
+    "link": "https://www.pluralsight.com/courses/developing-packages-flutter"
+  },
+  {
+    "courseName": "Flutter Plugin Creation & Publishing on Pub. dev",
+    "instructorName": "Ashish Raturi",
+    "sub_track":"662d64169f8ebb6b2e85ef33",
+    "description": "Intermediate-level course on developing Flutter plugins for native integrations.",
+    "link": "https://www.udemy.com/course/how-to-create-flutter-plugin-and-publish-plugin-in-pub-dev/"
+  },
+  {
+    "courseName": "Flutter and Dart: Package Development",
+    "instructorName": "Flutter Community",
+    "sub_track":"662d64169f8ebb6b2e85ef33",
+    "description": "Official documentation and guides for developing packages in Flutter.",
+    "link": "https://flutter.dev/docs/development/packages-and-plugins/developing-packages"
+  },
+  {
+    "courseName": "Cybersecurity Fundamentals",
+    "instructorName": "Cory Doctorow",
+    "sub_track":"662d64169f8ebb6b2e85ee9b",
+    "description": "Get introduced to the basics of cybersecurity, including threats, vulnerabilities, and risk management.",
+    "link": "https://www.coursera.org/learn/cyber-security-fundamentals"
+  },
+  {
+    "courseName": "Introduction to Cybersecurity",
+    "instructorName": "University of Maryland, College Park",
+    "sub_track":"662d64169f8ebb6b2e85ee9b",
+    "description": "An introductory course covering essential concepts in cybersecurity, cryptography, and network security.",
+    "link": "https://www.coursera.org/specializations/intro-cyber-security"
+  },
+  {
+    "courseName": "Cybersecurity Essentials",
+    "instructorName": "Cisco Networking Academy",
+    "sub_track":"662d64169f8ebb6b2e85ee9b",
+    "description": "Learn the fundamentals of cybersecurity, including security principles, incident response, and risk management.",
+    "link": "https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials"
+  },
+  {
+    "courseName": "Operating Systems Security",
+    "instructorName": "University of Colorado Boulder",
+    "sub_track":"662d64169f8ebb6b2e85ee9f",
+    "description": "Learn about the security mechanisms and vulnerabilities present in modern operating systems.",
+    "link": "https://www.coursera.org/learn/os-security"
+  },
+  {
+    "courseName": "Operating System Fundamentals",
+    "instructorName": "Rice University",
+    "sub_track":"662d64169f8ebb6b2e85ee9f",
+    "description": "Understand the core concepts of operating systems and their relevance to cybersecurity.",
+    "link": "https://www.coursera.org/learn/akamai-operating-systems"
+  },
+  {
+    "courseName": "Cybersecurity and Its Ten Domains",
+    "instructorName": "University of California, Irvine",
+    "sub_track":"662d64169f8ebb6b2e85ee9f",
+    "description": "Explore the intersection of cybersecurity and operating systems across various domains.",
+    "link": "https://www.coursera.org/learn/cyber-security-domain"
+  },
+  {
+    "courseName": "Computer Networking Basics",
+    "instructorName": "Georgia Tech",
+    "sub_track":"662d64169f8ebb6b2e85eea3",
+    "description": "Gain a foundational understanding of computer networking, including protocols, architectures, and security.",
+    "link": "https://www.netacad.com/courses/networking/networking-essentials"
+  },
+  {
+    "courseName": "Introduction to Networking",
+    "instructorName": "Cisco Networking Academy",
+    "sub_track":"662d64169f8ebb6b2e85eea3",
+    "description": "Learn the basics of networking, including protocols, devices, and troubleshooting.",
+    "link": "https://www.netacad.com/courses/networking/ccna-introduction-networks"
+  },
+  {
+    "courseName": "Networking and Security Fundamentals",
+    "instructorName": "University of Washington",
+    "sub_track":"662d64169f8ebb6b2e85eea3",
+    "description": "Explore the fundamentals of networking and their implications for cybersecurity.",
+    "link": "https://www.coursera.org/learn/network-security-fundamentals"
+  },
+  {
+    "courseName": "TCP/IP and Advanced Networking Protocols",
+    "instructorName": "University of Colorado Boulder",
+    "sub_track":"662d64169f8ebb6b2e85eea7",
+    "description": "Explore advanced networking protocols and their role in modern cybersecurity.",
+    "link": "https://www.coursera.org/learn/tcp-ip-advanced"
+  },
+  {
+    "courseName": "Network Security Protocols",
+    "instructorName": "Stanford University",
+    "sub_track":"662d64169f8ebb6b2e85eea7",
+    "description": "Learn about common network security protocols and their vulnerabilities.",
+    "link": "https://www.coursera.org/learn/-network-security"
+  },
+  {
+    "courseName": "Secure Network Protocols and Implementation",
+    "instructorName": "Georgia Tech",
+    "sub_track":"662d64169f8ebb6b2e85eea7",
+    "description": "Discover techniques for implementing secure network protocols and mitigating common attacks.",
+    "link": "https://www.udacity.com/course/infrastructure-and-network-security-architecture-planning-and-design--cd0396"
+  },
+  {
+    "courseName": "Secure Coding Practices",
+    "instructorName": "University of Maryland, College Park",
+    "sub_track":"662d64169f8ebb6b2e85eeaa",
+    "description": "Learn about secure coding principles and techniques to mitigate common security vulnerabilities.",
+    "link": "https://www.coursera.org/specializations/secure-coding-practices"
+  },
+  {
+    "courseName": "Python for Security Professionals",
+    "instructorName": "Georgia Tech",
+    "sub_track":"662d64169f8ebb6b2e85eeaa",
+    "description": "Master Python programming and its applications in cybersecurity, including scripting and automation.",
+    "link": "https://www.coursera.org/specializations/pythonforcybersecurity"
+  },
+  {
+    "courseName": "Cryptography and Network Security",
+    "instructorName": "Stanford University",
+    "sub_track":"662d64169f8ebb6b2e85eeaa",
+    "description": "Explore cryptographic algorithms, protocols, and their applications in network security.",
+    "link": "https://www.coursera.org/learn/crypto"
+  },
+  {
+    "courseName": "Database Security",
+    "instructorName": "IBM Company",
+    "sub_track":"662d64169f8ebb6b2e85eead",
+    "description": "Learn about database security mechanisms, vulnerabilities, and best practices for securing data.",
+    "link": "https://www.coursera.org/learn/network-security-database-vulnerabilities"
+  },
+  {
+    "courseName": "SQL Injection Prevention",
+    "instructorName": "Laurentiu Raducu",
+    "sub_track":"662d64169f8ebb6b2e85eead",
+    "description": "Explore techniques for preventing SQL injection attacks and securing SQL databases.",
+    "link": "https://www.pluralsight.com/courses/data-sec-champ-sql-injection-prevention"
+  },
+  {
+    "courseName": "Data Privacy and Security",
+    "instructorName": "Tim Carrington",
+    "sub_track":"662d64169f8ebb6b2e85eead",
+    "description": "Understand the principles of data privacy and security in the context of database management.",
+    "link": "https://www.coursera.org/learn/data-security-privacy"
+  },
+  {
+    "courseName": "Ethical Hacking Essentials (EHE)",
+    "instructorName": "EC-Council",
+    "sub_track":"662d64169f8ebb6b2e85eeb0",
+    "description": "Learn ethical hacking techniques, tools, and methodologies to identify and mitigate security vulnerabilities.",
+    "link": "https://www.coursera.org/learn/ethical-hacking-essentials-ehe"
+  },
+  {
+    "courseName": "Practical Ethical Hacking",
+    "instructorName": "TCM Security Academy",
+    "sub_track":"662d64169f8ebb6b2e85eeb0",
+    "description": "Hands-on training in ethical hacking, penetration testing, and vulnerability assessment.",
+    "link": "https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course"
+  },
+  {
+    "courseName": "Ethical Hacking Advanced Nanodegree Program",
+    "instructorName": "Paul Oyelakin and Sagar Bansal",
+    "sub_track":"662d64169f8ebb6b2e85eeb0",
+    "description": "Apply your cybersecurity skills in a practical setting through a capstone project.",
+    "link": "https://www.udacity.com/course/ethical-hacker-nanodegree--nd350"
+  },
+  {
+    "courseName": "Security by Design",
+    "instructorName": "Matthew Warren",
+    "sub_track":"662d64169f8ebb6b2e85eeb2",
+    "description": "Learn how to incorporate security principles into the design and development of software systems.",
+    "link": "https://www.futurelearn.com/courses/security-by-design"
+  },
+  {
+    "courseName": "Security Operations",
+    "instructorName": "ISC2",
+    "sub_track":"662d64169f8ebb6b2e85eeb2",
+    "description": "Explore security operations strategies, processes, and best practices for incident response and threat management.",
+    "link": "https://www.coursera.org/learn/security-operations/"
+  },
+  {
+    "courseName": "Cybersecurity Risk Management",
+    "instructorName": "University of California, Irvine",
+    "sub_track":"662d64169f8ebb6b2e85eeb2",
+    "description": "Learn how to identify, assess, and mitigate cybersecurity risks in organizations.",
+    "link": "https://www.coursera.org/specializations/information-security"
+  },
+  {
+    "courseName": "Certified Ethical Hacker (CEH)",
+    "instructorName": "EC-Council",
+    "sub_track":"662d64169f8ebb6b2e85eeb3",
+    "description": "Prepare for the Certified Ethical Hacker (CEH) certification exam with this comprehensive training.",
+    "link": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"
+  },
+  {
+    "courseName": "CompTIA Security+",
+    "instructorName": "CompTIA",
+    "sub_track":"662d64169f8ebb6b2e85eeb3",
+    "description": "Gain foundational cybersecurity knowledge and prepare for the CompTIA Security+ certification exam.",
+    "link": "https://www.comptia.org/certifications/security"
+  },
+  {
+    "courseName": "Offensive Security Certified Professional (OSCP)",
+    "instructorName": "Offensive Security",
+    "sub_track":"662d64169f8ebb6b2e85eeb3",
+    "description": "Take your penetration testing skills to the next level with the Offensive Security Certified Professional (OSCP) certification.",
+    "link": "https://www.offensive-security.com/pwk-oscp/"
+  },
+  {
+    "courseName": "Cybersecurity Architecture and Frameworks",
+    "instructorName": "Georgia Tech",
+    "sub_track":"662d64169f8ebb6b2e85eeb5",
+    "description": "Learn about cybersecurity architecture principles, frameworks, and best practices for designing secure systems.",
+    "link": "https://www.udacity.com/course/cybersecurity-architecture-and-frameworks--ud459"
+  },
+  {
+    "courseName": "Enterprise Security Architecture Essentials",
+    "instructorName": "SABSAcourses",
+    "sub_track":"662d64169f8ebb6b2e85eeb5",
+    "description": "Explore enterprise security architecture strategies and best practices for securing large-scale IT environments.",
+    "link": "https://sabsacourses.com/enterprise-security-architecture-essentials/"
+  },
+  {
+    "courseName": "Cloud Security Architecture",
+    "instructorName": "Amazon Web Services",
+    "sub_track":"662d64169f8ebb6b2e85eeb5",
+    "description": "Learn how to design and implement secure cloud architectures using AWS services and best practices.",
+    "link": "https://aws.amazon.com/training/classroom/security-engineering-on-aws/"
+  },
+  {
+    "courseName": "CS50's Introduction to Computer Science",
+    "instructorName": "David J. Malan",
+    "sub_track":"662d64169f8ebb6b2e85ef36",
+    "description": "An introduction to the intellectual enterprises of computer science and the art of programming.",
+    "link": "https://www.edx.org/course/cs50s-introduction-to-computer-science"
+  },
+  {
+    "courseName": "Python for Everybody",
+    "instructorName": "Dr. Charles Severance",
+    "sub_track":"662d64169f8ebb6b2e85ef36",
+    "description": "A beginner-friendly course to learn programming using Python.",
+    "link": "https://www.coursera.org/specializations/python"
+  },
+  {
+    "courseName": "Java Programming and Software Engineering Fundamentals",
+    "instructorName": "Duke University",
+    "sub_track":"662d64169f8ebb6b2e85ef36",
+    "description": "Learn Java programming and software engineering fundamentals.",
+    "link": "https://www.coursera.org/specializations/java-programming"
+  },
+  {
+    "courseName": "Operating Systems: Three Easy Pieces",
+    "instructorName": "Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau",
+    "sub_track":"662d64169f8ebb6b2e85ef3c",
+    "description": "An introduction to operating systems principles and practice.",
+    "link": "http://pages.cs.wisc.edu/~remzi/OSTEP/"
+  },
+  {
+    "courseName": "Operating Systems and You: Becoming a Power User",
+    "instructorName": "Google",
+    "sub_track":"662d64169f8ebb6b2e85ef3c",
+    "description": "Learn about operating systems and how to use them effectively.",
+    "link": "https://www.coursera.org/learn/os-power-user"
+  },
+  {
+    "courseName": "Operating Systems: Foundations and Applications",
+    "instructorName": "University of California, Irvine",
+    "sub_track":"662d64169f8ebb6b2e85ef3c",
+    "description": "An overview of operating systems concepts and their applications.",
+    "link": "https://www.coursera.org/learn/os"
+  },
+  {
+    "courseName": "Introduction to DevOps and Site Reliability Engineering",
+    "instructorName": "The Linux Foundation",
+    "sub_track":"662d64169f8ebb6b2e85ef41",
+    "description": "Learn the fundamentals of DevOps and Site Reliability Engineering (SRE).",
+    "link": "https://www.edx.org/learn/devops/the-linux-foundation-introduction-to-devops-and-site-reliability-engineering"
+  },
+  {
+    "courseName": "DevOps Foundations",
+    "instructorName": "LinkedIn Learning",
+    "sub_track":"662d64169f8ebb6b2e85ef41",
+    "description": "Understand the core principles and practices of DevOps.",
+    "link": "https://www.linkedin.com/learning/devops-foundations"
+  },
+  {
+    "courseName": "Introduction to DevOps",
+    "instructorName": "IBM Company",
+    "sub_track":"662d64169f8ebb6b2e85ef41",
+    "description": "An introductory course explaining the concept of DevOps.",
+    "link": "https://www.coursera.org/learn/intro-to-devops"
+  },
+  {
+    "courseName": "DevOps Foundations: Lean and Agile",
+    "instructorName": "LinkedIn Learning",
+    "sub_track":"662d64169f8ebb6b2e85ef47",
+    "description": "Learn about Lean and Agile principles and how they relate to DevOps.",
+    "link": "https://www.linkedin.com/learning/devops-foundations-lean-and-agile"
+  },
+  {
+    "courseName": "Agile Development Using Ruby on Rails - Basics",
+    "instructorName": "BerkeleyX",
+    "sub_track":"662d64169f8ebb6b2e85ef47",
+    "description": "An introductory course to Agile development using Ruby on Rails.",
+    "link": "https://www.linkedin.com/pulse/basics-agile-development-using-ruby-rails-ian-j-h-reynolds"
+  },
+  {
+    "courseName": "Continuous Integration and Continuous Deployment",
+    "instructorName": "Udacity",
+    "sub_track":"662d64169f8ebb6b2e85ef47",
+    "description": "Learn about CI/CD pipelines and how to implement them effectively.",
+    "link": "https://www.udacity.com/course/continuous-integration-and-deployment--ud1030"
+  },
+  {
+    "courseName": "Docker Mastery: with Kubernetes +Swarm from a Docker Captain",
+    "instructorName": "Bret Fisher",
+    "sub_track":"662d64169f8ebb6b2e85ef4c",
+    "description": "Learn Docker and containerization from scratch with real-world examples.",
+    "link": "https://www.udemy.com/course/docker-mastery/"
+  },
+  {
+    "courseName": "Kubernetes for Developers: Core Concepts",
+    "instructorName": "Dan Wahlin",
+    "sub_track":"662d64169f8ebb6b2e85ef4c",
+    "description": "Learn Kubernetes core concepts and how to deploy and manage applications.",
+    "link": "https://www.pluralsight.com/courses/kubernetes-developers-core-concepts"
+  },
+  {
+    "courseName": "Jenkins, From Zero To Hero: Become a DevOps Jenkins Master",
+    "instructorName": "TetraNoodle Team",
+    "sub_track":"662d64169f8ebb6b2e85ef4c",
+    "description": "Master Jenkins and learn to build, test, and deploy applications with ease.",
+    "link": "https://www.udemy.com/course/jenkins-from-zero-to-hero/"
+  },
+  {
+    "courseName": "Cloud Virtualization, Containers and APIs",
+    "instructorName": "Duke University",
+    "sub_track":"662d64169f8ebb6b2e85ef51",
+    "description": "Learn about virtualization technologies and their practical applications.",
+    "link": "https://www.coursera.org/learn/cloud-virtualization-containers-api-duke"
+  },
+  {
+    "courseName": "VMware vSphere: Install, Configure, Manage [V7]",
+    "instructorName": "VMware",
+    "sub_track":"662d64169f8ebb6b2e85ef51",
+    "description": "Learn to install, configure, and manage VMware vSphere.",
+    "link": "https://mylearn.vmware.com/gw/learning/course/course-details/93058"
+  },
+  {
+    "courseName": "KVM virtualization on CentOS Linux 8 /RHEL 8 /ubuntu (2024)",
+    "instructorName": "Satish B",
+    "sub_track":"662d64169f8ebb6b2e85ef51",
+    "description": "Master Linux KVM virtualization techniques for DevOps.",
+    "link": "https://www.udemy.com/course/linux-virtualization-with-kvm/"
+  },
+  {
+    "courseName": "Version Control with Git",
+    "instructorName": "Udacity",
+    "sub_track":"662d64169f8ebb6b2e85ef56",
+    "description": "Learn version control using Git and GitHub.",
+    "link": "https://www.udacity.com/course/version-control-with-git--ud123"
+  },
+  {
+    "courseName": "Git Complete: The definitive, step-by-step guide to Git",
+    "instructorName": "Jason Taylor",
+    "sub_track":"662d64169f8ebb6b2e85ef56",
+    "description": "A comprehensive guide to learning Git from scratch to advanced techniques.",
+    "link": "https://www.udemy.com/course/git-complete/"
+  },
+  {
+    "courseName": "Git & GitHub Crash Course: Create a Repository From Scratch!",
+    "instructorName": "Brad Schiff",
+    "sub_track":"662d64169f8ebb6b2e85ef56",
+    "description": "Learn Git and GitHub essentials by creating a repository from scratch.",
+    "link": "https://www.udemy.com/course/git-github-crash-course/"
+  },
+  {
+    "courseName": "CI/CD Pipelines with Jenkins and Kubernetes",
+    "instructorName": "Dinesh Mistry",
+    "sub_track":"662d64169f8ebb6b2e85ef5b",
+    "description": "Learn to build CI/CD pipelines using Jenkins and Kubernetes.",
+    "link": "https://www.youtube.com/watch?v=q4g7KJdFSn0"
+  },
+  {
+    "courseName": "Continuous Integration and Continuous Deployment",
+    "instructorName": "Udacity",
+    "sub_track":"662d64169f8ebb6b2e85ef5b",
+    "description": "Learn about CI/CD pipelines and how to implement them effectively.",
+    "link": "https://www.udacity.com/course/continuous-integration-and-deployment--ud1030"
+  },
+  {
+    "courseName": "Master Jenkins CI For DevOps and Developers",
+    "instructorName": "TetraNoodle Team",
+    "sub_track":"662d64169f8ebb6b2e85ef5b",
+    "description": "Master Jenkins for building, testing, and deploying software.",
+    "link": "https://www.udemy.com/course/devops-masterclass-cicd-with-jenkins-pipelines-groovy-dsl/"
+  },
+  {
+    "courseName": "Infrastructure Automation With Terraform",
+    "instructorName": "Whizlabs",
+    "sub_track":"662d64169f8ebb6b2e85ef60",
+    "description": "Learn infrastructure as code with Terraform.",
+    "link": "https://www.coursera.org/learn/infrastructure-automation-with-terraform"
+  },
+  {
+    "courseName": "Chef Fundamentals: A Recipe for Automating Infrastructure",
+    "instructorName": "Learn Chef",
+    "sub_track":"662d64169f8ebb6b2e85ef60",
+    "description": "Learn the fundamentals of Chef for automating infrastructure tasks.",
+    "link": "https://www.chef.io/training/tutorials"
+  },
+  {
+    "courseName": "Ansible for the Absolute Beginner - Hands-on - DevOps",
+    "instructorName": "Udemy",
+    "sub_track":"662d64169f8ebb6b2e85ef60",
+    "description": "Learn Ansible from scratch and automate infrastructure tasks.",
+    "link": "https://www.udemy.com/course/ansible-for-beginners/"
+  },
+  {
+    "courseName": "Kubernetes for Developers: Core Concepts",
+    "instructorName": "Dan Wahlin",
+    "sub_track":"662d64169f8ebb6b2e85ef65",
+    "description": "Learn Kubernetes core concepts and how to deploy and manage applications.",
+    "link": "https://www.pluralsight.com/courses/kubernetes-developers-core-concepts"
+  },
+  {
+    "courseName": "Docker and Kubernetes: The Complete Guide",
+    "instructorName": "Stephen Grider",
+    "sub_track":"662d64169f8ebb6b2e85ef65",
+    "description": "Master Docker and Kubernetes from scratch in this comprehensive course.",
+    "link": "https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/"
+  },
+  {
+    "courseName": "Kubernetes Mastery: Hands-On Lessons From A Docker Captain",
+    "instructorName": "Bret Fisher",
+    "sub_track":"662d64169f8ebb6b2e85ef65",
+    "description": "Master Kubernetes from a Docker Captain with real-world examples.",
+    "link": "https://www.udemy.com/course/kubernetesmastery/"
+  },
+  {
+    "courseName": "Monitoring and Alerting with Prometheus",
+    "instructorName": "Udemy",
+    "sub_track":"662d64169f8ebb6b2e85ef6a",
+    "description": "Learn to monitor your systems using Prometheus and Grafana.",
+    "link": "https://www.udemy.com/course/prometheus/"
+  },
+  {
+    "courseName": "Elasticsearch 8 and the Elastic Stack: In Depth and Hands On",
+    "instructorName": "Frank Kane",
+    "sub_track":"662d64169f8ebb6b2e85ef6a",
+    "description": "Master Elasticsearch and the Elastic Stack for logging and monitoring.",
+    "link": "https://www.udemy.com/course/elasticsearch-7-and-elastic-stack/"
+  },
+  {
+    "courseName": "Centralized Logging with the Elastic Stack",
+    "instructorName": "JP Toto",
+    "sub_track":"662d64169f8ebb6b2e85ef6a",
+    "description": "Learn log analysis with the Elastic Stack from scratch.",
+    "link": "https://www.pluralsight.com/courses/centralized-logging-elastic-stack"
+  },
+  {
+    "courseName": "DevSecOps: Building a Secure Continuous Delivery Pipeline",
+    "instructorName": "LinkedIn Learning",
+    "sub_track":"662d64169f8ebb6b2e85ef6f",
+    "description": "Learn to integrate security into your CI/CD pipeline.",
+    "link": "https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline"
+  },
+  {
+    "courseName": "Introduction to Cyber Security Specialization",
+    "instructorName": "NYU (New York University)",
+    "sub_track":"662d64169f8ebb6b2e85ef6f",
+    "description": "Learn the fundamentals of cybersecurity and its role in DevOps.",
+    "link": "https://www.coursera.org/specializations/intro-cyber-security"
+  },
+  {
+    "courseName": "AWS Certified Security - Specialty",
+    "instructorName": "AWS Training and Certification",
+    "sub_track":"662d64169f8ebb6b2e85ef6f",
+    "description": "Learn about security best practices on the AWS platform.",
+    "link": "https://aws.amazon.com/certification/certified-security-specialty/"
+  },
+  {
+    "courseName": "Google Cloud Platform Fundamentals: Core Infrastructure",
+    "instructorName": "Google Cloud",
+    "sub_track":"662d64169f8ebb6b2e85ef74",
+    "description": "Learn the fundamentals of Google Cloud Platform core infrastructure services.",
+    "link": "https://www.coursera.org/learn/gcp-fundamentals"
+  },
+  {
+    "courseName": "Microsoft Certified: Azure Fundamentals",
+    "instructorName": "Microsoft",
+    "sub_track":"662d64169f8ebb6b2e85ef74",
+    "description": "Learn the fundamentals of Microsoft Azure cloud services.",
+    "link": "https://learn.microsoft.com/en-us/learn/paths/azure-fundamentals/"
+  },
+  {
+    "courseName": "AWS Certified Solutions Architect - Associate",
+    "instructorName": "AWS Training and Certification",
+    "sub_track":"662d64169f8ebb6b2e85ef74",
+    "description": "Learn about building and deploying AWS cloud solutions.",
+    "link": "https://aws.amazon.com/certification/certified-solutions-architect-associate/"
+  },
+  {
+    "courseName": "DevOps Culture and Mindset",
+    "instructorName": "Courtney Kissler",
+    "sub_track":"662d64169f8ebb6b2e85ef79",
+    "description": "Learn about the culture and mindset behind successful DevOps practices.",
+    "link": "https://www.coursera.org/learn/devops-culture-and-mindset"
+  },
+  {
+    "courseName": "Site Reliability Engineering (SRE) and DevOps",
+    "instructorName": "Google Cloud",
+    "sub_track":"662d64169f8ebb6b2e85ef79",
+    "description": "Learn about Site Reliability Engineering and its relationship with DevOps.",
+    "link": "https://www.coursera.org/learn/site-reliability-engineering-slos"
+  },
+  {
+    "courseName": "Agile Development Using Ruby on Rails - Basics",
+    "instructorName": "edX",
+    "sub_track":"662d64169f8ebb6b2e85ef79",
+    "description": "An introductory course to Agile development using Ruby on Rails.",
+    "link": "https://www.linkedin.com/pulse/basics-agile-development-using-ruby-rails-ian-j-h-reynolds"
+  },
+  {
+    "courseName": "Docker Mastery: with Kubernetes +Swarm from a Docker Captain",
+    "instructorName": "Bret Fisher",
+    "sub_track":"662d64169f8ebb6b2e85ef7e",
+    "description": "Learn Docker and containerization from scratch with real-world examples.",
+    "link": "https://www.udemy.com/course/docker-mastery/"
+  },
+  {
+    "courseName": "Advanced Kubernetes Usage",
+    "instructorName": "Edward Viaene",
+    "sub_track":"662d64169f8ebb6b2e85ef7e",
+    "description": "Take your Kubernetes skills to the next level with advanced techniques.",
+    "link": "https://www.udemy.com/course/learn-devops-advanced-kubernetes-usage/"
+  },
+  {
+    "courseName": "AWS Certified DevOps Engineer - Professional",
+    "instructorName": "AWS Training and Certification",
+    "sub_track":"662d64169f8ebb6b2e85ef7e",
+    "description": "Prepare for the AWS Certified DevOps Engineer - Professional exam.",
+    "link": "https://aws.amazon.com/certification/certified-devops-engineer-professional/"
   }
   
 ]

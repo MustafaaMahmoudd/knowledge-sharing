@@ -1148,6 +1148,1230 @@
         "sub_track":"662d64169f8ebb6b2e85ef96",
         "description": "A comprehensive guide to software construction and coding standards, featuring best practices and guidelines.",
         "link": "https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670"
+      },
+      {
+        "bookName": "Artificial Intelligence: A Modern Approach",
+        "author": "Stuart Russell and Peter Norvig",
+        "publishDate": "2022",
+        "sub_track":"662d64169f8ebb6b2e85eeb6",
+        "description": "A comprehensive introduction to artificial intelligence, widely used in academia and industry.",
+        "link": "https://www.amazon.com/Artificial-Intelligence-Modern-Approach-4th/dp/0134610997"
+      },
+      {
+        "bookName": "Artificial Intelligence: Foundations of Computational Agents",
+        "author": "David L. Poole and Alan K. Mackworth",
+        "publishDate": "2017",
+        "sub_track":"662d64169f8ebb6b2e85eeb6",
+        "description": "An accessible introduction to the foundations of artificial intelligence, suitable for beginners.",
+        "link": "https://artint.info/html/ArtInt.html"
+      },
+      {
+        "bookName": "Artificial Intelligence: Structures and Strategies for Complex Problem Solving",
+        "author": "George F. Luger",
+        "publishDate": "2008",
+        "sub_track":"662d64169f8ebb6b2e85eeb6",
+        "description": "Learn about the structures and strategies used in solving complex problems with artificial intelligence.",
+        "link": "https://www.amazon.com/Artificial-Intelligence-Structures-Strategies-Complex/dp/0321545893"
+      },
+      {
+        "bookName": "Mathematics for Machine Learning",
+        "author": "Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong",
+        "publishDate": "2020",
+        "sub_track":"662d64169f8ebb6b2e85eebb",
+        "description": "A comprehensive textbook covering the mathematical foundations of machine learning.",
+        "link": "https://mml-book.github.io/"
+      },
+      {
+        "bookName": "Deep Learning",
+        "author": "Ian Goodfellow, Yoshua Bengio, and Aaron Courville",
+        "publishDate": "2016",
+        "sub_track":"662d64169f8ebb6b2e85eebb",
+        "description": "A widely-used textbook covering the mathematical and conceptual foundations of deep learning.",
+        "link": "https://www.deeplearningbook.org/"
+      },
+      {
+        "bookName": "Introduction to Probability",
+        "author": "Joseph K. Blitzstein and Jessica Hwang",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85eebb",
+        "description": "An introductory textbook covering the fundamental concepts of probability theory.",
+        "link": "https://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573"
+      },
+      {
+        "bookName": "Python Crash Course",
+        "author": "Eric Matthes",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85eec1",
+        "description": "A hands-on, project-based introduction to Python programming.",
+        "link": "https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280"
+      },
+      {
+        "bookName": "Deep Learning with Python",
+        "author": "François Chollet",
+        "publishDate": "2017",
+        "sub_track":"662d64169f8ebb6b2e85eec1",
+        "description": "A practical introduction to deep learning using Python and the Keras library.",
+        "link": "https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438"
+      },
+      {
+        "bookName": "Automate the Boring Stuff with Python",
+        "author": "Al Sweigart",
+        "publishDate": "2015",
+        "sub_track":"662d64169f8ebb6b2e85eec1",
+        "description": "Learn Python programming through practical projects and examples.",
+        "link": "https://automatetheboringstuff.com/"
+      },
+      {
+        "bookName": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein",
+        "publishDate": "2009",
+        "sub_track":"662d64169f8ebb6b2e85eec5",
+        "description": "A comprehensive textbook covering the principles of algorithms and their analysis.",
+        "link": "https://mitpress.mit.edu/books/introduction-algorithms-third-edition"
+      },
+      {
+        "bookName": "Data Structures and Algorithm Analysis in C++",
+        "author": "Mark Allen Weiss",
+        "publishDate": "2013",
+        "sub_track":"662d64169f8ebb6b2e85eec5",
+        "description": "Learn about data structures and algorithms using the C++ programming language.",
+        "link": "https://www.amazon.com/Structures-Algorithm-Analysis-Mark-Weiss/dp/013284737X"
+      },
+      {
+        "bookName": "Grokking Algorithms",
+        "author": "Aditya Bhargava",
+        "publishDate": "2016",
+        "sub_track":"662d64169f8ebb6b2e85eec5",
+        "description": "An illustrated guide to algorithms for programmers and non-programmers alike.",
+        "link": "https://www.manning.com/books/grokking-algorithms"
+      },
+      {
+        "bookName": "Pattern Recognition and Machine Learning",
+        "author": "Christopher M. Bishop",
+        "publishDate": "2006",
+        "sub_track":"662d64169f8ebb6b2e85eeca",
+        "description": "An in-depth introduction to pattern recognition and machine learning.",
+        "link": "https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738"
+      },
+      {
+        "bookName": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+        "author": "Aurélien Géron",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85eeca",
+        "description": "A practical guide to machine learning with hands-on examples using Scikit-Learn, Keras, and TensorFlow.",
+        "link": "https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646"
+      },
+      {
+        "bookName": "Machine Learning Yearning",
+        "author": "Andrew Ng",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85eeca",
+        "description": "A practical guide to developing machine learning systems.",
+        "link": "https://www.deeplearning.ai/machine-learning-yearning/"
+      },
+      {
+        "bookName": "Deep Learning",
+        "author": "Ian Goodfellow, Yoshua Bengio, and Aaron Courville",
+        "publishDate": "2016",
+        "sub_track":"662d64169f8ebb6b2e85eecf",
+        "description": "A comprehensive textbook covering the mathematical and conceptual foundations of deep learning.",
+        "link": "https://www.deeplearningbook.org/"
+      },
+      {
+        "bookName": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+        "author": "Aurélien Géron",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85eecf",
+        "description": "A practical guide to machine learning with hands-on examples using Scikit-Learn, Keras, and TensorFlow.",
+        "link": "https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646"
+      },
+      {
+        "bookName": "Deep Learning for Computer Vision",
+        "author": "Rajalingappaa Shanmugamani",
+        "publishDate": "2020",
+        "sub_track":"662d64169f8ebb6b2e85eecf",
+        "description": "Learn about deep learning techniques for computer vision applications.",
+        "link": "https://www.packtpub.com/product/deep-learning-for-computer-vision/9781788295628"
+      },
+      {
+        "bookName": "Reinforcement Learning: An Introduction",
+        "author": "Richard S. Sutton and Andrew G. Barto",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85eed4",
+        "description": "A comprehensive introduction to reinforcement learning, covering both theory and algorithms.",
+        "link": "http://incompleteideas.net/book/the-book-2nd.html"
+      },
+      {
+        "bookName": "Deep Reinforcement Learning Hands-On",
+        "author": "Maxim Lapan",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85eed4",
+        "description": "A practical guide to deep reinforcement learning techniques with hands-on examples.",
+        "link": "https://www.amazon.com/Deep-Reinforcement-Learning-Hands-Q-Learning/dp/1788834240"
+      },
+      {
+        "bookName": "Reinforcement Learning",
+        "author": "Dimitri P. Bertsekas and John N. Tsitsiklis",
+        "publishDate": "1996",
+        "sub_track":"662d64169f8ebb6b2e85eed4",
+        "description": "A classic textbook on reinforcement learning theory and algorithms.",
+        "link": "https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262193981"
+      },
+      {
+        "bookName": "Speech and Language Processing",
+        "author": "Daniel Jurafsky and James H. Martin",
+        "publishDate": "2020",
+        "sub_track":"662d64169f8ebb6b2e85eed9",
+        "description": "A comprehensive textbook covering the foundations of natural language processing.",
+        "link": "https://web.stanford.edu/~jurafsky/slp3/"
+      },
+      {
+        "bookName": "Natural Language Processing in Action",
+        "author": "Hobson Lane, Cole Howard, and Hannes Hapke",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85eed9",
+        "description": "A practical guide to natural language processing techniques with real-world examples.",
+        "link": "https://www.manning.com/books/natural-language-processing-in-action"
+      },
+      {
+        "bookName": "Deep Learning for Natural Language Processing",
+        "author": "Palash Goyal, Sumit Pandey, and Karan Jain",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85eed9",
+        "description": "Learn about deep learning techniques for natural language processing tasks.",
+        "link": "https://www.packtpub.com/product/deep-learning-for-natural-language-processing/9781787128422"
+      },
+      {
+        "bookName": "Computer Vision: Algorithms and Applications",
+        "author": "Richard Szeliski",
+        "publishDate": "2010",
+        "sub_track":"662d64169f8ebb6b2e85eedd",
+        "description": "A comprehensive textbook covering the algorithms and applications of computer vision.",
+        "link": "https://www.amazon.com/Computer-Vision-Algorithms-Applications-Texts/dp/1848829345"
+      },
+      {
+        "bookName": "Deep Learning for Computer Vision",
+        "author": "Rajalingappaa Shanmugamani",
+        "publishDate": "2020",
+        "sub_track":"662d64169f8ebb6b2e85eedd",
+        "description": "Learn about deep learning techniques for computer vision applications.",
+        "link": "https://www.packtpub.com/product/deep-learning-for-computer-vision/9781788295628"
+      },
+      {
+        "bookName": "Learning OpenCV 4 Computer Vision with Python 3",
+        "author": "Joseph Howse, Prateek Joshi, and Vinícius G. Mendonça",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85eedd",
+        "description": "A hands-on guide to computer vision programming using OpenCV and Python.",
+        "link": "https://www.amazon.com/Learning-OpenCV-Computer-Vision-Python/dp/1789344913"
+      },
+      {
+        "bookName": "Ethics of Artificial Intelligence",
+        "author": "Vincent C. Müller",
+        "publishDate": "2020",
+        "sub_track":"662d64169f8ebb6b2e85eee2",
+        "description": "A collection of essays exploring the ethical issues surrounding artificial intelligence.",
+        "link": "https://philarchive.org/rec/MLLEOA-5"
+      },
+      {
+        "bookName": "Artificial Unintelligence: How Computers Misunderstand the World",
+        "author": "Meredith Broussard",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85eee2",
+        "description": "An examination of the social and ethical implications of artificial intelligence.",
+        "link": "https://www.amazon.com/Artificial-Unintelligence-Computers-Misunderstand-World/dp/0262038005"
+      },
+      {
+        "bookName": "Robot Ethics: The Ethical and Social Implications of Robotics",
+        "author": "Patrick Lin, Keith Abney, and George A. Bekey",
+        "publishDate": "2014",
+        "sub_track":"662d64169f8ebb6b2e85eee2",
+        "description": "An exploration of the ethical and social implications of robotics and artificial intelligence.",
+        "link": "https://www.amazon.com/Artificial-Unintelligence-Computers-Misunderstand-World/dp/0262038005"
+      },
+      {
+        "bookName": "Introduction to Autonomous Robots",
+        "author": "Nikolaus Correll, Bradley Hayes, and Adam Hutz",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85eee7",
+        "description": "An introduction to the principles and practices of autonomous robotics.",
+        "link": "https://mitpress.mit.edu/books/introduction-autonomous-robots"
+      },
+      {
+        "bookName": "Robotics: Everything You Need to Know About Robotics from Beginner to Expert",
+        "author": "Peter Mckinnon",
+        "publishDate": "2017",
+        "sub_track":"662d64169f8ebb6b2e85eee7",
+        "description": "A comprehensive guide to robotics covering everything from basics to advanced concepts.",
+        "link": "https://www.amazon.com/Robotics-Everything-About-Beginner-Expert/dp/1523731516"
+      },
+      {
+        "bookName": "Probabilistic Robotics",
+        "author": "Sebastian Thrun, Wolfram Burgard, and Dieter Fox",
+        "publishDate": "2005",
+        "sub_track":"662d64169f8ebb6b2e85eee7",
+        "description": "A comprehensive introduction to probabilistic robotics and its applications.",
+        "link": "https://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623"
+      },
+      {
+        "bookName": "Expert Systems: Principles and Programming",
+        "author": "Joseph C. Giarratano and Gary D. Riley",
+        "publishDate": "2005",
+        "sub_track":"662d64169f8ebb6b2e85eeec",
+        "description": "A comprehensive introduction to the principles and techniques of expert systems.",
+        "link": "https://www.amazon.com/Expert-Systems-Principles-Programming-Giarratano/dp/0534384471"
+      },
+      {
+        "bookName": "Artificial Intelligence: A Guide to Intelligent Systems",
+        "author": "Michael Negnevitsky",
+        "publishDate": "2011",
+        "sub_track":"662d64169f8ebb6b2e85eeec",
+        "description": "An introduction to the principles and applications of artificial intelligence.",
+        "link": "https://www.amazon.com/Artificial-Intelligence-Guide-Intelligent-Systems/dp/1408225743"
+      },
+      {
+        "bookName": "Building Expert Systems in Prolog",
+        "author": "Dennis Merritt",
+        "publishDate": "1989",
+        "sub_track":"662d64169f8ebb6b2e85eeec",
+        "description": "A guide to building expert systems using the Prolog programming language.",
+        "link": "https://www.amazon.com/Building-Expert-Systems-Prolog-Dennis/dp/0387970169"
+      },
+      {
+        "bookName": "Artificial Intelligence for Games",
+        "author": "Ian Millington and John Funge",
+        "publishDate": "2009",
+        "sub_track":"662d64169f8ebb6b2e85eef0",
+        "description": "A comprehensive guide to AI techniques used in game development.",
+        "link": "https://www.amazon.com/Artificial-Intelligence-Games-Ian-Millington/dp/0123747317"
+      },
+      {
+        "bookName": "Behavioral Mathematics for Game AI",
+        "author": "Dave Mark and Clint Hocking",
+        "publishDate": "2009",
+        "sub_track":"662d64169f8ebb6b2e85eef0",
+        "description": "Learn about the mathematical techniques used in behavioral AI for games.",
+        "link": "https://www.amazon.com/Behavioral-Mathematics-Game-AI-Dave/dp/1584506849"
+      },
+      {
+        "bookName": "AI Game Programming Wisdom",
+        "author": "Steve Rabin",
+        "publishDate": "2002",
+        "sub_track":"662d64169f8ebb6b2e85eef0",
+        "description": "A collection of articles covering various aspects of AI programming in games.",
+        "link": "https://www.amazon.com/AI-Game-Programming-Wisdom-Steve/dp/1584500778"
+      },
+      {
+        "bookName": "The AI Advantage: How to Put the Artificial Intelligence Revolution to Work",
+        "author": "Thomas H. Davenport",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85eef4",
+        "description": "A guide to leveraging artificial intelligence in business operations and strategy.",
+        "link": "https://www.amazon.com/Advantage-Artificial-Intelligence-Revolution-Management/dp/0262039176"
+      },
+      {
+        "bookName": "Artificial Intelligence: Structures and Strategies for Complex Problem Solving",
+        "author": "George F. Luger",
+        "publishDate": "2008",
+        "sub_track":"662d64169f8ebb6b2e85eef4",
+        "description": "An introduction to artificial intelligence techniques and their applications in business.",
+        "link": "https://www.amazon.com/Artificial-Intelligence-Structures-Strategies-Problem/dp/0321545893"
+      },
+      {
+        "bookName": "Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World",
+        "author": "Marco Iansiti and Karim R. Lakhani",
+        "publishDate": "2020",
+        "sub_track":"662d64169f8ebb6b2e85eef4",
+        "description": "An exploration of how AI is reshaping business strategy and competition.",
+        "link": "https://www.amazon.com/Competing-Age-AI-Leadership-Algorithms-ebook/dp/B07MWCTNSD"
+      },
+      {
+        "bookName": "Artificial Intelligence: A Modern Approach",
+        "author": "Stuart Russell and Peter Norvig",
+        "publishDate": "2020",
+        "sub_track":"662d64169f8ebb6b2e85eef9",
+        "description": "A comprehensive textbook covering the breadth and depth of artificial intelligence.",
+        "link": "http://aima.cs.berkeley.edu/"
+      },
+      {
+        "bookName": "Deep Learning",
+        "author": "Ian Goodfellow, Yoshua Bengio, and Aaron Courville",
+        "publishDate": "2016",
+        "sub_track":"662d64169f8ebb6b2e85eef9",
+        "description": "A comprehensive textbook covering the mathematical and conceptual foundations of deep learning.",
+        "link": "https://www.deeplearningbook.org/"
+      },
+      {
+        "bookName": "Reinforcement Learning: An Introduction",
+        "author": "Richard S. Sutton and Andrew G. Barto",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85eef9",
+        "description": "A comprehensive introduction to reinforcement learning, covering both theory and algorithms.",
+        "link": "http://incompleteideas.net/book/the-book-2nd.html"
+      },
+      {
+        "bookName": "Dart Programming Made Easy for Beginners",
+        "author": "Chantel . N Penn",
+        "publishDate": "2024",
+        "sub_track":"662d64169f8ebb6b2e85ef03",
+        "description": "A concise guide to learning Dart programming language in easy steps.",
+        "link": "https://www.amazon.com/Dart-Programming-Made-Easy-Beginners/dp/B0CY9L7Z1F"
+      },
+      {
+        "bookName": "Dart: Up and Running",
+        "author": "Kathy Walrath, Seth Ladd",
+        "publishDate": "2020",
+        "sub_track":"662d64169f8ebb6b2e85ef03",
+        "description": "A practical introduction to Dart programming language for web, mobile, and server-side development.",
+        "link": "https://www.amazon.com/Dart-Running-Tool-Friendly-Language-Structured/dp/1449330894"
+      },
+      {
+        "bookName": "Beginning Flutter: A Hands On Guide to App Development",
+        "author": "Marco L. Napoli",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85ef03",
+        "description": "A hands-on guide to learning Dart through building apps with Flutter.",
+        "link": "https://www.amazon.com/Beginning-Flutter-Hands-Guide-Development/dp/1119550823"
+      },
+      {
+        "bookName": "Flutter in Action",
+        "author": "Eric Windmill",
+        "publishDate": "2021",
+        "sub_track":"662d64169f8ebb6b2e85ef08",
+        "description": "A comprehensive guide to Flutter development, covering everything from basics to advanced topics.",
+        "link": "https://www.manning.com/books/flutter-in-action"
+      },
+      {
+        "bookName": "Beginning App Development with Flutter",
+        "author": "Marco L. Napoli",
+        "publishDate": "2020",
+        "sub_track":"662d64169f8ebb6b2e85ef08",
+        "description": "Get started with Flutter development and build your first app step by step.",
+        "link": "https://www.amazon.com/Beginning-App-Development-Flutter-cross-platform/dp/1484251806"
+      },
+      {
+        "bookName": "Flutter Cookbook",
+        "author": "Flutter Team",
+        "publishDate": "2021",
+        "sub_track":"662d64169f8ebb6b2e85ef08",
+        "description": "A collection of Flutter recipes to solve common development challenges.",
+        "link": "https://www.amazon.com/Google-Flutter-Cookbook-techniques-development/dp/1838823387"
+      },
+      {
+        "bookName": "Build a Flutter layout",
+        "author": "Google Fluter Documentation",
+        "publishDate": "2022",
+        "sub_track":"662d64169f8ebb6b2e85ef0e",
+        "description": "A beginner-friendly guide to Flutter UI design fundamentals and layout techniques.",
+        "link": "https://docs.flutter.dev/ui/layout/tutorial"
+      },
+      {
+        "bookName": "Beginning App Development with Flutter",
+        "author": "Rap PayneRap Payne",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85ef0e",
+        "description": "Focus on Flutter UI design with practical examples and best practices.",
+        "link": "https://www.amazon.com/Beginning-App-Development-Flutter-Cross-Platform/dp/1484251806"
+      },
+      {
+        "bookName": "Google Flutter Mobile Development Quick Start Guide",
+        "author": "Salvatore Giordano",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85ef0e",
+        "description": "A quick-start guide to Flutter development, including layout and widget essentials.",
+        "link": "https://www.amazon.com/Google-Flutter-Mobile-Development-Quick/dp/1789344964"
+      },
+      {
+        "bookName": "Flutter Navigation Cookbook",
+        "author": "Flutter Community",
+        "publishDate": "2021",
+        "sub_track":"662d64169f8ebb6b2e85ef12",
+        "description": "A collection of Flutter navigation recipes and best practices.",
+        "link": "https://flutter.dev/docs/cookbook#navigation"
+      },
+      {
+        "bookName": "Flutter in Action",
+        "author": "Eric Windmill",
+        "publishDate": "2021",
+        "sub_track":"662d64169f8ebb6b2e85ef12",
+        "description": "Chapter dedicated to navigation and routing in Flutter.",
+        "link": "https://www.manning.com/books/flutter-in-action"
+      },
+      {
+        "bookName": "Google Flutter Mobile Development Quick Start Guide",
+        "author": "Salvatore Giordano",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85ef12",
+        "description": "Section covering navigation and routing in Flutter.",
+        "link": "https://www.amazon.com/Google-Flutter-Mobile-Development-Quick/dp/1789344964"
+      },
+      {
+        "bookName": "Flutter State Management Guide",
+        "author": "Flutter Community",
+        "publishDate": "2021",
+        "sub_track":"662d64169f8ebb6b2e85ef17",
+        "description": "Official Flutter documentation covering state management techniques.",
+        "link": "https://flutter.dev/docs/development/data-and-backend/state-mgmt"
+      },
+      {
+        "bookName": "Practical Flutter: Improve Your Mobile Development with Google’s Latest Open-Source SDK",
+        "author": "Frank Zammetti",
+        "publishDate": "2020",
+        "sub_track":"662d64169f8ebb6b2e85ef17",
+        "description": "Chapter dedicated to state management in Flutter using Provider and Riverpod.",
+        "link": "https://www.amazon.com/Practical-Flutter-Improve-Development-Open-Source/dp/1484249712"
+      },
+      {
+        "bookName": "Flutter Bloc Pattern: The Complete Guide",
+        "author": "Priyanka Tyagi",
+        "publishDate": "2021",
+        "sub_track":"662d64169f8ebb6b2e85ef17",
+        "description": "In-depth guide to state management with Bloc pattern in Flutter.",
+        "link": "https://www.taylorfrancis.com/chapters/mono/10.1201/9781003104636-19/bloc-design-pattern-priyanka-tyagi"
+      },
+      {
+        "bookName": "Flutter Cookbook: Recipes for Functional Features",
+        "author": "Flutter Community",
+        "publishDate": "2022",
+        "sub_track":"662d64169f8ebb6b2e85ef1d",
+        "description": "Chapter dedicated to working with REST APIs in Flutter.",
+        "link": "https://flutter.dev/docs/cookbook#networking"
+      },
+      {
+        "bookName": "Flutter for Beginners: A Simple, Practical Guide for Mobile App Development",
+        "author": "Edward ThorntonEdward Thornton",
+        "publishDate": "2021",
+        "sub_track":"662d64169f8ebb6b2e85ef1d",
+        "description": "Chapter covering REST API integration in Flutter.",
+        "link": "https://www.amazon.com/Flutter-Beginners-Genius-Guide-Development/dp/B09JJJ6HF4"
+      },
+      {
+        "bookName": "Flutter Projects: A Practical, Project-Based Guide to Building Real-World Cross-Platform Mobile Applications",
+        "author": "Simone Alessandria",
+        "publishDate": "2020",
+        "sub_track":"662d64169f8ebb6b2e85ef1d",
+        "description": "Chapter dedicated to building apps with REST API integration in Flutter.",
+        "link": "https://www.amazon.com/Flutter-Projects-project-based-cross-platform-applications/dp/1838647775"
+      },
+      {
+        "bookName": "Practical Flutter: Improve Your Mobile Development with Google’s Latest Open-Source SDK",
+        "author": "Frank Zammetti",
+        "publishDate": "2020",
+        "sub_track":"662d64169f8ebb6b2e85ef22",
+        "description": "Chapter dedicated to working with databases in Flutter.",
+        "link": "https://www.amazon.com/Practical-Flutter-Improve-Development-Open-Source/dp/1484249712"
+      },
+      {
+        "bookName": "Firebase for Flutter Developers",
+        "author": "Rahul Agarwal",
+        "publishDate": "2023",
+        "sub_track":"662d64169f8ebb6b2e85ef22",
+        "description": "Chapter covering database integration in Flutter projects.",
+        "link": "https://www.amazon.com/Firebase-Flutter-Developers-Authentication-Database-ebook/dp/B0BSF7B66W"
+      },
+      {
+        "bookName": "Flutter in Action",
+        "author": "Eric Windmill",
+        "publishDate": "2021",
+        "sub_track":"662d64169f8ebb6b2e85ef22",
+        "description": "Chapter dedicated to data persistence in Flutter applications.",
+        "link": "https://www.manning.com/books/flutter-in-action"
+      },
+      {
+        "bookName": "Building user interfaces with Flutter",
+        "author": "Flutter Documentation",
+        "publishDate": "2021",
+        "sub_track":"662d64169f8ebb6b2e85ef27",
+        "description": "A beginner-friendly guide to Flutter UI design fundamentals and layout techniques.",
+        "link": "https://docs.flutter.dev/ui"
+      },
+      {
+        "bookName": "Learn Google Flutter Fast: 65 Example Apps",
+        "author": "Marcus Clow",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85ef27",
+        "description": "Focus on Flutter UI design with practical examples and best practices.",
+        "link": "https://www.amazon.com/Learn-Google-Flutter-Fast-Example/dp/1092297375"
+      },
+      {
+        "bookName": "Google Flutter Mobile Development Quick Start Guide",
+        "author": "Salvatore Giordano",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85ef27",
+        "description": "A quick-start guide to Flutter development, including layout and widget essentials.",
+        "link": "https://www.amazon.com/Google-Flutter-Mobile-Development-Quick/dp/1789344964"
+      },
+      {
+        "bookName": "Flutter in Action",
+        "author": "Eric Windmill",
+        "publishDate": "2021",
+        "sub_track":"662d64169f8ebb6b2e85ef2b",
+        "description": "Chapter dedicated to deployment and distribution of Flutter apps.",
+        "link": "https://www.manning.com/books/flutter-in-action"
+      },
+      {
+        "bookName": "Practical Flutter: Improve Your Mobile Development with Google’s Latest Open-Source SDK",
+        "author": "Frank Zammetti",
+        "publishDate": "2020",
+        "sub_track":"662d64169f8ebb6b2e85ef2b",
+        "description": "Chapter covering deployment of Flutter applications to app stores.",
+        "link": "https://www.amazon.com/Practical-Flutter-Improve-Development-Open-Source/dp/1484249712"
+      },
+      {
+        "bookName": "Google Flutter Mobile Development Quick Start Guide",
+        "author": "Salvatore Giordano",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85ef2b",
+        "description": "Section covering deployment and distribution of Flutter apps.",
+        "link": "https://www.amazon.com/Google-Flutter-Mobile-Development-Quick/dp/1789344964"
+      },
+      {
+        "bookName": "Flutter in Action",
+        "author": "Eric Windmill",
+        "publishDate": "2021",
+        "sub_track":"662d64169f8ebb6b2e85ef2f",
+        "description": "Chapter dedicated to advanced Flutter concepts and patterns.",
+        "link": "https://www.manning.com/books/flutter-in-action"
+      },
+      {
+        "bookName": "Mastering Flutter: Advanced Techniques for Cross-Platform Mobile Development",
+        "author": "Sergi Martínez",
+        "publishDate": "2021",
+        "sub_track":"662d64169f8ebb6b2e85ef2f",
+        "description": "A comprehensive guide to mastering advanced Flutter techniques.",
+        "link": "https://www.amazon.com/Mastering-Flutter-Dart-Elegant-Cross-Platform/dp/B0CY2PZ9C6"
+      },
+      {
+        "bookName": "Flutter Projects: A Practical, Project-Based Guide to Building Real-World Cross-Platform Mobile Applications",
+        "author": "Simone Alessandria",
+        "publishDate": "2020",
+        "sub_track":"662d64169f8ebb6b2e85ef2f",
+        "description": "Chapter covering advanced Flutter development topics.",
+        "link": "https://www.amazon.com/Flutter-Projects-project-based-cross-platform-applications/dp/1838647775"
+      },
+      {
+        "bookName": "Practical Flutter: Improve Your Mobile Development with Google’s Latest Open-Source SDK",
+        "author": "Frank Zammetti",
+        "publishDate": "2020",
+        "sub_track":"662d64169f8ebb6b2e85ef33",
+        "description": "Chapter covering Flutter packages and plugin development.",
+        "link": "https://www.amazon.com/Practical-Flutter-Improve-Development-Open-Source/dp/1484249712"
+      },
+      {
+        "bookName": "Flutter Cookbook: Recipes for Functional Features",
+        "author": "Flutter Community",
+        "publishDate": "2022",
+        "sub_track":"662d64169f8ebb6b2e85ef33",
+        "description": "Chapter dedicated to using and creating Flutter packages.",
+        "link": "https://flutter.dev/docs/cookbook#packages"
+      },
+      {
+        "bookName": "Google Flutter Mobile Development Quick Start Guide",
+        "author": "Salvatore Giordano",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85ef33",
+        "description": "Section covering package development in Flutter.",
+        "link": "https://www.amazon.com/Google-Flutter-Mobile-Development-Quick/dp/1789344964"
+      },
+      {
+        "bookName": "Cybersecurity Essentials",
+        "author": "James Graham",
+        "publishDate": "2022",
+        "sub_track":"662d64169f8ebb6b2e85ee9b",
+        "description": "A comprehensive guide to cybersecurity fundamentals, covering key concepts and best practices.",
+        "link": "https://www.amazon.com/Cybersecurity-Essentials-Charles-J-Brooks/dp/1119362393"
+      },
+      {
+        "bookName": "Introduction to Cybersecurity",
+        "author": "Timothy Shimeall",
+        "publishDate": "2023",
+        "sub_track":"662d64169f8ebb6b2e85ee9b",
+        "description": "An accessible introduction to cybersecurity concepts, suitable for beginners and professionals alike.",
+        "link": "https://www.amazon.com/Introduction-Cyber-Security-Ekpo-MBCS/dp/1728711622"
+      },
+      {
+        "bookName": "Cybersecurity: A Comprehensive Beginner's Guide",
+        "author": "Joel Newman",
+        "publishDate": "2024",
+        "sub_track":"662d64169f8ebb6b2e85ee9b",
+        "description": "Explore the fundamentals of cybersecurity, including threat detection, risk assessment, and security controls.",
+        "link": "https://www.amazon.com/Cybersecurity-Beginners-comprehensive-getting-cybersecurity/dp/1789616190"
+      },
+      {
+        "bookName": "Operating System Security",
+        "author": "Trent Jaeger",
+        "publishDate": "2023",
+        "sub_track":"662d64169f8ebb6b2e85ee9f",
+        "description": "An authoritative guide to operating system security, covering principles, mechanisms, and case studies.",
+        "link": "https://www.amazon.com/Operating-Security-Synthesis-Lectures-Information/dp/1598292129"
+      },
+      {
+        "bookName": "Modern Operating Systems",
+        "author": "Andrew S. Tanenbaum",
+        "publishDate": "2021",
+        "sub_track":"662d64169f8ebb6b2e85ee9f",
+        "description": "A classic textbook on operating systems, updated with modern security considerations.",
+        "link": "https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X"
+      },
+      {
+        "bookName": "Cybersecurity: Operating Systems and Networks",
+        "author": "Chuck Easttom",
+        "publishDate": "2022",
+        "sub_track":"662d64169f8ebb6b2e85ee9f",
+        "description": "An in-depth exploration of cybersecurity principles as they apply to operating systems and networks.",
+        "link": "https://www.amazon.com/Computer-Security-Fundamentals-Cybersecurity-Curriculum/dp/0135774772"
+      },
+      {
+        "bookName": "Computer Networking: A Top-Down Approach",
+        "author": "James F. Kurose",
+        "publishDate": "2023",
+        "sub_track":"662d64169f8ebb6b2e85eea3",
+        "description": "A comprehensive introduction to computer networking, covering principles, protocols, and applications.",
+        "link": "https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149"
+      },
+      {
+        "bookName": "Networking Basics CCNA 1 Companion Guide",
+        "author": "Cisco Networking Academy",
+        "publishDate": "2022",
+        "sub_track":"662d64169f8ebb6b2e85eea3",
+        "description": "A companion guide to Cisco's CCNA 1 course, covering networking fundamentals and protocols.",
+        "link": "https://www.amazon.com/Networking-Basics-Companion-Guide-Academy/dp/1587131641"
+      },
+      {
+        "bookName": "Networking for Beginners",
+        "author": "Russell Scott",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85eea3",
+        "description": "An accessible introduction to networking concepts, protocols, and technologies for beginners.",
+        "link": "https://www.amazon.com/Networking-Beginners-Technology-Subnetting-Essentials/dp/1704314100"
+      },
+      {
+        "bookName": "TCP/IP Illustrated, Volume 1: The Protocols",
+        "author": "W. Richard Stevens",
+        "publishDate": "2022",
+        "sub_track":"662d64169f8ebb6b2e85eea7",
+        "description": "An in-depth exploration of the TCP/IP protocol suite, covering protocols, algorithms, and implementation.",
+        "link": "https://www.amazon.com/TCP-Illustrated-Vol-Addison-Wesley-Professional/dp/0321336313"
+      },
+      {
+        "bookName": "Network Security Essentials",
+        "author": "William Stallings",
+        "publishDate": "2023",
+        "sub_track":"662d64169f8ebb6b2e85eea7",
+        "description": "A comprehensive overview of network security protocols, technologies, and best practices.",
+        "link": "https://www.amazon.com/Network-Security-Essentials-Applications-Stallings/dp/0136108059"
+      },
+      {
+        "bookName": "Secure Coding in C and C++",
+        "author": "Robert C. Seacord",
+        "publishDate": "2024",
+        "sub_track":"662d64169f8ebb6b2e85eea7",
+        "description": "Learn how to write secure code in C and C++ to prevent common vulnerabilities in network protocols.",
+        "link": "https://www.amazon.com/Secure-Coding-C-2nd-Seacord/dp/0321822137"
+      },
+      {
+        "bookName": "The Web Application Hacker's Handbook",
+        "author": "Dafydd Stuttard",
+        "publishDate": "2022",
+        "sub_track":"662d64169f8ebb6b2e85eeaa",
+        "description": "A comprehensive guide to web application security, covering common vulnerabilities and attack techniques.",
+        "link": "https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470"
+      },
+      {
+        "bookName": "Python Crash Course",
+        "author": "Eric Matthes",
+        "publishDate": "2023",
+        "sub_track":"662d64169f8ebb6b2e85eeaa",
+        "description": "A hands-on introduction to Python programming, suitable for beginners and cybersecurity professionals.",
+        "link": "https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280"
+      },
+      {
+        "bookName": "Cryptography and Network Security: Principles and Practice",
+        "author": "William Stallings",
+        "publishDate": "2024",
+        "sub_track":"662d64169f8ebb6b2e85eeaa",
+        "description": "An authoritative textbook on cryptography and network security, covering principles, protocols, and applications.",
+        "link": "https://www.amazon.com/Cryptography-Network-Security-Principles-Practice/dp/0134444280"
+      },
+      {
+        "bookName": "Database Security and Auditing",
+        "author": "Hassan A. Afyouni",
+        "publishDate": "2023",
+        "sub_track":"662d64169f8ebb6b2e85eead",
+        "description": "An authoritative guide to database security principles, mechanisms, and auditing techniques.",
+        "link": "https://www.amazon.com/Implementing-Database-Security-Auditing-Natan/dp/1555583342"
+      },
+      {
+        "bookName": "SQL Injection Attacks and Defense",
+        "author": "Justin Clarke",
+        "publishDate": "2022",
+        "sub_track":"662d64169f8ebb6b2e85eead",
+        "description": "A comprehensive guide to SQL injection attacks, detection, and prevention techniques.",
+        "link": "https://www.amazon.com/SQL-Injection-Attacks-Defense-Justin/dp/1597499633"
+      },
+      {
+        "bookName": "Data Privacy and Security",
+        "author": "Davide Bolchini",
+        "publishDate": "2024",
+        "sub_track":"662d64169f8ebb6b2e85eead",
+        "description": "An overview of data privacy and security principles, regulations, and technologies for database professionals.",
+        "link": "https://www.amazon.com/Privacy-Security-Processing-Digital-Filtering/dp/0387003118"
+      },
+      {
+        "bookName": "The Hacker Playbook 3: Practical Guide to Penetration Testing",
+        "author": "Peter Kim",
+        "publishDate": "2023",
+        "sub_track":"662d64169f8ebb6b2e85eeb0",
+        "description": "A hands-on guide to penetration testing techniques, tools, and methodologies.",
+        "link": "https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759"
+      },
+      {
+        "bookName": "CEH Certified Ethical Hacker All-in-One Exam Guide",
+        "author": "Matt Walker",
+        "publishDate": "2022",
+        "sub_track":"662d64169f8ebb6b2e85eeb0",
+        "description": "Comprehensive coverage of CEH certification exam topics, including ethical hacking methodologies and tools.",
+        "link": "https://www.amazon.com/Certified-Ethical-Hacker-All-Guide/dp/0071772294"
+      },
+      {
+        "bookName": "Metasploit: The Penetration Tester's Guide",
+        "author": "David Kennedy",
+        "publishDate": "2024",
+        "sub_track":"662d64169f8ebb6b2e85eeb0",
+        "description": "A comprehensive guide to Metasploit, the world's most used penetration testing framework.",
+        "link": "https://www.amazon.com/Metasploit-Penetration-Testers-David-Kennedy/dp/159327288X"
+      },
+      {
+        "bookName": "Security Engineering: A Guide to Building Dependable Distributed Systems",
+        "author": "Ross J. Anderson",
+        "publishDate": "2023",
+        "sub_track":"662d64169f8ebb6b2e85eeb2",
+        "description": "An authoritative guide to security engineering principles, methodologies, and best practices.",
+        "link": "https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/1119642787"
+      },
+      {
+        "bookName": "The Practice of Network Security Monitoring",
+        "author": "Richard Bejtlich",
+        "publishDate": "2022",
+        "sub_track":"662d64169f8ebb6b2e85eeb2",
+        "description": "A comprehensive guide to network security monitoring strategies, tools, and techniques.",
+        "link": "https://www.amazon.com/Practice-Network-Security-Monitoring-Understanding/dp/1593275099"
+      },
+      {
+        "bookName": "Cybersecurity: Attack and Defense Strategies",
+        "author": "Yuri Diogenes",
+        "publishDate": "2024",
+        "sub_track":"662d64169f8ebb6b2e85eeb2",
+        "description": "Explore offensive and defensive cybersecurity strategies, tactics, and tools.",
+        "link": "https://www.amazon.com/Cybersecurity-state-art-organization-cybercriminals/dp/183882779X"
+      },
+      {
+        "bookName": "CEH Certified Ethical Hacker All-in-One Exam Guide",
+        "author": "Matt Walker",
+        "publishDate": "2022",
+        "sub_track":"662d64169f8ebb6b2e85eeb3",
+        "description": "Comprehensive coverage of CEH certification exam topics, including ethical hacking methodologies and tools.",
+        "link": "https://www.amazon.com/Certified-Ethical-Hacker-All-Guide/dp/0071772294"
+      },
+      {
+        "bookName": "CompTIA Security+ Study Guide",
+        "author": "Emmett Dulaney",
+        "publishDate": "2023",
+        "sub_track":"662d64169f8ebb6b2e85eeb3",
+        "description": "A comprehensive guide to the CompTIA Security+ certification exam, covering all exam objectives.",
+        "link": "https://www.amazon.com/CompTIA-Security-Study-Guide-SY0-601/dp/1119736250"
+      },
+      {
+        "bookName": "The Hacker Playbook 3: Practical Guide to Penetration Testing",
+        "author": "Peter Kim",
+        "publishDate": "2023",
+        "sub_track":"662d64169f8ebb6b2e85eeb3",
+        "description": "A hands-on guide to penetration testing techniques, tools, and methodologies.",
+        "link": "https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759"
+      },
+      {
+        "bookName": "Information Security Architecture: An Integrated Approach to Security in the Organization",
+        "author": "Seth Fogie",
+        "publishDate": "2024",
+        "sub_track":"662d64169f8ebb6b2e85eeb5",
+        "description": "A comprehensive guide to cybersecurity architecture principles, methodologies, and implementation strategies.",
+        "link": "https://www.amazon.com/Information-Security-Architecture-Integrated-Organization/dp/0849399882"
+      },
+      {
+        "bookName": "Enterprise Security Architecture: A Business-Driven Approach",
+        "author": "John Sherwood",
+        "publishDate": "2023",
+        "sub_track":"662d64169f8ebb6b2e85eeb5",
+        "description": "Learn how to develop and implement effective enterprise security architectures aligned with business goals.",
+        "link": "https://www.amazon.com/Enterprise-Security-Architecture-Business-Driven-Approach/dp/157820318X"
+      },
+      {
+        "bookName": "Cloud Security Architecture: A Comprehensive Guide to Secure Cloud Computing",
+        "author": "Raghu Yeluri",
+        "publishDate": "2022",
+        "sub_track":"662d64169f8ebb6b2e85eeb5",
+        "description": "A comprehensive guide to designing and implementing secure cloud architectures in AWS, Azure, and Google Cloud.",
+        "link": "https://www.amazon.com/Cloud-Security-Comprehensive-Secure-Computing/dp/0470589876"
+      },
+      {
+        "bookName": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "author": "Robert C. Martin",
+        "publishDate": "2008",
+        "sub_track":"662d64169f8ebb6b2e85ef36",
+        "description": "Learn about writing clean, maintainable code that stands the test of time.",
+        "link": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"
+      },
+      {
+        "bookName": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+        "publishDate": "2009",
+        "sub_track":"662d64169f8ebb6b2e85ef36",
+        "description": "A comprehensive textbook on algorithms and their analysis.",
+        "link": "https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844"
+      },
+      {
+        "bookName": "The Pragmatic Programmer: Your Journey to Mastery",
+        "author": "Andrew Hunt, David Thomas",
+        "publishDate": "2019",
+        "sub_track":"662d64169f8ebb6b2e85ef36",
+        "description": "A guide to becoming a better programmer and creating better software.",
+        "link": "https://www.amazon.com/Pragmatic-Programmer-Journey-Mastery/dp/0135957052"
+      },
+      {
+        "bookName": "Operating System Concepts",
+        "author": "Abraham Silberschatz, Peter B. Galvin, Greg Gagne",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85ef3c",
+        "description": "A classic textbook on operating systems used in universities worldwide.",
+        "link": "https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1119456339"
+      },
+      {
+        "bookName": "Modern Operating Systems",
+        "author": "Andrew S. Tanenbaum, Herbert Bos",
+        "publishDate": "2014",
+        "sub_track":"662d64169f8ebb6b2e85ef3c",
+        "description": "An updated guide to modern operating systems concepts and implementations.",
+        "link": "https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X"
+      },
+      {
+        "bookName": "Linux Pocket Guide",
+        "author": "Daniel J. Barrett",
+        "publishDate": "2021",
+        "sub_track":"662d64169f8ebb6b2e85ef3c",
+        "description": "A concise guide to essential Linux commands and tasks.",
+        "link": "https://www.amazon.com/Linux-Pocket-Guide-Daniel-Barrett/dp/0596006284"
+      },
+      {
+        "bookName": "The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win",
+        "author": "Gene Kim, Kevin Behr, George Spafford",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85ef41",
+        "description": "A novel that illustrates DevOps principles through a fictional story.",
+        "link": "https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290"
+      },
+      {
+        "bookName": "DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations",
+        "author": "Gene Kim, Patrick Debois, John Willis, Jez Humble",
+        "publishDate": "2016",
+        "sub_track":"662d64169f8ebb6b2e85ef41",
+        "description": "A comprehensive guide to implementing DevOps in organizations.",
+        "link": "https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002"
+      },
+      {
+        "bookName": "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations",
+        "author": "Nicole Forsgren, Jez Humble, Gene Kim",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85ef41",
+        "description": "Explore the science behind high-performing software development and DevOps.",
+        "link": "https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339"
+      },
+      {
+        "bookName": "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation",
+        "author": "Jez Humble, David Farley",
+        "publishDate": "2010",
+        "sub_track":"662d64169f8ebb6b2e85ef47",
+        "description": "A comprehensive guide to continuous delivery practices and principles.",
+        "link": "https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912"
+      },
+      {
+        "bookName": "Lean Enterprise: How High Performance Organizations Innovate at Scale",
+        "author": "Jez Humble, Joanne Molesky, Barry O'Reilly",
+        "publishDate": "2015",
+        "sub_track":"662d64169f8ebb6b2e85ef47",
+        "description": "Learn how to apply Lean principles to scale innovation in organizations.",
+        "link": "https://www.amazon.com/Lean-Enterprise-Performance-Organizations-Innovate/dp/1449368425"
+      },
+      {
+        "bookName": "The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations",
+        "author": "Gene Kim, Patrick Debois, John Willis, Jez Humble",
+        "publishDate": "2016",
+        "sub_track":"662d64169f8ebb6b2e85ef47",
+        "description": "A comprehensive guide to implementing DevOps in organizations.",
+        "link": "https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002"
+      },
+      {
+        "bookName": "The Docker Book: Containerization Is the New Virtualization",
+        "author": "James Turnbull",
+        "publishDate": "2014",
+        "sub_track":"662d64169f8ebb6b2e85ef4c",
+        "description": "A comprehensive guide to Docker and containerization.",
+        "link": "https://www.amazon.com/Docker-Book-Containerization-Virtualization-Programmers/dp/1521822808"
+      },
+      {
+        "bookName": "Kubernetes Up & Running: Dive into the Future of Infrastructure",
+        "author": "Kelsey Hightower, Brendan Burns, Joe Beda",
+        "publishDate": "2017",
+        "sub_track":"662d64169f8ebb6b2e85ef4c",
+        "description": "A practical guide to Kubernetes concepts and deployments.",
+        "link": "https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677"
+      },
+      {
+        "bookName": "Jenkins: The Definitive Guide",
+        "author": "John Ferguson Smart",
+        "publishDate": "2011",
+        "sub_track":"662d64169f8ebb6b2e85ef4c",
+        "description": "A comprehensive guide to Jenkins, the leading open-source automation server.",
+        "link": "https://www.amazon.com/Jenkins-Definitive-Continuous-Integration-Masses/dp/1449305350"
+      },
+      {
+        "bookName": "Mastering VMware vSphere",
+        "author": "Martin Gavanda, Andrea Mauro",
+        "publishDate": "2020",
+        "sub_track":"662d64169f8ebb6b2e85ef51",
+        "description": "A comprehensive guide to mastering VMware vSphere virtualization.",
+        "link": "https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1119512948"
+      },
+      {
+        "bookName": "KVM Virtualization Cookbook",
+        "author": "Konstantin Ivanov",
+        "publishDate": "2016",
+        "sub_track":"662d64169f8ebb6b2e85ef51",
+        "description": "A cookbook-style guide to mastering KVM virtualization.",
+        "link": "https://www.amazon.com/KVM-Virtualization-Cookbook-effectively-production/dp/178829467X"
+      },
+      {
+        "bookName": "Mastering KVM Virtualization",
+        "author": "Vedran Dakic",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85ef51",
+        "description": "A practical guide to learning and implementing KVM virtualization.",
+        "link": "https://www.amazon.com/Mastering-KVM-Virtualization-virtualization-solutions/dp/1838828710"
+      },
+      {
+        "bookName": "Pro Git",
+        "author": "Scott Chacon, Ben Straub",
+        "publishDate": "2014",
+        "sub_track":"662d64169f8ebb6b2e85ef56",
+        "description": "The official Git book covering everything from basic to advanced Git topics.",
+        "link": "https://www.amazon.com/Pro-Git-Scott-Chacon/dp/1484200772"
+      },
+      {
+        "bookName": "Git Pocket Guide: A Working Introduction",
+        "author": "Richard E. Silverman",
+        "publishDate": "2013",
+        "sub_track":"662d64169f8ebb6b2e85ef56",
+        "description": "A concise guide to Git commands and workflows for everyday use.",
+        "link": "https://www.amazon.com/Git-Pocket-Guide-Working-Introduction/dp/1449325866"
+      },
+      {
+        "bookName": "Git for Teams: A User-Centered Approach to Creating Efficient Workflows in Git",
+        "author": "Emma Jane Hogbin Westby",
+        "publishDate": "2015",
+        "sub_track":"662d64169f8ebb6b2e85ef56",
+        "description": "A practical guide to using Git effectively in team environments.",
+        "link": "https://www.amazon.com/Git-Teams-User-Centered-Efficient-Workflows/dp/1491911182"
+      },
+      {
+        "bookName": "Jenkins: The Definitive Guide",
+        "author": "John Ferguson Smart",
+        "publishDate": "2011",
+        "sub_track":"662d64169f8ebb6b2e85ef5b",
+        "description": "A comprehensive guide to Jenkins, the leading open-source automation server.",
+        "link": "https://www.amazon.com/Jenkins-Definitive-Continuous-Integration-Masses/dp/1449305350"
+      },
+      {
+        "bookName": "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation",
+        "author": "Jez Humble, David Farley",
+        "publishDate": "2010",
+        "sub_track":"662d64169f8ebb6b2e85ef5b",
+        "description": "A comprehensive guide to continuous delivery practices and principles.",
+        "link": "https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912"
+      },
+      {
+        "bookName": "Implementing DevOps with Microsoft Azure",
+        "author": "Mitesh Soni",
+        "publishDate": "2017",
+        "sub_track":"662d64169f8ebb6b2e85ef5b",
+        "description": "Learn to implement DevOps practices using Microsoft Azure.",
+        "link": "https://www.amazon.com/Implementing-DevOps-Microsoft-Azure-Mitesh/dp/1787127028"
+      },
+      {
+        "bookName": "Terraform: Up & Running",
+        "author": "Yevgeniy Brikman",
+        "publishDate": "2017",
+        "sub_track":"662d64169f8ebb6b2e85ef60",
+        "description": "A comprehensive guide to Terraform for building, changing, and versioning infrastructure safely and efficiently.",
+        "link": "https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1492046906"
+      },
+      {
+        "bookName": "Ansible for DevOps: Server and Configuration Management for Humans",
+        "author": "Jeff Geerling",
+        "publishDate": "2015",
+        "sub_track":"662d64169f8ebb6b2e85ef60",
+        "description": "Learn Ansible for automating configuration management and deployment tasks.",
+        "link": "https://www.amazon.com/Ansible-DevOps-Server-configuration-management/dp/098639341X"
+      },
+      {
+        "bookName": "Learning Chef: A Guide to Configuration Management and Automation",
+        "author": "Mischa Taylor, Seth Vargo",
+        "publishDate": "2014",
+        "sub_track":"662d64169f8ebb6b2e85ef60",
+        "description": "A comprehensive guide to learning Chef for infrastructure automation.",
+        "link": "https://www.amazon.com/Learning-Chef-Configuration-Management-Automation/dp/1491944935"
+      },
+      {
+        "bookName": "Kubernetes: Up and Running",
+        "author": "Brendan Burns, Joe Beda, Kelsey Hightower",
+        "publishDate": "2017",
+        "sub_track":"662d64169f8ebb6b2e85ef65",
+        "description": "A comprehensive guide to Kubernetes concepts and deployments.",
+        "link": "https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677"
+      },
+      {
+        "bookName": "The Kubernetes Book",
+        "author": "Nigel Poulton",
+        "publishDate": "2017",
+        "sub_track":"662d64169f8ebb6b2e85ef65",
+        "description": "A practical guide to Kubernetes for developers and administrators.",
+        "link": "https://www.amazon.com/Kubernetes-Book-Version-Jan-2019/dp/1521823634"
+      },
+      {
+        "bookName": "Docker Deep Dive",
+        "author": "Nigel Poulton",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85ef65",
+        "description": "A comprehensive guide to Docker internals and best practices.",
+        "link": "https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808"
+      },
+      {
+        "bookName": "Monitoring with Prometheus",
+        "author": "James Turnbull",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85ef6a",
+        "description": "A comprehensive guide to monitoring systems with Prometheus.",
+        "link": "https://www.amazon.com/Monitoring-Prometheus-James-Turnbull-ebook/dp/B07DPH8MN9"
+      },
+      {
+        "bookName": "Elasticsearch: The Definitive Guide",
+        "author": "Clinton Gormley, Zachary Tong",
+        "publishDate": "2015",
+        "sub_track":"662d64169f8ebb6b2e85ef6a",
+        "description": "A comprehensive guide to Elasticsearch for logging and monitoring.",
+        "link": "https://www.amazon.com/Elasticsearch-Definitive-Guide-Zachary-Tong/dp/1449358543"
+      },
+      {
+        "bookName": "Logging and Log Management: The Authoritative Guide to Understanding the Concepts Surrounding Logging and Log Management",
+        "author": "Anton Chuvakin, Kevin Schmidt, Christopher Phillips",
+        "publishDate": "2012",
+        "sub_track":"662d64169f8ebb6b2e85ef6a",
+        "description": "A comprehensive guide to logging and log management.",
+        "link": "https://www.amazon.com/Logging-Log-Management-Anton-Chuvakin/dp/1597496359"
+      },
+      {
+        "bookName": "The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations",
+        "author": "Gene Kim, Patrick Debois, John Willis, Jez Humble",
+        "publishDate": "2016",
+        "sub_track":"662d64169f8ebb6b2e85ef6f",
+        "description": "A comprehensive guide to implementing DevOps with a focus on security.",
+        "link": "https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002"
+      },
+      {
+        "bookName": "Securing DevOps: Security in the Cloud",
+        "author": "Julien Vehent",
+        "publishDate": "2017",
+        "sub_track":"662d64169f8ebb6b2e85ef6f",
+        "description": "Learn about security best practices in DevOps and cloud environments.",
+        "link": "https://www.amazon.com/Securing-DevOps-Security-Julien-Vehent/dp/1617294136"
+      },
+      {
+        "bookName": "DevOps for the Modern Enterprise: Winning Practices to Transform Legacy IT Organizations",
+        "author": "Mirco Hering",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85ef6f",
+        "description": "A guide to implementing DevOps in enterprise environments with a focus on security.",
+        "link": "https://www.amazon.com/DevOps-Modern-Enterprise-Organizations-Transform/dp/1942788150"
+      },
+      {
+        "bookName": "Google Cloud Platform in Action",
+        "author": "Markus Klems, Cornelia Davis, Jonathan Perry",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85ef74",
+        "description": "A comprehensive guide to Google Cloud Platform services and architecture.",
+        "link": "https://www.amazon.com/Google-Cloud-Platform-Action-Klems/dp/1617293520"
+      },
+      {
+        "bookName": "Azure for Architects: Implementing cloud design, DevOps, IoT, and serverless solutions on your public cloud",
+        "author": "Ritesh Modi",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85ef74",
+        "description": "A guide for architects and developers to design Azure solutions.",
+        "link": "https://www.amazon.com/Azure-Architects-Implementing-serverless-solutions/dp/1788397398"
+      },
+      {
+        "bookName": "AWS Certified Solutions Architect Official Study Guide: Associate Exam",
+        "author": "Joe Baron, Hisham Baz, Tim Bixler, Biff Gaut, Kevin E. Kelly, Sean Senior, John Stamper",
+        "publishDate": "2016",
+        "sub_track":"662d64169f8ebb6b2e85ef74",
+        "description": "A comprehensive guide to preparing for the AWS Certified Solutions Architect Associate exam.",
+        "link": "https://www.amazon.com/Certified-Solutions-Architect-Official-Study/dp/1119138558"
+      },
+      {
+        "bookName": "The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win",
+        "author": "Gene Kim, Kevin Behr, George Spafford",
+        "publishDate": "2013",
+        "sub_track":"662d64169f8ebb6b2e85ef79",
+        "description": "A novel about IT, DevOps, and helping your business win through effective practices.",
+        "link": "https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290"
+      },
+      {
+        "bookName": "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations",
+        "author": "Nicole Forsgren, Jez Humble, Gene Kim",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85ef79",
+        "description": "Learn about the science behind high-performing technology organizations.",
+        "link": "https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339"
+      },
+      {
+        "bookName": "Site Reliability Engineering: How Google Runs Production Systems",
+        "author": "Niall Richard Murphy, Betsy Beyer, Chris Jones, Jennifer Petoff",
+        "publishDate": "2016",
+        "sub_track":"662d64169f8ebb6b2e85ef79",
+        "description": "Learn how Google runs production systems and practices Site Reliability Engineering.",
+        "link": "https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X"
+      },
+      {
+        "bookName": "Kubernetes: Up and Running",
+        "author": "Brendan Burns, Joe Beda, Kelsey Hightower",
+        "publishDate": "2017",
+        "sub_track":"662d64169f8ebb6b2e85ef7e",
+        "description": "A comprehensive guide to Kubernetes concepts and deployments.",
+        "link": "https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677"
+      },
+      {
+        "bookName": "Docker Deep Dive",
+        "author": "Nigel Poulton",
+        "publishDate": "2018",
+        "sub_track":"662d64169f8ebb6b2e85ef7e",
+        "description": "A comprehensive guide to Docker internals and best practices.",
+        "link": "https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808"
+      },
+      {
+        "bookName": "AWS Certified DevOps Engineer - Professional Certification and Beyond",
+        "author": "Adam Book",
+        "publishDate": "2021",
+        "sub_track":"662d64169f8ebb6b2e85ef7e",
+        "description": "A comprehensive guide to preparing for the AWS Certified DevOps Engineer - Professional exam.",
+        "link": "https://www.amazon.com/AWS-Certified-DevOps-Engineer-Certification/dp/1801074453"
       }
       
 

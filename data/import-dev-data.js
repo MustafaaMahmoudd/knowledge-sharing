@@ -3,6 +3,8 @@ const dotenv = require('dotenv');
 const fs = require('fs');
 const Track = require('../Models/trackModel');
 const subTrack = require('../Models/subTrackModel');
+const Book=require('../Models/booksModel');
+const Course=require('../Models/coursesModel');
 dotenv.config({ path: './config.env' });
 
 const DB = process.env.DATABASE.replace(
@@ -19,11 +21,19 @@ const documents = JSON.parse(jsonFile);
 const subTracks = JSON.parse(
   fs.readFileSync(`${__dirname}/subTrack.json`, 'utf-8')
 );
+const books = JSON.parse(
+  fs.readFileSync(`${__dirname}/books.json`, 'utf-8')
+);
+const courses = JSON.parse(
+  fs.readFileSync(`${__dirname}/course.json`, 'utf-8')
+);
 
 const importData = async () => {
   try {
     // await Track.create(documents);
     // await subTrack.create(subTracks);
+      //  await Book.create(books);
+      //  await Course.create(courses);
     console.log('data loaded successfully');
   } catch (err) {
     console.log(err);
