@@ -1,6 +1,8 @@
 const SubTrack = require('../Models/subTrackModel');
 const catchAsync = require('../utilities/catchAsync');
 const AppError = require('../utilities/AppErrors');
+const Book=require('../Models/booksModel')
+const Course=require('../Models/coursesModel')
 
 
 exports.getAllSubTracks = catchAsync(async (req, res, next) => {
@@ -15,6 +17,7 @@ exports.getAllSubTracks = catchAsync(async (req, res, next) => {
 });
 
 exports.getSteps = catchAsync(async (req, res, next) => {
+  // const books=await Course.find()
   let query;
    query = SubTrack.find({ track: req.track._id }).select('name')
     .populate({ path: 'books' })
