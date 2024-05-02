@@ -163,7 +163,7 @@ exports.protect = catchAsync(async (req, res, next) => {
 
 
 exports.logout = (req, res) => {
-  res.cookie('jwt', 'logout', {
+  res.cookie('jwt', '', {
     expires: new Date(Date.now() + 10 * 1000), // expires after 10 seconds
     httpOnly: true,
   });
