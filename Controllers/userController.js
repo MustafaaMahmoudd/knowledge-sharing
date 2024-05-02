@@ -122,6 +122,18 @@ exports.resizeUserPhoto = catchAsync(async (req, res, next) => {
     .toFile(`public/img/users/${req.file.filename}`);
   next();
 });
+// exports.resizeUserPhoto = (file) => {
+//   return async (req, res, next) => {
+//     if (!req.file) return next();
+//     req.file.filename = `${file}-${req.user.id}-${Date.now()}.jpeg`;
+//     await sharp(req.file.buffer)
+//       .resize(500, 500)
+//       .toFormat('jpeg')
+//       .jpeg({ quality: 100 })
+//       .toFile(`public/img/${file}s/${req.file.filename}`);
+//     next();
+//   };
+// };
 
 filterObj = (obj, ...allow) => {
   if (!obj) return;

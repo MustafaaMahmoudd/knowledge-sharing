@@ -25,10 +25,23 @@ exports.getAllArticles = catchAsync(async (req, res, next) => {
     },
   });
 });
-
+exports.getOne = catchAsync(async (req, res, next) => {
+  const article = await Article.findOne({ _id: req.params.id });
+  article.user.photo=`${req.protocol}://${req.get('host')}/img/users/${article.user.photo}`
+  if (!article) return next(new AppError('There is no such a article !', 404));
+  res.status(200).json({
+    status: 'success',
+    data: {
+      article,
+    },
+  });
+});
 exports.createArticle = catchAsync(async (req, res, next) => {
   req.body.track = req.track._id;
   req.body.user = req.user._id;
+  if(req.file){
+    req.body.photo=req.file.filename
+  }
   const article = await Article.create(req.body);
   res.status(201).json({
     status: 'success',

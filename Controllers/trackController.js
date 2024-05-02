@@ -41,19 +41,21 @@ exports.getTrackId = catchAsync(async (req, res, next) => {
   const currentTrack = await Track.findOne({ slug: req.params.slug });
   console.log(currentTrack);
   req.track = currentTrack;
-  // console.log(typeof req.track);
   next();
 });
 
-exports.updateOne=catchAsync(async(req,res,next)=>{
-  const track=await Track.findByIdAndUpdate(req.params.id,req.body,{new:true,runValidators:true})
+exports.updateOne = catchAsync(async (req, res, next) => {
+  const track = await Track.findByIdAndUpdate(req.params.id, req.body, {
+    new: true,
+    runValidators: true,
+  });
   res.json({
-    status:'success',
-    data:{
-      track
-    }
-  })
-})
+    status: 'success',
+    data: {
+      track,
+    },
+  });
+});
 
 exports.getEmailsOnEachTrack = catchAsync(async (req, res, next) => {
   const fields = await Track.aggregate([
@@ -126,9 +128,9 @@ exports.getEmailsOnEachTrack = catchAsync(async (req, res, next) => {
   req.fields = fields;
   next();
   // res.status(200).json({
-    // fields,
-    // array,
-    // extractedData,
-    // final,
+  // fields,
+  // array,
+  // extractedData,
+  // final,
   // });
 });

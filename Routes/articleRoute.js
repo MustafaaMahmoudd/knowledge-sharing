@@ -3,6 +3,7 @@ const articleController = require('../Controllers/articleController');
 const authController = require('../Controllers/authController');
 const Router = express.Router();
 
+
 Router.route('/')
   .get(articleController.getAllArticles)
   .post(
@@ -11,12 +12,15 @@ Router.route('/')
     articleController.createArticle
   );
 
-Router.patch(
-  '/:id',
-  authController.protect,
-  authController.restrictTo('Doctor', 'Software-engineer'),
-  articleController.updateArticle
-);
+
+Router.route('/:id')
+  .get(articleController.getOne)
+  .patch(
+    authController.protect,
+    authController.restrictTo('Doctor', 'Software-engineer'),
+    articleController.updateArticle
+  );
+
 Router.delete(
   '/:id',
   authController.protect,
