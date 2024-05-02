@@ -160,6 +160,19 @@ exports.protect = catchAsync(async (req, res, next) => {
   next();
 });
 
+
+
+exports.logout = (req, res) => {
+  res.cookie('jwt', 'logout', {
+    expires: new Date(Date.now() + 10 * 1000), // expires after 10 seconds
+    httpOnly: true,
+  });
+  res.status(200).json({
+    status: 'success',
+  });
+};
+
+
 exports.restrictTo = (...role) => {
   return (req, res, next) => {
     if (req.user.verifiedAsExpert) {

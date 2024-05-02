@@ -23,6 +23,7 @@ Router.get(
   authController.restrictTo('Admin'),
   userController.getAllUnverifiedExperts
 );
+Router.get('/logout',authController.logout);
 
 Router.get('/getMe', authController.protect, userController.getMe);
 Router.post('/forgetPassword', authController.forgetPassword);

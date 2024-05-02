@@ -71,6 +71,7 @@ exports.updateArticle = catchAsync(async (req, res, next) => {
 
 exports.deleteArticle = catchAsync(async (req, res, next) => {
   const article = await Article.findOne({ _id: req.params.id });
+  console.log(article)
   if (article.user._id.equals(req.user._id)) {
     await Article.deleteOne({ _id: article._id });
     return res.status(200).json({
@@ -78,7 +79,7 @@ exports.deleteArticle = catchAsync(async (req, res, next) => {
       message: 'deleted successfully',
     });
   }
-  if (article.user.role === 'admin') {
+  if (article.user.role === 'Admin') {
     await Article.deleteOne({ _id: article._id });
     return res.status(200).json({
       status: 'success',
