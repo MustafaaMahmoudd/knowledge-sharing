@@ -23,7 +23,7 @@ Router.get(
   authController.restrictTo('Admin'),
   userController.getAllUnverifiedExperts
 );
-Router.get('/logout',authController.logout);
+Router.get('/logout', authController.logout);
 
 Router.get('/getMe', authController.protect, userController.getMe);
 Router.post('/forgetPassword', authController.forgetPassword);
@@ -48,6 +48,11 @@ Router.route('/:id')
     authController.protect,
     authController.restrictTo('Admin'),
     userController.deleteUser
+  )
+  .patch(
+    authController.protect,
+    authController.restrictTo('Admin'),
+    userController.updateUser
   );
 // Router.use('/signup',limit.limiter);
 Router.use(limiter);

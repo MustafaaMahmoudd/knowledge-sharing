@@ -239,3 +239,20 @@ exports.deleteUnVerifiedUsers = catchAsync(async (req, res, next) => {
     message: `${users.deletedCount} users deleted successfully`,
   });
 });
+
+
+exports.updateUser=catchAsync(async(req,res,next)=>{
+  if(req.user.role != "Admin"){
+    return new AppError('your are not allowed to edit this user',403);
+  }
+  const user=await User.findByIdAndUpdate(req.params.id,req.body,{
+    new:true,
+    runValidators:true
+  })
+  res.status(200).json({
+    status:'success',
+    data:{
+      user
+    }
+  })
+})
