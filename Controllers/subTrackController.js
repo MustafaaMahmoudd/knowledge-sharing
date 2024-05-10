@@ -6,7 +6,7 @@ const Course=require('../Models/coursesModel')
 
 
 exports.getAllSubTracks = catchAsync(async (req, res, next) => {
-  const subTracks = SubTrack.find({ track: req.track._id })
+  const subTracks = SubTrack.find({ track: req.track._id }).select('-number')
   let sortBy=req.query.sort;
   const finalSubTracks=await subTracks.sort(sortBy)
   res.status(200).json({
