@@ -2,3 +2,4 @@ node_modules/
 *.env
 subTrack.json
 fields.json
+vercel.json
