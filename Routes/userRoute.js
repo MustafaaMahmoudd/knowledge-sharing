@@ -5,7 +5,7 @@ const express = require('express');
 const Router = express.Router();
 
 const limiter = rateLimit({
-  max: 5,
+  max: 100,
   window: 60 * 24 * 1000,
   message: 'Too many requests from this IP, please try again in hour',
 });
