@@ -15,9 +15,9 @@ const newslettersRouter = require('./Routes/newslettersRoute');
 const commentRoute=require('./Routes/commentRoute')
 const app = express();
 const https = require('https');
-const agent = new https.Agent({
-  rejectUnauthorized: false,
-});
+// const agent = new https.Agent({
+//   rejectUnauthorized: false,
+// });
 
 app.use(cors());
 
