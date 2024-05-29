@@ -28,20 +28,20 @@ const sendErrDev = (err, res) => {
 };
 const sendErrPro = (err, res) => {
   //operational, trusted error : send messages to the client
-  if (err.isOperational) {
+  // if (err.isOperational) {
     res.status(err.statusCode).json({
       status: err.status,
       message: err.message,
     });
-  }
+  // }
   //programming error or other unknown error : don't leak error details
-  else {
-    console.error('Error', err);
-    res.status(500).json({
-      status: 'error',
-      message: 'something went very wrong',
-    });
-  }
+  // else {
+  //   console.error('Error', err);
+  //   res.status(500).json({
+  //     status: 'error',
+  //     message: 'something went very wrong',
+  //   });
+  // }
 };
 
 module.exports = (err, req, res, next) => {
