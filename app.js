@@ -33,7 +33,7 @@ const makeApiCall = async () => {
   }
 };
 
-// Schedule the task to run every two days
+// Schedule the task to run every 1 days
 cron.schedule('0 0 */1 * *', () => {
   console.log('Running API call task...');
   makeApiCall();
@@ -50,7 +50,7 @@ const ApiCall = async () => {
   }
 };
 
-// Schedule the task to run every two days
+// Schedule the task to run every week
 cron.schedule('0 0 * * 0', () => {
   console.log('Running API call task...');
   ApiCall();
