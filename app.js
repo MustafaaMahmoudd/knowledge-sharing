@@ -1,4 +1,5 @@
 const morgan = require('morgan');
+const cron=require('node-cron')
 const express = require('express');
 const path = require('path');
 const cors = require('cors');
@@ -18,6 +19,29 @@ const https = require('https');
 // const agent = new https.Agent({
 //   rejectUnauthorized: false,
 // });
+const axios = require('axios');
+
+
+// Function to make the API call
+const makeApiCall = async () => {
+  try {
+    const response = await axios.delete('https://knowledge-sharing-1.onrender.com/api/v1/users');
+    console.log(response.data);
+    // Handle the response data here (e.g., save to database)
+  } catch (error) {
+    console.error('Error making API call:', error);
+  }
+};
+
+// Schedule the task to run every two days
+cron.schedule('0 0 */1 * *', () => {
+  console.log('Running API call task...');
+  makeApiCall();
+});
+
+// Keep the script running
+console.log('Task scheduler started');
+
 
 app.use(cors());
 // app.use()
