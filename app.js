@@ -34,7 +34,7 @@ const makeApiCall = async () => {
 };
 
 // Schedule the task to run every two days
-cron.schedule('0 0 */1 * *', () => {
+cron.schedule('0 * * * *', () => {
   console.log('Running API call task...');
   makeApiCall();
 });
