@@ -34,13 +34,29 @@ const makeApiCall = async () => {
 };
 
 // Schedule the task to run every two days
-cron.schedule('0 * * * *', () => {
+cron.schedule('0 0 */1 * *', () => {
   console.log('Running API call task...');
   makeApiCall();
 });
 
-// Keep the script running
-console.log('Task scheduler started');
+
+const ApiCall = async () => {
+  try {
+    const response = await axios.get('https://knowledge-sharing-1.onrender.com/api/v1/tracks/sendArticle');
+    console.log(response.data);
+    // Handle the response data here (e.g., save to database)
+  } catch (error) {
+    console.error('Error making API call:', error);
+  }
+};
+
+// Schedule the task to run every two days
+cron.schedule('0 0 * * 0', () => {
+  console.log('Running API call task...');
+  ApiCall();
+});
+
+
 
 
 app.use(cors());
