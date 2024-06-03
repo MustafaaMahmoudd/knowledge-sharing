@@ -11,6 +11,7 @@ Router.route('/')
     postController.createPost
   )
   .get(postController.getAllPosts);
+Router.get('/myPosts', authController.protect,postController.getMyPosts);
 Router.route('/:id')
   .delete(authController.protect, postController.deletePost)
   .patch(authController.protect, postController.updatePost);

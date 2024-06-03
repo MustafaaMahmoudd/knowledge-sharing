@@ -60,11 +60,8 @@ exports.deletePost = catchAsync(async (req, res, next) => {
     return next(new AppError('This is not your post to delete', 403));
   }
 });
-exports.getPosts=catchAsync(async(req,res,next)=>{
+exports.getMyPosts=catchAsync(async(req,res,next)=>{
   const posts=await Post.find({user:req.user._id});
-  if(!post){
-    new AppError('There is no posts yet',404);
-  }
   res.status(200).json({
     data:{
       posts
