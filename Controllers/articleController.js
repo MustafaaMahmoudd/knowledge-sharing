@@ -53,7 +53,7 @@ exports.createArticle = catchAsync(async (req, res, next) => {
 
 exports.updateArticle = catchAsync(async (req, res, next) => {
   const article = await Article.findOne({ _id: req.params.id });
-  if (article.user.id.equals(req.user._id)) {
+  if (article.user._id.equals(req.user._id)) {
     await Article.updateOne({ _id: article._id }, req.body, {
       new: true,
       runValidators: true,
