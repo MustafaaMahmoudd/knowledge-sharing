@@ -3,6 +3,7 @@ const catchAsync = require('../utilities/catchAsync');
 const AppError = require('../utilities/AppErrors');
 const Email = require('../utilities/email');
 const { publicDecrypt } = require('crypto');
+const { findByIdAndUpdate } = require('../Models/postsModel');
 
 exports.getAllArticles = catchAsync(async (req, res, next) => {
   if (!req.track) {
@@ -52,12 +53,12 @@ exports.createArticle = catchAsync(async (req, res, next) => {
 });
 
 exports.updateArticle = catchAsync(async (req, res, next) => {
-  const article = await Article.findOne({ _id: req.params.id });
+  let article = await Article.findOne({ _id: req.params.id });
   if (article.user._id.equals(req.user._id)) {
-    await Article.updateOne({ _id: article._id }, req.body, {
-      new: true,
-      runValidators: true,
-    });
+    article=await Article.findByIdAndUpdate(article._id,req.body,{
+      new:true,
+      runValidators:true,
+    })
     return res.status(200).json({
       status: 'success',
       data: {
