@@ -30,6 +30,9 @@ exports.getAllUnverifiedExperts = catchAsync(async (req, res, next) => {
   const users = await User.find({
     verifiedAsExpert: false,
   });
+  users.forEach(user=>{
+    user.file=`${req.protocol}://${req.get('host')}/files/${user.file}`;
+  })
   res.status(200).json({
     status: 'success',
     data: {
