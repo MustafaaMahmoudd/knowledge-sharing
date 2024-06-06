@@ -36,6 +36,12 @@ Router.patch(
 );
 
 Router.patch(
+  '/updatePassword',
+  authController.protect,
+  authController.updatePassword
+);
+
+Router.patch(
   '/verifyExpert/:id',
   authController.protect,
   authController.restrictTo('Admin'),
