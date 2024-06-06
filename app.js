@@ -86,7 +86,7 @@ app.use('/api/v1/articles', articleRouter);
 app.use('/api/v1/newsletters', newslettersRouter);
 app.use('/api/v1/posts', postRouter);
 app.use('/api/v1/comments', commentRoute);
-app.use('/http://localhost:5173',userRouter)
+app.use('/http://localhost:5173/api/v1/users',userRouter)
 
 app.all('*', (req, res, next) => {
   next(new AppError(`can't find ${req.originalUrl} on this server`, 404));
