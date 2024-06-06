@@ -14,7 +14,7 @@ const commentSchema = new mongoose.Schema({
 
 commentSchema.pre(/^find/, function (next) {
   this.populate({
-    path: 'users',
+    path: 'user',
     select: 'name photo',
   });
   next();

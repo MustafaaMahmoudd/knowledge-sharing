@@ -7,6 +7,7 @@ exports.getAllPosts = catchAsync(async (req, res, next) => {
     path: 'comments',
     select:'body users'
   });
+  console.log(posts)
   posts.forEach((el) => {
     // Check if the photo URL already contains the base URL
     if (!el.user.photo.startsWith(`${req.protocol}://${req.get('host')}`)) {
@@ -15,16 +16,18 @@ exports.getAllPosts = catchAsync(async (req, res, next) => {
         el.user.photo
       }`;
     }
+    console.log(posts)
+    console.log(el.comments)
     if (el.comments.length > 0) {
       el.comments.forEach((comment) => {
         if (
-          !comment.users.photo.startsWith(
+          !comment.user.photo.startsWith(
             `${req.protocol}://${req.get('host')}`
           )
         ) {
-          comment.users.photo = `${req.protocol}://${req.get(
+          comment.user.photo = `${req.protocol}://${req.get(
             'host'
-          )}/img/users/${comment.users.photo}`;
+          )}/img/users/${comment.user.photo}`;
         }
       });
     }
