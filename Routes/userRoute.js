@@ -37,7 +37,6 @@ Router.patch(
 
 Router.patch(
   '/updatePassword',
-  authController.protect,
   authController.updatePassword
 );
 
