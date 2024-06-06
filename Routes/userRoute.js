@@ -2,8 +2,8 @@ const authController = require('../Controllers/authController');
 const userController = require('../Controllers/userController');
 const rateLimit = require('express-rate-limit');
 const express = require('express');
-const Router = express.Router();
 
+const Router = express.Router();
 const limiter = rateLimit({
   max: 100,
   window: 60 * 24 * 1000,
