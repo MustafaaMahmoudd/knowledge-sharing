@@ -29,12 +29,13 @@ const comment=await Comment.findOne({_id:req.params.id})
 });
 exports.updateComment = catchAsync(async (req, res, next) => {
 //   const comment = await Comment.findOne({ posts: req.params.id });
-const comment=await Comment.findOne({_id:req.params.id})
+let comment=await Comment.findOne({_id:req.params.id})
   if (comment.user.equals(req.user._id)) {
-    await Comment.updateOne({ _id: req.params.id},req.body,{
+    comment= await Comment.findByIdAndUpdate(comment._id,req.body,{
         new:true,
         runValidators:true
     });
+    comment.user.photo=`${req.protocol}://${req.get('host')}/img/users/${comment.user.photo}`
     return res.status(200).json({
       status: 'success',
       message: 'comment updated successfully',
