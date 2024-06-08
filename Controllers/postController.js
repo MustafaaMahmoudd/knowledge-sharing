@@ -73,12 +73,12 @@ exports.getMyPosts=catchAsync(async(req,res,next)=>{
 })
 
 exports.updatePost = catchAsync(async (req, res, next) => {
-  const post = await Post.findOne({ _id: req.params.id });
+  let post = await Post.findOne({ _id: req.params.id });
   if (post.user.equals(req.user._id)) {
-    await Post.updateOne({ _id: post._id }, req.body, {
-      new: true,
-      runValidators: true,
-    });
+    post=await Post.findByIdAndUpdate(post._id,req.body,{
+      new:true,
+      runValidators:true,
+    })
     return res.status(200).json({
       status: 'success',
       data: {
