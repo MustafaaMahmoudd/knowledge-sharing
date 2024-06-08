@@ -35,6 +35,7 @@ const createSendToken = (res, user, statusCode) => {
   });
 };
 const multerFilter = (req, file, cb) => {
+  console.log(file)
   if (file.mimetype.startsWith('application/pdf')) {
     console.log(file.filename);
     cb(null, true); // there is no error
@@ -73,6 +74,7 @@ exports.signUp = catchAsync(async (req, res, next) => {
     passwordConfirm: req.body.passwordConfirm,
     role: req.body.role,
   });
+  console.log(req.file)
   if (req.body.role === 'Doctor' || req.body.role === 'Software-engineer') {
     newUser.verifiedAsExpert = false;
     await newUser.save({ validateBeforeSave: false });
