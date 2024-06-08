@@ -79,6 +79,7 @@ exports.updatePost = catchAsync(async (req, res, next) => {
       new:true,
       runValidators:true,
     })
+    post.user.photo=`${req.protocol}://${req.get('host')}/img/users/${post.user.photo}`
     return res.status(200).json({
       status: 'success',
       data: {
