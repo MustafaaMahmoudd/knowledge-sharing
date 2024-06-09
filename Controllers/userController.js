@@ -79,6 +79,11 @@ exports.deleteUser = catchAsync(async (req, res, next) => {
       // Delete the user and all associated posts within a transaction
       await User.findByIdAndDelete(req.params.id).session(sessionOne);
       await Post.deleteMany({ user: req.params.id }).session(sessionOne);
+      
+      const comments=await Comment.find({user:req.params.id});
+      if(comments.length>0){
+        await Comment.deleteMany({user:req.params.id}).session(sessionOne);
+      }
 
       // Commit the transaction if all operations are successful
       await sessionOne.commitTransaction();
