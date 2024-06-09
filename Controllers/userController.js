@@ -22,6 +22,7 @@ exports.getAllUsers = catchAsync(async (req, res, next) => {
     status: 'success',
     data: {
       users,
+      number:users.length
     },
   });
 });

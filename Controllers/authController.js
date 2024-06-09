@@ -35,7 +35,7 @@ const createSendToken = (res, user, statusCode) => {
   });
 };
 const multerFilter = (req, file, cb) => {
-  console.log(file)
+  console.log(file);
   if (file.mimetype.startsWith('application/pdf')) {
     console.log(file.filename);
     cb(null, true); // there is no error
@@ -49,9 +49,9 @@ const storage = multer.diskStorage({
   },
   filename: (req, file, cb) => {
     const ext = file.mimetype.split('/')[1];
-    console.log(ext)
+    console.log(ext);
     const name = file.originalname.split('.')[0].split(' ').join('');
-    console.log(name)
+    console.log(name);
     const finalName = `${name}-${Date.now()}.${ext}`;
     console.log(finalName);
     cb(null, finalName);
@@ -74,7 +74,7 @@ exports.signUp = catchAsync(async (req, res, next) => {
     passwordConfirm: req.body.passwordConfirm,
     role: req.body.role,
   });
-  console.log(req.file)
+  console.log(req.file);
   if (req.body.role === 'Doctor' || req.body.role === 'Software-engineer') {
     newUser.verifiedAsExpert = false;
     await newUser.save({ validateBeforeSave: false });
@@ -90,7 +90,7 @@ exports.signUp = catchAsync(async (req, res, next) => {
     'Verify Your Account'
   );
   res.status(201).json({
-    status:"success",
+    status: 'success',
     newUser,
   });
 });
@@ -144,7 +144,7 @@ exports.protect = catchAsync(async (req, res, next) => {
   } else if (req.cookies.jwt) token = req.cookies.jwt;
   if (!token) {
     return next(
-      new AppError('You are not logged in! please log in to get access', 401),
+      new AppError('You are not logged in! please log in to get access', 401)
     );
   }
 
@@ -171,8 +171,6 @@ exports.protect = catchAsync(async (req, res, next) => {
   next();
 });
 
-
-
 exports.logout = (req, res) => {
   res.cookie('jwt', '', {
     expires: new Date(Date.now() + 10 * 1000), // expires after 10 seconds
@@ -182,7 +180,6 @@ exports.logout = (req, res) => {
     status: 'success',
   });
 };
-
 
 exports.restrictTo = (...role) => {
   return (req, res, next) => {
