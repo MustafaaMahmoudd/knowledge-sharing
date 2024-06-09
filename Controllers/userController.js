@@ -11,7 +11,7 @@ const mongoose = require('mongoose');
 const sharp = require('sharp');
 
 exports.getAllUsers = catchAsync(async (req, res, next) => {
-  const users = await User.find();
+  const users = await User.find({role:{$ne:'Admin'}});
   users.forEach((el) => {
     el.photo = `${req.protocol}://${req.get('host')}/img/users/${el.photo}`;
     if (el.file) {
