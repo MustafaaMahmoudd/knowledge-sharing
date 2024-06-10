@@ -87,13 +87,13 @@ exports.deleteArticle = catchAsync(async (req, res, next) => {
       message: 'deleted successfully',
     });
   }
-  if (article.user.role === 'Admin') {
-    await Article.deleteOne({ _id: article._id });
-    return res.status(200).json({
-      status: 'success',
-      message: 'deleted successfully',
-    });
-  }
+  // if (article.user.role === 'Admin') {
+  //   await Article.deleteOne({ _id: article._id });
+  //   return res.status(200).json({
+  //     status: 'success',
+  //     message: 'deleted successfully',
+  //   });
+  // }
   return next(new AppError('this is not your article to delete ', 403));
 });
 exports.sendArticles = catchAsync(async (req, res, next) => {

@@ -103,4 +103,20 @@ module.exports = class Email {
     };
     await this.newTransporter().sendMail(mailOptions);
   }
+  async sendNotification(template, subject) {
+    const html = pug.renderFile(`${__dirname}/../views/${template}.pug`, {
+      firstName: this.firstName,
+      subject,
+    });
+
+    //2)Define the email options
+    const mailOptions = {
+      from: this.from,
+      to: this.to,
+      html,
+      subject,
+      text: htmlToText.convert(html), // to convert html into string
+    };
+    await this.newTransporter().sendMail(mailOptions);
+  }
 };

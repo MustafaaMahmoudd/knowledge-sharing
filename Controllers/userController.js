@@ -9,6 +9,7 @@ const catchAsync = require('../utilities/catchAsync');
 const multer = require('multer');
 const mongoose = require('mongoose');
 const sharp = require('sharp');
+const Email = require('../utilities/email');
 
 exports.getAllUsers = catchAsync(async (req, res, next) => {
   const users = await User.find({ role: { $ne: 'Admin' } });
@@ -225,6 +226,10 @@ exports.verifyExpert = catchAsync(async (req, res, next) => {
   console.log(expert);
   expert.verifiedAsExpert = true;
   await expert.save({ validateBeforeSave: false });
+  await new Email(expert).sendNotification(
+    'verify',
+    'Role verified successfully'
+  );
   res.status(201).json({
     status: 'success',
     message: 'role has been verified successfully',
