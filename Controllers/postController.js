@@ -53,6 +53,13 @@ exports.createPost = catchAsync(async (req, res, next) => {
 
 exports.deletePost = catchAsync(async (req, res, next) => {
   const post = await Post.findOne({ _id: req.params.id });
+  if(req.user.role==="Admin"){
+    await Post.deleteOne({_id:post._id});
+    return res.status(200).json({
+      status: 'success',
+      message: ' post deleted successfully',
+    });
+  }
   if (post.user.equals(req.user._id)) {
     await Post.deleteOne({ _id: post._id });
     return res.status(200).json({

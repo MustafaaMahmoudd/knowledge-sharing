@@ -11,7 +11,7 @@ const mongoose = require('mongoose');
 const sharp = require('sharp');
 
 exports.getAllUsers = catchAsync(async (req, res, next) => {
-  const users = await User.find({role:{$ne:'Admin'}});
+  const users = await User.find({ role: { $ne: 'Admin' } });
   users.forEach((el) => {
     el.photo = `${req.protocol}://${req.get('host')}/img/users/${el.photo}`;
     if (el.file) {
@@ -22,7 +22,7 @@ exports.getAllUsers = catchAsync(async (req, res, next) => {
     status: 'success',
     data: {
       users,
-      number:users.length
+      number: users.length,
     },
   });
 });
@@ -31,9 +31,9 @@ exports.getAllUnverifiedExperts = catchAsync(async (req, res, next) => {
   const users = await User.find({
     verifiedAsExpert: false,
   });
-  users.forEach(user=>{
-    user.file=`${req.protocol}://${req.get('host')}/files/${user.file}`;
-  })
+  users.forEach((user) => {
+    user.file = `${req.protocol}://${req.get('host')}/files/${user.file}`;
+  });
   res.status(200).json({
     status: 'success',
     data: {
@@ -79,10 +79,10 @@ exports.deleteUser = catchAsync(async (req, res, next) => {
       // Delete the user and all associated posts within a transaction
       await User.findByIdAndDelete(req.params.id).session(sessionOne);
       await Post.deleteMany({ user: req.params.id }).session(sessionOne);
-      
-      const comments=await Comment.find({user:req.params.id});
-      if(comments.length>0){
-        await Comment.deleteMany({user:req.params.id}).session(sessionOne);
+
+      const comments = await Comment.find({ user: req.params.id });
+      if (comments.length > 0) {
+        await Comment.deleteMany({ user: req.params.id }).session(sessionOne);
       }
 
       // Commit the transaction if all operations are successful
@@ -249,19 +249,18 @@ exports.deleteUnVerifiedUsers = catchAsync(async (req, res, next) => {
   });
 });
 
-
-exports.updateUser=catchAsync(async(req,res,next)=>{
-  if(req.user.role != "Admin"){
-    return new AppError('your are not allowed to edit this user',403);
+exports.updateUser = catchAsync(async (req, res, next) => {
+  if (req.user.role != 'Admin') {
+    return new AppError('your are not allowed to edit this user', 403);
   }
-  const user=await User.findByIdAndUpdate(req.params.id,req.body,{
-    new:true,
-    runValidators:true
-  })
+  const user = await User.findByIdAndUpdate(req.params.id, req.body, {
+    new: true,
+    runValidators: true,
+  });
   res.status(200).json({
-    status:'success',
-    data:{
-      user
-    }
-  })
-})
+    status: 'success',
+    data: {
+      user,
+    },
+  });
+});
