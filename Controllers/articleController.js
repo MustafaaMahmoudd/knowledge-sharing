@@ -7,7 +7,12 @@ const { findByIdAndUpdate } = require('../Models/postsModel');
 
 exports.getAllArticles = catchAsync(async (req, res, next) => {
   if (!req.track) {
-    const articles = await Article.find();
+    let articles = await Article.find();
+    articles.forEach((article) => {
+      article.user.photo = `${req.protocol}://${req.get('host')}/img/users/${
+        article.user.photo
+      }`;
+    });
     return res.status(200).json({
       status: 'success',
       data: {
@@ -16,6 +21,11 @@ exports.getAllArticles = catchAsync(async (req, res, next) => {
     });
   }
   const articles = await Article.find({ track: req.track._id });
+  articles.forEach((article) => {
+    article.user.photo = `${req.protocol}://${req.get('host')}/img/users/${
+      article.user.photo
+    }`;
+  });
   if (!articles) {
     next(new AppError('There are no articles!', 404));
   }
@@ -28,7 +38,9 @@ exports.getAllArticles = catchAsync(async (req, res, next) => {
 });
 exports.getOne = catchAsync(async (req, res, next) => {
   const article = await Article.findOne({ _id: req.params.id });
-  article.user.photo=`${req.protocol}://${req.get('host')}/img/users/${article.user.photo}`
+  article.user.photo = `${req.protocol}://${req.get('host')}/img/users/${
+    article.user.photo
+  }`;
   if (!article) return next(new AppError('There is no such a article !', 404));
   res.status(200).json({
     status: 'success',
@@ -40,8 +52,8 @@ exports.getOne = catchAsync(async (req, res, next) => {
 exports.createArticle = catchAsync(async (req, res, next) => {
   req.body.track = req.track._id;
   req.body.user = req.user._id;
-  if(req.file){
-    req.body.photo=req.file.filename
+  if (req.file) {
+    req.body.photo = req.file.filename;
   }
   const article = await Article.create(req.body);
   res.status(201).json({
@@ -55,11 +67,13 @@ exports.createArticle = catchAsync(async (req, res, next) => {
 exports.updateArticle = catchAsync(async (req, res, next) => {
   let article = await Article.findOne({ _id: req.params.id });
   if (article.user._id.equals(req.user._id)) {
-    article=await Article.findByIdAndUpdate(article._id,req.body,{
-      new:true,
-      runValidators:true,
-    })
-    article.user.photo=`${req.protocol}://${req.get('host')}/img/users/${article.user.photo}`
+    article = await Article.findByIdAndUpdate(article._id, req.body, {
+      new: true,
+      runValidators: true,
+    });
+    article.user.photo = `${req.protocol}://${req.get('host')}/img/users/${
+      article.user.photo
+    }`;
     return res.status(200).json({
       status: 'success',
       data: {
@@ -73,8 +87,8 @@ exports.updateArticle = catchAsync(async (req, res, next) => {
 
 exports.deleteArticle = catchAsync(async (req, res, next) => {
   const article = await Article.findOne({ _id: req.params.id });
-  if(req.user.role==="Admin"){
-    await Article.deleteOne({_id:article._id});
+  if (req.user.role === 'Admin') {
+    await Article.deleteOne({ _id: article._id });
     return res.status(200).json({
       status: 'success',
       message: ' Article deleted successfully',
@@ -102,7 +116,7 @@ exports.sendArticles = catchAsync(async (req, res, next) => {
   let ar;
   for (ar of req.fields) {
     console.log(ar.emails);
-    articles = await Article.find({ track: ar._id,send:false});
+    articles = await Article.find({ track: ar._id, send: false });
     console.log(articles);
     let el;
 
@@ -111,16 +125,16 @@ exports.sendArticles = catchAsync(async (req, res, next) => {
     //     el.user.photo
     //   }`;
     // }
-      // el.send = true;
-      // await el.save({ validateBeforeSave: false }); // No need for { validateBeforeSave: false }
-      await new Email().sendArticles(
-        req,
-        'Weekly newsLetters',
-        'articlesEmail',
-        articles,
-        ar.emails
-      );
-      await Article.updateMany({track:ar._id},{$set:{send:true}})
+    // el.send = true;
+    // await el.save({ validateBeforeSave: false }); // No need for { validateBeforeSave: false }
+    await new Email().sendArticles(
+      req,
+      'Weekly newsLetters',
+      'articlesEmail',
+      articles,
+      ar.emails
+    );
+    await Article.updateMany({ track: ar._id }, { $set: { send: true } });
   }
   // });
   res.status(200).json({
