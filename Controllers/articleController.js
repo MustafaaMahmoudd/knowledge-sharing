@@ -20,8 +20,9 @@ exports.getAllArticles = catchAsync(async (req, res, next) => {
       },
     });
   }
-  const articles = await Article.find({ track: req.track._id });
+  let articles = await Article.find({ track: req.track._id });
   articles.forEach((article) => {
+    if(!article.user.photo.startsWith(`${req.protocol}://${req.get('host')}`))
     article.user.photo = `${req.protocol}://${req.get('host')}/img/users/${
       article.user.photo
     }`;

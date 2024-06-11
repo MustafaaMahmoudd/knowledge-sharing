@@ -35,3 +35,20 @@ exports.getSteps = catchAsync(async (req, res, next) => {
     // books
   });
 });
+
+
+exports.updateSubTracks = catchAsync(async (req, res, next) => {
+
+  // const subTrack=SubTrack.findByIdAndUpdate(req.params.id,req.body,{
+  //   new:true,
+  //   runValidators:true,
+  // })
+  const subTrack=SubTrack.updateOne({$set:{show:!show}});
+  res.status(200).json({
+    status: 'success',
+    length: subTracks.length,
+    data: {
+      finalSubTracks,
+    },
+  });
+});
